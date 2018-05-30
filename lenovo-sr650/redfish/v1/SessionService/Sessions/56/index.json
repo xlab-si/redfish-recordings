@@ -1,0 +1,1 @@
+{"@odata.id":"/redfish/v1/SessionService/Sessions/56","Password":"******","@odata.type":"#Session.v1_1_0.Session","Id":"56","@odata.context":"/redfish/v1/$metadata#Session.Session","@odata.etag":"W/\"19a5772f0372a38ec7b2350d36884294\"","Name":"56","UserName":"testing"}
