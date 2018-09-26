@@ -1,0 +1,31 @@
+{
+  "@odata.id": "/redfish/v1/Chassis/Block-1-2",
+  "ChassisType": "Enclosure",
+  "Description": "G5 Block Chassis",
+  "Id": "Block-1-2",
+  "Links": {
+    "ContainedBy": {
+      "@odata.id": "/redfish/v1/Chassis/Rack-1"
+    },
+    "Contains": [
+      {
+        "@odata.id": "/redfish/v1/Chassis/Sled-1-2-1"
+      }
+    ]
+  },
+  "Location": {
+    "Placement": {
+      "Rack": "Rack-1"
+    }
+  },
+  "Manufacturer": "Dell",
+  "Model": "G5 Block",
+  "Name": "G5_Block",
+  "PartNumber": "93j4fo3hn4f",
+  "PowerState": "On",
+  "SerialNumber": "12",
+  "Status": {
+    "Health": "OK",
+    "State": "Enabled"
+  }
+}

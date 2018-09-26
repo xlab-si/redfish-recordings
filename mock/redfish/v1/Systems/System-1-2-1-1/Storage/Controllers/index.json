@@ -1,0 +1,11 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Storage/Controllers",
+  "Description": "Collection of Controllers for this system",
+  "Members": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Storage/Controllers/AHCI.Embedded.1-1"
+    }
+  ],
+  "Members@odata.count": 1,
+  "Name": "Simple Storage Collection"
+}

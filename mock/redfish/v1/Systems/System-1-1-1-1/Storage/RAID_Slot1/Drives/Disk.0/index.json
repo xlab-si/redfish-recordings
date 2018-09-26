@@ -1,0 +1,28 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/Storage/RAID_Slot1/Drives/Disk.0",
+  "BlockSizeBytes": 512,
+  "CapableSpeedGbs": 6,
+  "CapacityBytes": 1920383410176,
+  "Description": "This resource is used to represent a drive for a Redfish implementation.",
+  "FailurePredicted": false,
+  "Id": "Disk.0",
+  "Identifiers": [
+    {
+      "DurableName": "9847693487",
+      "DurableNameFormat": "UUID"
+    }
+  ],
+  "Manufacturer": "ATA",
+  "MediaType": null,
+  "Model": "",
+  "Name": "MTFDDAK1T9TCB-1AR1ZA",
+  "PartNumber": "D7A09328",
+  "Protocol": "SATA",
+  "Revision": "MD44",
+  "RotationSpeedRPM": 65535,
+  "SerialNumber": "984576947398476589",
+  "Status": {
+    "Health": "OK",
+    "State": "Enabled"
+  }
+}

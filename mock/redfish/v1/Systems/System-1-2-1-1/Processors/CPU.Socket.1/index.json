@@ -1,0 +1,31 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Processors/CPU.Socket.1",
+  "Description": "Represents the properties of a Processor attached to this System",
+  "Id": "CPU.Socket.1",
+  "InstructionSet": [
+    {
+      "Member": "x86-64"
+    }
+  ],
+  "Manufacturer": "Intel",
+  "MaxSpeedMHz": 4000,
+  "Model": "",
+  "Name": "CPU 1",
+  "ProcessorArchitecture": [
+    {
+      "Member": "x86"
+    }
+  ],
+  "ProcessorId": {
+    "EffectiveFamily": "6",
+    "EffectiveModel": "85",
+    "IdentificationRegisters": "0x00050652",
+    "MicrocodeInfo": null,
+    "Step": "2",
+    "VendorId": "GenuineIntel"
+  },
+  "ProcessorType": "CPU",
+  "Socket": "CPU.Socket.1",
+  "TotalCores": 20,
+  "TotalThreads": 40
+}

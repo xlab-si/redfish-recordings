@@ -1,0 +1,26 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay0",
+  "CapacityBytes": 128000000000,
+  "Description": "This resource is used to represent a drive for a Redfish implementation.",
+  "FailurePredicted": false,
+  "Id": "Drive.M.2_Bay0",
+  "Identifiers": [
+    {
+      "DurableName": "1234567890",
+      "DurableNameFormat": "UUID"
+    }
+  ],
+  "Manufacturer": "LEN",
+  "MediaType": "SSD",
+  "Model": "LITEON CV3-8D128",
+  "Name": "128GB M.2 SATA SSD",
+  "PartNumber": "SSD0L20505",
+  "Protocol": "SATA",
+  "Revision": "T87RA34 ",
+  "RotationSpeedRPM": 0,
+  "SerialNumber": "83465192783",
+  "Status": {
+    "Health": "OK",
+    "State": "Enabled"
+  }
+}

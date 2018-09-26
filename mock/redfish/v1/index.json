@@ -1,0 +1,22 @@
+{
+  "@odata.id": "/redfish/v1/",
+  "Chassis": {
+    "@odata.id": "/redfish/v1/Chassis"
+  },
+  "EventService": {
+    "@odata.id": "/redfish/v1/EventService"
+  },
+  "Id": "RootService",
+  "Links": {
+    "Sessions": {
+      "@odata.id": "/redfish/v1/SessionService/Sessions"
+    }
+  },
+  "Name": "RackManager Root Service",
+  "SessionService": {
+    "@odata.id": "/redfish/v1/SessionService"
+  },
+  "Systems": {
+    "@odata.id": "/redfish/v1/Systems"
+  }
+}

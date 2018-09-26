@@ -1,0 +1,12 @@
+{
+    "GET": {
+        "Allow": "GET",
+        "Server": "Werkzeug/0.12.2 Python/3.4.5",
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": "240",
+        "HttpHeaderServer": "RedDrumHttpd",
+        "OData-Version": "4.0",
+        "Date": "Thu, 07 Sep 2017 21:31:22 GMT",
+        "HttpHeaderCacheControl": "no-store"
+    }
+}

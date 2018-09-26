@@ -1,0 +1,13 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/",
+  "Description": "A Collection of Storage resource instances.",
+  "Members": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/RAID_Slot1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/M.2_Slot8"
+    }
+  ],
+  "Members@odata.count": 2
+}

@@ -1,0 +1,40 @@
+{
+  "@odata.id": "/redfish/v1/Chassis/Rack-2",
+  "Actions": {
+    "#Chassis.Reset": {
+      "ResetType@Redfish.AllowableValues": [
+        "On",
+        "ForceOff",
+        "GracefulShutdown"
+      ],
+      "target": "/redfish/v1/Chassis/Rack-2/Actions/Chassis.Reset"
+    }
+  },
+  "ChassisType": "Rack",
+  "Id": "Rack-2",
+  "Links": {
+    "Contains": [
+      {
+        "@odata.id": "/redfish/v1/Chassis/Block-2-1"
+      }
+    ]
+  },
+  "Location": {
+    "PostalAddress": {
+      "City": "Chesapeake",
+      "Country": "VA",
+      "HouseNumber": "123",
+      "Street": "Adams Ave."
+    }
+  },
+  "Manufacturer": "Dell",
+  "Model": "DSS9000",
+  "Name": "G5_Rack",
+  "PowerState": "On",
+  "SerialNumber": "2",
+  "Status": {
+    "Health": "OK",
+    "HealthRollup": "OK",
+    "State": "Enabled"
+  }
+}

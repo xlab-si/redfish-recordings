@@ -1,0 +1,27 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Processors/2",
+  "Description": "This resource is used to represent a processor for a Redfish implementation.",
+  "Id": "2",
+  "InstructionSet": "x86-64",
+  "Manufacturer": "Intel(R) Corporation",
+  "MaxSpeedMHz": 3700,
+  "Model": "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz",
+  "Name": "Processor 2",
+  "ProcessorArchitecture": "x86",
+  "ProcessorId": {
+    "EffectiveFamily": "0x06",
+    "EffectiveModel": "0x55",
+    "IdentificationRegisters": "0x00050654bfebfbff",
+    "MicrocodeInfo": null,
+    "Step": "0x04",
+    "VendorId": "GenuineIntel"
+  },
+  "ProcessorType": "CPU",
+  "Socket": "CPU 2",
+  "Status": {
+    "Health": "OK",
+    "State": "Enabled"
+  },
+  "TotalCores": 12,
+  "TotalThreads": 24
+}

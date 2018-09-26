@@ -1,0 +1,63 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-2-1-1",
+  "Actions": {
+    "#ComputerSystem.Reset": {
+      "ResetType@Redfish.AllowableValues": [
+        "On",
+        "ForceOff",
+        "GracefulRestart",
+        "GracefulShutdown",
+        "PushPowerButton",
+        "Nmi"
+      ],
+      "target": "/redfish/v1/Systems/System-1-2-1-1/Actions/ComputerSystem.Reset"
+    }
+  },
+  "HostName": "hostname.example.com",
+  "Id": "System-1-2-1-1",
+  "IndicatorLED": "Blinking",
+  "Links": {
+    "Chassis": [
+      {
+        "@odata.id": "/redfish/v1/Chassis/Sled-1-2-1"
+      }
+    ],
+    "Chassis@odata.count": 1
+  },
+  "Manufacturer": "Dell Inc.",
+  "MemorySummary": {
+    "MemoryMirroring": "System",
+    "Status": {
+      "Health": null,
+      "HealthRollup": null,
+      "State": "Enabled"
+    },
+    "TotalSystemMemoryGiB": 32
+  },
+  "Model": "DSS9630M",
+  "Name": "System",
+  "PartNumber": "033RF3X04",
+  "PowerState": "On",
+  "ProcessorSummary": {
+    "Count": 2,
+    "Model": "",
+    "Status": {
+      "Health": null,
+      "HealthRollup": null,
+      "State": "Enabled"
+    }
+  },
+  "Processors": {
+    "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Processors"
+  },
+  "SerialNumber": "945hjf0927mf",
+  "SimpleStorage": {
+    "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Storage/Controllers"
+  },
+  "Status": {
+    "Health": "Critical",
+    "State": "Disabled"
+  },
+  "SystemType": "Physical",
+  "UUID": "ffffffff-ffff-ffff-ffff-ffffffffffff"
+}

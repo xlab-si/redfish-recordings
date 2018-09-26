@@ -1,0 +1,23 @@
+{
+  "@odata.id": "/redfish/v1/EventService/",
+  "DeliveryRetryAttempts": 3,
+  "DeliveryRetryIntervalSeconds": 60,
+  "EventTypesForSubscription": [
+    "Alert",
+    "ResourceAdded",
+    "ResourceRemoved",
+    "ResourceUpdated",
+    "StatusChange"
+  ],
+  "Id": "EventService",
+  "Name": "Event Service",
+  "ServerSentEventUri": "https://127.0.0.1:8001",
+  "ServiceEnabled": true,
+  "Status": {
+    "Health": "OK",
+    "State": "Enabled"
+  },
+  "Subscriptions": {
+    "@odata.id": "/redfish/v1/EventService/Subscriptions/"
+  }
+}

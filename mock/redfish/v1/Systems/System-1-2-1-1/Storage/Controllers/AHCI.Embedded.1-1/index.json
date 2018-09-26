@@ -1,0 +1,25 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Storage/Controllers/AHCI.Embedded.1-1",
+  "Description": "Simple Storage Controller",
+  "Devices": [
+    {
+      "Name": "Simple storage device 1",
+      "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+      },
+      "CapacityBytes": 274877906944
+    },
+    {
+      "Name": "Simple storage device 2",
+      "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+      },
+      "CapacityBytes": 137438953472
+    }
+  ],
+  "Devices@odata.count": 2,
+  "Id": "AHCI.Embedded.1-1",
+  "Name": "Lewisburg SSATA Controller [AHCI mode]"
+}

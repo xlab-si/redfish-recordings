@@ -1,0 +1,30 @@
+{
+  "@odata.id": "/redfish/v1/Chassis",
+  "Members": [
+    {
+      "@odata.id": "/redfish/v1/Chassis/Rack-1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Block-1-1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Sled-1-1-2"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Block-1-2"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Sled-1-2-1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Rack-2"
+    },
+    {
+      "@odata.id": "/redfish/v1/Chassis/Block-2-1"
+    }
+  ],
+  "Members@odata.count": 8
+}

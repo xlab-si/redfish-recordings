@@ -1,0 +1,30 @@
+{
+  "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1",
+  "ChassisType": "Sled",
+  "Description": "G5 Sled-Level Enclosure",
+  "Id": "Sled-1-1-1",
+  "IndicatorLED": "Blinking",
+  "Links": {
+    "ComputerSystems": [
+      {
+        "@odata.id": "/redfish/v1/Systems/System-1-1-1-1"
+      },
+      {
+        "@odata.id": "/redfish/v1/Systems/System-1-1-1-2"
+      }
+    ],
+    "ContainedBy": {
+      "@odata.id": "/redfish/v1/Chassis/Block-1-1"
+    }
+  },
+  "Manufacturer": "Dell",
+  "Model": "DSS9630M",
+  "Name": "G5_Sled",
+  "PartNumber": "cnwo8hfn4",
+  "PowerState": "Off",
+  "SerialNumber": "h894hf5n926h",
+  "Status": {
+    "Health": "Warning",
+    "State": "StandbyOffline"
+  }
+}

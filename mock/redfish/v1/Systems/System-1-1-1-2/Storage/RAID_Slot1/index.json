@@ -1,0 +1,23 @@
+{
+  "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/RAID_Slot1/",
+  "Description": "This resource is used to represent a storage for a Redfish implementation.",
+  "Drives": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/RAID_Slot1/Drives/Disk.0"
+    },
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/RAID_Slot1/Drives/Disk.1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/Storage/RAID_Slot1/Drives/Disk.2"
+    }
+  ],
+  "Drives@odata.count": 3,
+  "Id": "RAID_Slot1",
+  "Name": "RAID Storage",
+  "Status": {
+    "Health": "OK",
+    "HealthRollup": "OK",
+    "State": "Enabled"
+  }
+}
