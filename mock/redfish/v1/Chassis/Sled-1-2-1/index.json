@@ -8,9 +8,6 @@
     "ComputerSystems": [
       {
         "@odata.id": "/redfish/v1/Systems/System-1-2-1-1"
-      },
-      {
-        "@odata.id": "/redfish/v1/Systems/System-1-2-1-2"
       }
     ],
     "ContainedBy": {
