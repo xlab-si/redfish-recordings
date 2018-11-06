@@ -5,11 +5,6 @@
   "Id": "Sled-1-1-2",
   "IndicatorLED": "Off",
   "Links": {
-    "ComputerSystems": [
-      {
-        "@odata.id": "/redfish/v1/Systems/System-1-1-2-1"
-      }
-    ],
     "ContainedBy": {
       "@odata.id": "/redfish/v1/Chassis/Block-1-1"
     }
