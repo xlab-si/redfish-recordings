@@ -12,6 +12,22 @@
       "target": "/redfish/v1/Systems/System-1-1-1-1/Actions/ComputerSystem.Reset"
     }
   },
+  "Boot": {
+    "BootOrder": [
+      "Hdd",
+      "Cd",
+      "Usb"
+    ],
+    "BootSourceOverrideEnabled": "Disabled",
+    "BootSourceOverrideEnabled@Redfish.AllowableValues": [
+      "Continuous",
+      "Disabled",
+      "Once"
+    ],
+    "BootSourceOverrideMode": "Legacy",
+    "BootSourceOverrideTarget": "Hdd",
+    "UefiTargetBootSourceOverride": null
+  },
   "Description": "G5 Computer System Node",
   "Id": "System-1-1-1-1",
   "IndicatorLED": "Off",
@@ -32,7 +48,7 @@
   },
   "Model": "DSS9630M",
   "Name": "G5 Computer System",
-  "PowerState": "PoweringOn",
+  "PowerState": "On",
   "ProcessorSummary": {
     "Count": 2,
     "Model": "",
