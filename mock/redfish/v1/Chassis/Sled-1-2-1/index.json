@@ -18,6 +18,7 @@
   "Model": "DSS9630M",
   "Name": "G5_Sled",
   "PowerState": "Off",
+  "SerialNumber": "h772hf8n334a",
   "Status": {
     "Health": "OK",
     "State": "StandbyOffline"
