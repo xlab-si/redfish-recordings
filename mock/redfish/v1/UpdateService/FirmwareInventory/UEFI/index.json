@@ -1,0 +1,14 @@
+{
+  "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/UEFI",
+  "Description": "The information on UEFI.",
+  "Id": "UEFI",
+  "Name": "UEFI",
+  "RelatedItem": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-2-1-1"
+    }
+  ],
+  "RelatedItem@odata.count": 1,
+  "SoftwareId": "MyGTH-76",
+  "Version": "2.50.4a"
+}

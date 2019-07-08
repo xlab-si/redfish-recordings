@@ -19,5 +19,15 @@
     "Health": "OK",
     "HealthRollup": "OK",
     "State": "Enabled"
-  }
+  },
+  "StorageControllers": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/Storage/RAID_Slot1#/StorageControllers/0",
+      "FirmwareVersion": "50.3.0-1075",
+      "Manufacturer": "Contoso",
+      "Model": "SAS3508+SAS35x36",
+      "Name": "RAID Storage Adapter"
+    }
+  ],
+  "StorageControllers@odata.count": 1
 }

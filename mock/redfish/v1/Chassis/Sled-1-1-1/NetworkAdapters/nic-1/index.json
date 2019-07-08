@@ -1,0 +1,7 @@
+{
+  "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1/NetworkAdapters/nic-1",
+  "Id": "nic-1",
+  "Manufacturer": "Intel",
+  "Model": "Contoso X",
+  "Name": "Intel X722 LOM (onboard)"
+}

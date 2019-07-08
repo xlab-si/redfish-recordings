@@ -1,0 +1,16 @@
+{
+  "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/",
+  "Members": [
+    {
+      "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Bios"
+    },
+    {
+      "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/NIC-drvs"
+    },
+    {
+      "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/UEFI"
+    }
+  ],
+  "Members@odata.count": 3,
+  "Name": "SoftwareInventoryCollection"
+}

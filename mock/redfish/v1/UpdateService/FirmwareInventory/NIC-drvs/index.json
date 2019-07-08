@@ -1,0 +1,8 @@
+{
+  "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/NIC-drvs",
+  "Description": "The information on NIC drivers.",
+  "Id": "NIC-drvs",
+  "Name": "NIC-drvs",
+  "SoftwareId": "NIC-45-HJK",
+  "Version": "5.32.5"
+}

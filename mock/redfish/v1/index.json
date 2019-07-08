@@ -18,5 +18,8 @@
   },
   "Systems": {
     "@odata.id": "/redfish/v1/Systems"
+  },
+  "UpdateService": {
+    "@odata.id": "/redfish/v1/UpdateService"
   }
 }

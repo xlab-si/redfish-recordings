@@ -1,0 +1,17 @@
+{
+  "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Bios",
+  "Description": "The information on Bios firmware.",
+  "Id": "Bios",
+  "Name": "Bios",
+  "RelatedItem": [
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-1"
+    },
+    {
+      "@odata.id": "/redfish/v1/Systems/System-1-1-1-2"
+    }
+  ],
+  "RelatedItem@odata.count": 2,
+  "SoftwareId": "IVE1",
+  "Version": "1.20"
+}

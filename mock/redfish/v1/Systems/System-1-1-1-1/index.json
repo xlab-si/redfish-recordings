@@ -48,7 +48,10 @@
   },
   "Model": "DSS9630M",
   "Name": "G5 Computer System",
-  "PowerState": "On",
+  "NetworkInterfaces": {
+    "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/NetworkInterfaces"
+  },
+  "PowerState": "PoweringOn",
   "ProcessorSummary": {
     "Count": 2,
     "Model": "",

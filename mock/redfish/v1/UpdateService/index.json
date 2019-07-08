@@ -1,0 +1,8 @@
+{
+  "@odata.id": "/redfish/v1/UpdateService",
+  "FirmwareInventory": {
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory"
+  },
+  "Id": "UpdateService",
+  "Name": "Update Service"
+}

@@ -20,6 +20,9 @@
   "Manufacturer": "Dell",
   "Model": "DSS9630M",
   "Name": "G5_Sled",
+  "NetworkAdapters": {
+    "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1/NetworkAdapters"
+  },
   "PartNumber": "cnwo8hfn4",
   "PowerState": "Off",
   "SerialNumber": "h894hf5n926h",

@@ -1,0 +1,11 @@
+{
+  "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1/NetworkAdapters/",
+  "Description": "A Collection of NetworkAdapter resource instances.",
+  "Members": [
+    {
+      "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1/NetworkAdapters/nic-1"
+    }
+  ],
+  "Members@odata.count": 1,
+  "Name": "NetworkAdapterCollection"
+}
