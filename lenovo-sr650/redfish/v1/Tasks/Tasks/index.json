@@ -1,1 +1,11 @@
-{"@odata.id":"/redfish/v1/Tasks/Tasks/","Members@odata.count":0,"@odata.context":"/redfish/v1/$metadata#TaskCollection.TaskCollection","Members":[],"@odata.type":"#TaskCollection.TaskCollection","Members@odata.navigationLink":"/redfish/v1/Tasks/Tasks/Members","@odata.etag":"W/\"796d3148ac8ff8c6cb78f187795a70a7\"","Name":"Task Collection","Description":"A Collection of Task resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#TaskCollection.TaskCollection",
+    "@odata.etag": "W/\"796d3148ac8ff8c6cb78f187795a70a7\"",
+    "@odata.id": "/redfish/v1/Tasks/Tasks/",
+    "@odata.type": "#TaskCollection.TaskCollection",
+    "Description": "A Collection of Task resource instances.",
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/Tasks/Tasks/Members",
+    "Name": "Task Collection"
+}

@@ -1,1 +1,26 @@
-{"Links":{"Chassis":{"@odata.id":"/redfish/v1/Chassis/1/"},"HostInterface":{"@odata.id":"/redfish/v1/Managers/1/HostInterfaces/1/"}},"Id":"ToManager","InterfaceEnabled":true,"MACAddress":"7e:d3:0a:54:f0:27","Name":"Host Ethernet Interface","@odata.context":"/redfish/v1/$metadata#EthernetInterface.EthernetInterface","SpeedMbps":100,"@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/ToManager","@odata.type":"#EthernetInterface.v1_3_0.EthernetInterface","Status":{"State":"Enabled","Health":null},"LinkStatus":"LinkUp","@odata.etag":"W/\"6bc48d2cbaca828b565da21aa973201b\"","PermanentMACAddress":"7e:d3:0a:54:f0:27","Description":"Host Network Interface"}
+{
+    "@odata.context": "/redfish/v1/$metadata#EthernetInterface.EthernetInterface",
+    "@odata.etag": "W/\"6bc48d2cbaca828b565da21aa973201b\"",
+    "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/ToManager",
+    "@odata.type": "#EthernetInterface.v1_3_0.EthernetInterface",
+    "Description": "Host Network Interface",
+    "Id": "ToManager",
+    "InterfaceEnabled": true,
+    "LinkStatus": "LinkUp",
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        },
+        "HostInterface": {
+            "@odata.id": "/redfish/v1/Managers/1/HostInterfaces/1/"
+        }
+    },
+    "MACAddress": "7e:d3:0a:54:f0:27",
+    "Name": "Host Ethernet Interface",
+    "PermanentMACAddress": "7e:d3:0a:54:f0:27",
+    "SpeedMbps": 100,
+    "Status": {
+        "Health": null,
+        "State": "Enabled"
+    }
+}

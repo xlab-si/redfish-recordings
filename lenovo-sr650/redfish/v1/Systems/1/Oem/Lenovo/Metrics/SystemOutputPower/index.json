@@ -1,1 +1,2171 @@
-{"@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/Metrics/SystemOutputPower","Container":[{"Timestamp":"30 May 2018, 13:27:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:27:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:27:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:27:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:27:00.000 PM","MetricValue":177,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:27:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:26:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:26:30.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:26:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:26:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:26:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:26:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:25:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:25:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:25:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:25:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:25:00.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:25:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:24:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:24:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:24:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:24:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:24:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:24:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:23:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:23:30.000 PM","MetricValue":174,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:23:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:23:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:23:00.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:23:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:22:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:22:30.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:22:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:22:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:22:00.000 PM","MetricValue":170,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:22:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:21:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:21:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:21:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:21:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:21:00.000 PM","MetricValue":176,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:21:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:20:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:20:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:20:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:20:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:20:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:20:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:19:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:19:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:19:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:19:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:19:00.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:19:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:18:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:18:30.000 PM","MetricValue":174,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:18:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:18:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:18:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:18:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:17:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:17:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:17:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:17:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:17:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:17:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:16:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:16:30.000 PM","MetricValue":187,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:16:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:16:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:16:00.000 PM","MetricValue":179,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:16:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:15:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:15:30.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:15:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:15:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:15:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:15:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:14:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:14:30.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:14:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:14:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:14:00.000 PM","MetricValue":174,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:14:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:13:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:13:30.000 PM","MetricValue":176,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:13:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:13:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:13:00.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:13:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:12:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:12:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:12:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:12:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:12:00.000 PM","MetricValue":177,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:12:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:11:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:11:30.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:11:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:11:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:11:00.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:11:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:10:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:10:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:10:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:10:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:10:00.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:10:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:09:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:09:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:09:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:09:00.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:09:00.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:09:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:08:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:08:30.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:08:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:08:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:08:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:08:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:07:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:07:30.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:07:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:07:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:07:00.000 PM","MetricValue":183,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:07:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:06:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:06:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:06:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:06:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:06:00.000 PM","MetricValue":183,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:06:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:05:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:05:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:05:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:05:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:05:00.000 PM","MetricValue":179,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:05:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:04:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:04:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:04:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:04:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:04:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:04:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:03:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:03:30.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:03:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:03:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:03:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:03:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:02:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:02:30.000 PM","MetricValue":176,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:02:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:02:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:02:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:02:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:01:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:01:30.000 PM","MetricValue":181,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:01:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:01:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:01:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:01:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:00:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:00:30.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:00:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 13:00:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 13:00:00.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 13:00:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:59:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:59:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:59:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:59:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:59:00.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:59:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:58:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:58:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:58:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:58:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:58:00.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:58:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:57:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:57:30.000 PM","MetricValue":170,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:57:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:57:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:57:00.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:57:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:56:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:56:30.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:56:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:56:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:56:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:56:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:55:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:55:30.000 PM","MetricValue":176,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:55:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:55:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:55:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:55:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:54:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:54:30.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:54:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:54:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:54:00.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:54:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:53:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:53:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:53:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:53:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:53:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:53:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:52:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:52:30.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:52:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:52:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:52:00.000 PM","MetricValue":177,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:52:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:51:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:51:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:51:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:51:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:51:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:51:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:50:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:50:30.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:50:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:50:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:50:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:50:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:49:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:49:30.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:49:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:49:00.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:49:00.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:49:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:48:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:48:30.000 PM","MetricValue":176,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:48:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:48:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:48:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:48:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:47:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:47:30.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:47:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:47:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:47:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:47:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:46:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:46:30.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:46:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:46:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:46:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:46:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:45:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:45:30.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:45:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:45:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:45:00.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:45:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:44:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:44:30.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:44:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:44:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:44:00.000 PM","MetricValue":180,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:44:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:43:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:43:30.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:43:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:43:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:43:00.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:43:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:42:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:42:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:42:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:42:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:42:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:42:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:41:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:41:30.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:41:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:41:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:41:00.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:41:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:40:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:40:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:40:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:40:00.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:40:00.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:40:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:39:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:39:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:39:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:39:00.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:39:00.000 PM","MetricValue":165,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:39:00.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:38:30.000 PM","MetricValue":161,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:38:30.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:38:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:38:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:38:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:38:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:37:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:37:30.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:37:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:37:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:37:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:37:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:36:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:36:30.000 PM","MetricValue":175,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:36:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:36:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:36:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:36:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:35:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:35:30.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:35:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:35:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:35:00.000 PM","MetricValue":167,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:35:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:34:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:34:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:34:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:34:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:34:00.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:34:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:33:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:33:30.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:33:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:33:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:33:00.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:33:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:32:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:32:30.000 PM","MetricValue":170,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:32:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:32:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:32:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:32:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:31:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:31:30.000 PM","MetricValue":170,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:31:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:31:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:31:00.000 PM","MetricValue":166,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:31:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:30:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:30:30.000 PM","MetricValue":172,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:30:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:30:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:30:00.000 PM","MetricValue":164,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:30:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:29:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:29:30.000 PM","MetricValue":173,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:29:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:29:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:29:00.000 PM","MetricValue":168,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:29:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:28:30.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:28:30.000 PM","MetricValue":171,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:28:30.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"},{"Timestamp":"30 May 2018, 12:28:00.000 PM","MetricValue":162,"Duration":"00:30","MetricType":"Min"},{"Timestamp":"30 May 2018, 12:28:00.000 PM","MetricValue":169,"Duration":"00:30","MetricType":"Max"},{"Timestamp":"30 May 2018, 12:28:00.000 PM","MetricValue":163,"Duration":"00:30","MetricType":"Avg"}],"@odata.type":"#LenovoHistoryMetricValueContainer.v1_0_0.LenovoHistoryMetricValueContainer","ContainerName":"SystemOutputPower","@odata.context":"/redfish/v1/$metadata#LenovoHistoryMetricValueContainer.LenovoHistoryMetricValueContainer","@odata.etag":"W/\"855f02a59e23572dff86c3586f956d47\"","Id":"SystemOutputPower","Description":"This resource is used to represent an array of history metric values in the container for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoHistoryMetricValueContainer.LenovoHistoryMetricValueContainer",
+    "@odata.etag": "W/\"855f02a59e23572dff86c3586f956d47\"",
+    "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/Metrics/SystemOutputPower",
+    "@odata.type": "#LenovoHistoryMetricValueContainer.v1_0_0.LenovoHistoryMetricValueContainer",
+    "Container": [
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:27:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 13:27:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:27:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:27:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 177,
+            "Timestamp": "30 May 2018, 13:27:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:27:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:26:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 13:26:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:26:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:26:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:26:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:26:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:25:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:25:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:25:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:25:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:25:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:25:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:24:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:24:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:24:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:24:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:24:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:24:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:23:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 174,
+            "Timestamp": "30 May 2018, 13:23:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:23:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:23:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 13:23:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:23:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:22:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 13:22:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:22:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:22:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 170,
+            "Timestamp": "30 May 2018, 13:22:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:22:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:21:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:21:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:21:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:21:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 176,
+            "Timestamp": "30 May 2018, 13:21:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:21:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:20:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:20:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:20:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:20:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 13:20:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:20:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 13:19:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:19:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 13:19:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:19:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 13:19:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:19:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 13:18:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 174,
+            "Timestamp": "30 May 2018, 13:18:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:18:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:18:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:18:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:18:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:17:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 13:17:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:17:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:17:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:17:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:17:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:16:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 187,
+            "Timestamp": "30 May 2018, 13:16:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:16:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:16:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 179,
+            "Timestamp": "30 May 2018, 13:16:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:16:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:15:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:15:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:15:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:15:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:15:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:15:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:14:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:14:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:14:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:14:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 174,
+            "Timestamp": "30 May 2018, 13:14:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:14:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:13:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 176,
+            "Timestamp": "30 May 2018, 13:13:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:13:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:13:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 13:13:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:13:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:12:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 13:12:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:12:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:12:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 177,
+            "Timestamp": "30 May 2018, 13:12:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:12:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:11:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 13:11:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:11:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:11:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 13:11:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:11:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:10:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:10:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:10:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:10:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 13:10:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:10:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:09:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:09:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:09:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 13:09:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 13:09:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:09:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:08:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 13:08:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:08:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:08:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:08:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:08:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 13:07:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 13:07:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:07:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:07:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 183,
+            "Timestamp": "30 May 2018, 13:07:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:07:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:06:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:06:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:06:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:06:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 183,
+            "Timestamp": "30 May 2018, 13:06:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:06:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:05:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:05:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:05:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:05:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 179,
+            "Timestamp": "30 May 2018, 13:05:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:05:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:04:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 13:04:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:04:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:04:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 13:04:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:04:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:03:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 13:03:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:03:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:03:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:03:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:03:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:02:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 176,
+            "Timestamp": "30 May 2018, 13:02:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:02:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:02:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:02:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:02:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:01:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 181,
+            "Timestamp": "30 May 2018, 13:01:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 13:01:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:01:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 13:01:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:01:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:00:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 13:00:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:00:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:00:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 13:00:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 13:00:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:59:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:59:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:59:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:59:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 12:59:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:59:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:58:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 12:58:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:58:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:58:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 12:58:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:58:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:57:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 170,
+            "Timestamp": "30 May 2018, 12:57:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:57:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:57:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 12:57:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:57:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:56:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:56:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:56:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:56:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:56:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:56:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:55:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 176,
+            "Timestamp": "30 May 2018, 12:55:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:55:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:55:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:55:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:55:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:54:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 12:54:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:54:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:54:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:54:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:54:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:53:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:53:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:53:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:53:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:53:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:53:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:52:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 12:52:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:52:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:52:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 177,
+            "Timestamp": "30 May 2018, 12:52:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:52:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:51:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:51:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:51:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:51:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:51:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:51:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:50:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 12:50:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:50:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:50:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:50:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:50:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:49:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 12:49:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:49:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:49:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 12:49:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:49:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:48:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 176,
+            "Timestamp": "30 May 2018, 12:48:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:48:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:48:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:48:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:48:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:47:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 12:47:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:47:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:47:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:47:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:47:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:46:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 12:46:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:46:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:46:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:46:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:46:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:45:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:45:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:45:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:45:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 12:45:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:45:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:44:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 12:44:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:44:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:44:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 180,
+            "Timestamp": "30 May 2018, 12:44:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:44:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:43:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 12:43:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:43:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:43:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:43:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:43:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:42:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 12:42:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:42:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:42:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:42:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:42:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:41:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 12:41:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:41:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:41:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:41:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:41:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:40:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 12:40:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:40:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:40:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 12:40:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:40:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:39:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 12:39:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:39:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:39:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 165,
+            "Timestamp": "30 May 2018, 12:39:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:39:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 161,
+            "Timestamp": "30 May 2018, 12:38:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:38:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:38:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:38:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:38:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:38:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:37:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:37:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:37:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:37:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:37:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:37:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:36:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 175,
+            "Timestamp": "30 May 2018, 12:36:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:36:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:36:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 12:36:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:36:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:35:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 12:35:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:35:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:35:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 167,
+            "Timestamp": "30 May 2018, 12:35:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:35:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:34:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:34:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:34:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:34:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:34:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:34:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:33:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:33:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:33:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:33:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 12:33:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:33:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:32:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 170,
+            "Timestamp": "30 May 2018, 12:32:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:32:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:32:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:32:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:32:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:31:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 170,
+            "Timestamp": "30 May 2018, 12:31:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:31:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:31:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 166,
+            "Timestamp": "30 May 2018, 12:31:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:31:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:30:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 172,
+            "Timestamp": "30 May 2018, 12:30:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:30:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:30:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 164,
+            "Timestamp": "30 May 2018, 12:30:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:30:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:29:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 173,
+            "Timestamp": "30 May 2018, 12:29:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:29:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:29:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 168,
+            "Timestamp": "30 May 2018, 12:29:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:29:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:28:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 171,
+            "Timestamp": "30 May 2018, 12:28:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:28:30.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Min",
+            "MetricValue": 162,
+            "Timestamp": "30 May 2018, 12:28:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Max",
+            "MetricValue": 169,
+            "Timestamp": "30 May 2018, 12:28:00.000 PM"
+        },
+        {
+            "Duration": "00:30",
+            "MetricType": "Avg",
+            "MetricValue": 163,
+            "Timestamp": "30 May 2018, 12:28:00.000 PM"
+        }
+    ],
+    "ContainerName": "SystemOutputPower",
+    "Description": "This resource is used to represent an array of history metric values in the container for a Redfish implementation.",
+    "Id": "SystemOutputPower"
+}

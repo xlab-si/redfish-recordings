@@ -1,1 +1,19 @@
-{"Members":[{"@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/ToManager"},{"@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/NIC1"},{"@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/NIC2"}],"@odata.type":"#EthernetInterfaceCollection.EthernetInterfaceCollection","@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/","Members@odata.count":3,"@odata.etag":"W/\"8a25c1359027e62406d9161d55841cea\"","Members@odata.navigationLink":"/redfish/v1/Systems/1/EthernetInterfaces/Members","@odata.context":"/redfish/v1/$metadata#EthernetInterfaceCollection.EthernetInterfaceCollection"}
+{
+    "@odata.context": "/redfish/v1/$metadata#EthernetInterfaceCollection.EthernetInterfaceCollection",
+    "@odata.etag": "W/\"8a25c1359027e62406d9161d55841cea\"",
+    "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/",
+    "@odata.type": "#EthernetInterfaceCollection.EthernetInterfaceCollection",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/ToManager"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/NIC1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/NIC2"
+        }
+    ],
+    "Members@odata.count": 3,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/1/EthernetInterfaces/Members"
+}

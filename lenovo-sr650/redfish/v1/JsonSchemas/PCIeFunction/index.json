@@ -1,1 +1,19 @@
-{"Schema":"#PCIeFunction.PCIeFunction","@odata.id":"/redfish/v1/JsonSchemas/PCIeFunction","Name":"PCIeFunction JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/PCIeFunction.json","Language":"en"}],"@odata.etag":"W/\"0743269ccfabb48a2c8c4c9c155eab1d\"","Id":"PCIeFunction","Description":"PCIeFunction schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"0743269ccfabb48a2c8c4c9c155eab1d\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/PCIeFunction",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "PCIeFunction schema information",
+    "Id": "PCIeFunction",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/PCIeFunction.json"
+        }
+    ],
+    "Name": "PCIeFunction JSON Schema File",
+    "Schema": "#PCIeFunction.PCIeFunction"
+}

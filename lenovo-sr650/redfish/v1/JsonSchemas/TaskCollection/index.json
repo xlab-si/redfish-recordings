@@ -1,1 +1,19 @@
-{"Schema":"#TaskCollection.TaskCollection","@odata.id":"/redfish/v1/JsonSchemas/TaskCollection","Name":"Task Collection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/TaskCollection.json","Language":"en"}],"@odata.etag":"W/\"2e6a686769b8c7c6e342fb031f995eb2\"","Id":"TaskCollection","Description":"Task Collection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"2e6a686769b8c7c6e342fb031f995eb2\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/TaskCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Task Collection schema information",
+    "Id": "TaskCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/TaskCollection.json"
+        }
+    ],
+    "Name": "Task Collection JSON Schema File",
+    "Schema": "#TaskCollection.TaskCollection"
+}

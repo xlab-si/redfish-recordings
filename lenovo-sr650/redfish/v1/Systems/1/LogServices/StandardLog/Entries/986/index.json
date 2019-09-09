@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"c5d6652f7dad30a19da5d472d5227ae0\"","MessageArgs":["Power Resource"],"Id":"986","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/986","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"Non-redundant:Sufficient Resources from Redundancy Degraded or Fully Redundant for Power Resource has asserted.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"Power","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x800b03091381ffff","EventSequenceNumber":215,"EventType":0,"LenovoMessageID":"PLAT0806","Serviceable":"Serviceable by Customer","CommonEventID":"FQXSPPW0104J"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"Warning","Created":"2018-05-08T10:34:32.116+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"c5d6652f7dad30a19da5d472d5227ae0\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/986",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-08T10:34:32.116+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "986",
+    "Message": "Non-redundant:Sufficient Resources from Redundancy Degraded or Fully Redundant for Power Resource has asserted.",
+    "MessageArgs": [
+        "Power Resource"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPPW0104J",
+            "EventFlag": 0,
+            "EventID": "0x800b03091381ffff",
+            "EventSequenceNumber": 215,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0806",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Serviceable by Customer",
+            "Source": "Power",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "Warning"
+}

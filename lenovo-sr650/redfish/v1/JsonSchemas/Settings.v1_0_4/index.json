@@ -1,1 +1,19 @@
-{"Schema":"#Settings.v1_0_4","@odata.id":"/redfish/v1/JsonSchemas/Settings.v1_0_4","Name":"Settings JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Settings.v1_0_4.json","Language":"en"}],"@odata.etag":"W/\"8e8d392ba3d215fe7715f6dffa432167\"","Id":"Settings.v1_0_4","Description":"Settings schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"8e8d392ba3d215fe7715f6dffa432167\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Settings.v1_0_4",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Settings schema information",
+    "Id": "Settings.v1_0_4",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Settings.v1_0_4.json"
+        }
+    ],
+    "Name": "Settings JSON Schema File",
+    "Schema": "#Settings.v1_0_4"
+}

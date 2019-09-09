@@ -1,1 +1,43 @@
-{"SerialNumber":"REMOVED_FROM_MOCK","@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_5","Links":{"Chassis":[{"@odata.id":"/redfish/v1/Chassis/1/"}],"PCIeFunctions":[{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_5.00"},{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_5.05"}]},"@odata.context":"/redfish/v1/$metadata#PCIeDevice.PCIeDevice","PartNumber":null,"Description":"This resource represents the properties of a PCIeDevice attached to a System.","FirmwareVersion":null,"Status":{"State":"Enabled","Health":"OK"},"Name":"Adapter","DeviceType":"MultiFunction","SKU":null,"@odata.type":"#PCIeDevice.v1_1_0.PCIeDevice","Oem":{"Lenovo":{"Location":{"InfoFormat":"OnBoard","Info":"OnBoard"}}},"Manufacturer":null,"@odata.etag":"W/\"c45d7bc86daad538f3bc0aa97f10011d\"","Model":null,"Id":"ob_5"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeDevice.PCIeDevice",
+    "@odata.etag": "W/\"c45d7bc86daad538f3bc0aa97f10011d\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_5",
+    "@odata.type": "#PCIeDevice.v1_1_0.PCIeDevice",
+    "Description": "This resource represents the properties of a PCIeDevice attached to a System.",
+    "DeviceType": "MultiFunction",
+    "FirmwareVersion": null,
+    "Id": "ob_5",
+    "Links": {
+        "Chassis": [
+            {
+                "@odata.id": "/redfish/v1/Chassis/1/"
+            }
+        ],
+        "PCIeFunctions": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_5.00"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_5.05"
+            }
+        ]
+    },
+    "Manufacturer": null,
+    "Model": null,
+    "Name": "Adapter",
+    "Oem": {
+        "Lenovo": {
+            "Location": {
+                "Info": "OnBoard",
+                "InfoFormat": "OnBoard"
+            }
+        }
+    },
+    "PartNumber": null,
+    "SKU": null,
+    "SerialNumber": "REMOVED_FROM_MOCK",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

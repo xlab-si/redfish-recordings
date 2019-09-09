@@ -1,1 +1,19 @@
-{"Schema":"#LenovoStorageCtrlExt.LenovoStorageCtrlExt","@odata.id":"/redfish/v1/JsonSchemas/LenovoStorageCtrlExt","Name":"LenovoStorageCtrlExt JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoStorageCtrlExt.json","Language":"en"}],"@odata.etag":"W/\"0d115d37cfe6c757f86ad49fa246d981\"","Id":"LenovoStorageCtrlExt","Description":"LenovoStorageCtrlExt schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"0d115d37cfe6c757f86ad49fa246d981\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoStorageCtrlExt",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoStorageCtrlExt schema information",
+    "Id": "LenovoStorageCtrlExt",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoStorageCtrlExt.json"
+        }
+    ],
+    "Name": "LenovoStorageCtrlExt JSON Schema File",
+    "Schema": "#LenovoStorageCtrlExt.LenovoStorageCtrlExt"
+}

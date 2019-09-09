@@ -1,1 +1,52 @@
-{"@odata.etag":"W/\"5a4f45cd601e811021321eaba4bf6652\"","MessageArgs":["Drive 11"],"Id":"2852","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2852","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"The Drive 11 has been enabled.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[{"LEDIdentifier":"85","LEDState":"Lit"},{"LEDIdentifier":"0","LEDState":"Lit"}],"EventFlag":0,"AuxiliaryData":"","Source":"Disks","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x816f010d040bffff","EventSequenceNumber":274,"EventType":0,"LenovoMessageID":"PLAT0167","Serviceable":"Not Serviceable","CommonEventID":"FQXSPSD2001I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-25T06:57:46.182+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"5a4f45cd601e811021321eaba4bf6652\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2852",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-25T06:57:46.182+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "2852",
+    "Message": "The Drive 11 has been enabled.",
+    "MessageArgs": [
+        "Drive 11"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [
+                {
+                    "LEDIdentifier": "85",
+                    "LEDState": "Lit"
+                },
+                {
+                    "LEDIdentifier": "0",
+                    "LEDState": "Lit"
+                }
+            ],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPSD2001I",
+            "EventFlag": 0,
+            "EventID": "0x816f010d040bffff",
+            "EventSequenceNumber": 274,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0167",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "Disks",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

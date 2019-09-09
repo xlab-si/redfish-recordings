@@ -1,1 +1,19 @@
-{"Schema":"#ZoneCollection.ZoneCollection","@odata.id":"/redfish/v1/JsonSchemas/ZoneCollection","Name":"ZoneCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ZoneCollection.json","Language":"en"}],"@odata.etag":"W/\"adcff6e201ab2b91d56b0550179fd4d2\"","Id":"ZoneCollection","Description":"ZoneCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"adcff6e201ab2b91d56b0550179fd4d2\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ZoneCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "ZoneCollection schema information",
+    "Id": "ZoneCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ZoneCollection.json"
+        }
+    ],
+    "Name": "ZoneCollection JSON Schema File",
+    "Schema": "#ZoneCollection.ZoneCollection"
+}

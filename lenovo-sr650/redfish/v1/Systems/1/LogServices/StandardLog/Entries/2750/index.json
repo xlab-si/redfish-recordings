@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"6d4b08d09e2469d2cf09b4c8d2ac2724\"","MessageArgs":["Drive 11"],"Id":"2750","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2750","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"The Drive 11 has been added.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"Disks","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x806f000d040bffff","EventSequenceNumber":270,"EventType":0,"LenovoMessageID":"PLAT0162","Serviceable":"Not Serviceable","CommonEventID":"FQXSPSD0000I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-24T12:58:46.353+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"6d4b08d09e2469d2cf09b4c8d2ac2724\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2750",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-24T12:58:46.353+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "2750",
+    "Message": "The Drive 11 has been added.",
+    "MessageArgs": [
+        "Drive 11"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPSD0000I",
+            "EventFlag": 0,
+            "EventID": "0x806f000d040bffff",
+            "EventSequenceNumber": 270,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0162",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "Disks",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

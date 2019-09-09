@@ -1,1 +1,48 @@
-{"@odata.id":"/redfish/v1/AccountService/Accounts/","Members@odata.count":12,"@odata.context":"/redfish/v1/$metadata#ManagerAccountCollection.ManagerAccountCollection","Members":[{"@odata.id":"/redfish/v1/AccountService/Accounts/1"},{"@odata.id":"/redfish/v1/AccountService/Accounts/2"},{"@odata.id":"/redfish/v1/AccountService/Accounts/3"},{"@odata.id":"/redfish/v1/AccountService/Accounts/4"},{"@odata.id":"/redfish/v1/AccountService/Accounts/5"},{"@odata.id":"/redfish/v1/AccountService/Accounts/6"},{"@odata.id":"/redfish/v1/AccountService/Accounts/7"},{"@odata.id":"/redfish/v1/AccountService/Accounts/8"},{"@odata.id":"/redfish/v1/AccountService/Accounts/9"},{"@odata.id":"/redfish/v1/AccountService/Accounts/10"},{"@odata.id":"/redfish/v1/AccountService/Accounts/11"},{"@odata.id":"/redfish/v1/AccountService/Accounts/12"}],"@odata.type":"#ManagerAccountCollection.ManagerAccountCollection","Members@odata.navigationLink":"/redfish/v1/AccountService/Accounts/Members","@odata.etag":"W/\"d714d78785567d220719ddf758f24971\"","Name":"ManagerAccountCollection","Description":"A Collection of ManagerAccount resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#ManagerAccountCollection.ManagerAccountCollection",
+    "@odata.etag": "W/\"d714d78785567d220719ddf758f24971\"",
+    "@odata.id": "/redfish/v1/AccountService/Accounts/",
+    "@odata.type": "#ManagerAccountCollection.ManagerAccountCollection",
+    "Description": "A Collection of ManagerAccount resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/1"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/2"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/3"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/4"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/5"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/6"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/7"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/8"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/9"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/10"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/11"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Accounts/12"
+        }
+    ],
+    "Members@odata.count": 12,
+    "Members@odata.navigationLink": "/redfish/v1/AccountService/Accounts/Members",
+    "Name": "ManagerAccountCollection"
+}

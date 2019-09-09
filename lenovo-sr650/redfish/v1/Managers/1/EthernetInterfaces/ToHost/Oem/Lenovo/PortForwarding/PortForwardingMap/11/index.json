@@ -1,1 +1,13 @@
-{"@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/PortForwardingMap/11","IPAddress":"","@odata.context":"/redfish/v1/$metadata#LenovoPortForwardingMap.LenovoPortForwardingMap","Initialized":false,"ExternalPort":0,"@odata.type":"#LenovoPortForwardingMap.v1_0_0.LenovoPortForwardingMap","@odata.etag":"W/\"9da7c237a4bfa4133b492a43f005558e\"","DefaultIPEnabled":false,"AddressMode":"","Type":"USBtoEth","USBPort":0}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoPortForwardingMap.LenovoPortForwardingMap",
+    "@odata.etag": "W/\"9da7c237a4bfa4133b492a43f005558e\"",
+    "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/PortForwardingMap/11",
+    "@odata.type": "#LenovoPortForwardingMap.v1_0_0.LenovoPortForwardingMap",
+    "AddressMode": "",
+    "DefaultIPEnabled": false,
+    "ExternalPort": 0,
+    "IPAddress": "",
+    "Initialized": false,
+    "Type": "USBtoEth",
+    "USBPort": 0
+}

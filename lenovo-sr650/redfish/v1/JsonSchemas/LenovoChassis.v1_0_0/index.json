@@ -1,1 +1,19 @@
-{"Schema":"#LenovoChassis.v1_0_0.LenovoChassis","@odata.id":"/redfish/v1/JsonSchemas/LenovoChassis.v1_0_0","Name":"LenovoChassis JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoChassis.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"fd37f0e7818ba5056831f13ee6d785c5\"","Id":"LenovoChassis.v1_0_0","Description":"LenovoChassis schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"fd37f0e7818ba5056831f13ee6d785c5\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoChassis.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoChassis schema information",
+    "Id": "LenovoChassis.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoChassis.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoChassis JSON Schema File",
+    "Schema": "#LenovoChassis.v1_0_0.LenovoChassis"
+}

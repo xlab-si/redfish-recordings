@@ -1,1 +1,19 @@
-{"Schema":"#LenovoMemory.v1_0_0.LenovoMemory","@odata.id":"/redfish/v1/JsonSchemas/LenovoMemory.v1_0_0","Name":"LenovoMemory JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoMemory.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"50494fa8fb89b9fb850adb7468ae3394\"","Id":"LenovoMemory.v1_0_0","Description":"LenovoMemory schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"50494fa8fb89b9fb850adb7468ae3394\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoMemory.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoMemory schema information",
+    "Id": "LenovoMemory.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoMemory.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoMemory JSON Schema File",
+    "Schema": "#LenovoMemory.v1_0_0.LenovoMemory"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#LenovoPortForwardingMap.LenovoPortForwardingMap","@odata.id":"/redfish/v1/JsonSchemas/LenovoPortForwardingMap","Name":"LenovoPortForwardingMap JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoPortForwardingMap.json","Language":"en"}],"@odata.etag":"W/\"92cf1fd166bf36d0547150538046f837\"","Id":"LenovoPortForwardingMap","Description":"LenovoPortForwardingMap schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"92cf1fd166bf36d0547150538046f837\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoPortForwardingMap",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoPortForwardingMap schema information",
+    "Id": "LenovoPortForwardingMap",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoPortForwardingMap.json"
+        }
+    ],
+    "Name": "LenovoPortForwardingMap JSON Schema File",
+    "Schema": "#LenovoPortForwardingMap.LenovoPortForwardingMap"
+}

@@ -1,1 +1,40 @@
-{"Id":"1","Status":{"State":"Enabled","Health":"OK"},"Links":{"Drives":[{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.0"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.1"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.2"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.3"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.4"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.5"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.6"}]},"Name":"","@odata.context":"/redfish/v1/$metadata#Volume.Volume","CapacityBytes":7675999944704,"@odata.type":"#Volume.v1_0_3.Volume","@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Volumes/1","@odata.etag":"W/\"9b9fb2b7f536400921e35f7dc50e9c36\"","BlockSizeBytes":512,"Description":"This resource is used to represent a volume for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#Volume.Volume",
+    "@odata.etag": "W/\"9b9fb2b7f536400921e35f7dc50e9c36\"",
+    "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Volumes/1",
+    "@odata.type": "#Volume.v1_0_3.Volume",
+    "BlockSizeBytes": 512,
+    "CapacityBytes": 7675999944704,
+    "Description": "This resource is used to represent a volume for a Redfish implementation.",
+    "Id": "1",
+    "Links": {
+        "Drives": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.0"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.1"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.2"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.3"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.4"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.5"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.6"
+            }
+        ]
+    },
+    "Name": "",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

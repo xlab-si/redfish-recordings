@@ -1,1 +1,14 @@
-{"@odata.id":"/redfish/v1/SessionService/","Name":"SessionService","ServiceEnabled":true,"@odata.etag":"W/\"86f775c4df3499a854ba253ee3e901fd\"","@odata.type":"#SessionService.v1_1_2.SessionService","SessionTimeout":300,"@odata.context":"/redfish/v1/$metadata#SessionService.SessionService","Sessions":{"@odata.id":"/redfish/v1/SessionService/Sessions/"},"Id":"SessionService","Description":"This resource is used to represent a session service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SessionService.SessionService",
+    "@odata.etag": "W/\"86f775c4df3499a854ba253ee3e901fd\"",
+    "@odata.id": "/redfish/v1/SessionService/",
+    "@odata.type": "#SessionService.v1_1_2.SessionService",
+    "Description": "This resource is used to represent a session service for a Redfish implementation.",
+    "Id": "SessionService",
+    "Name": "SessionService",
+    "ServiceEnabled": true,
+    "SessionTimeout": 300,
+    "Sessions": {
+        "@odata.id": "/redfish/v1/SessionService/Sessions/"
+    }
+}

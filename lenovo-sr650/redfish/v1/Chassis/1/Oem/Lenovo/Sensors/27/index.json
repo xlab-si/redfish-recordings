@@ -1,1 +1,22 @@
-{"Id":"27","EntityInstance":130,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"401f227218e429159d29514fc34976a5\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/27","State":32768,"SensorNumber":27,"Name":"PCIs","OwnerID":16,"SensorTypeNumber":19,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":37,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Critical Interrupt"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"401f227218e429159d29514fc34976a5\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/27",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 37,
+    "EntityInstance": 130,
+    "Id": "27",
+    "Name": "PCIs",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 27,
+    "SensorType": "Critical Interrupt",
+    "SensorTypeNumber": 19,
+    "State": 32768
+}

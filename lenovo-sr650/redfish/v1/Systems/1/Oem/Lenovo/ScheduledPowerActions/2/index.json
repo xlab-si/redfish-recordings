@@ -1,1 +1,12 @@
-{"Id":"2","Type":"GracefulShutdown","Time":"00:00","@odata.context":"/redfish/v1/$metadata#LenovoScheduledPowerAction.LenovoScheduledPowerAction","@odata.type":"#LenovoScheduledPowerAction.v1_0_0.LenovoScheduledPowerAction","@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/ScheduledPowerActions/2","Description":"This resource is used to represent settings of scheduled power action for a Redfish implementation.","@odata.etag":"W/\"0ff3b210ed174dc0bba4dba0227b901b\"","Activated":false,"Interval":"Daily"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoScheduledPowerAction.LenovoScheduledPowerAction",
+    "@odata.etag": "W/\"0ff3b210ed174dc0bba4dba0227b901b\"",
+    "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/ScheduledPowerActions/2",
+    "@odata.type": "#LenovoScheduledPowerAction.v1_0_0.LenovoScheduledPowerAction",
+    "Activated": false,
+    "Description": "This resource is used to represent settings of scheduled power action for a Redfish implementation.",
+    "Id": "2",
+    "Interval": "Daily",
+    "Time": "00:00",
+    "Type": "GracefulShutdown"
+}

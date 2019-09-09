@@ -1,1 +1,19 @@
-{"Schema":"#Volume.Volume","@odata.id":"/redfish/v1/JsonSchemas/Volume","Name":"Volume JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Volume.json","Language":"en"}],"@odata.etag":"W/\"3ee15cf3afbaeec88cb8a5e33ad59484\"","Id":"Volume","Description":"Volume schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"3ee15cf3afbaeec88cb8a5e33ad59484\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Volume",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Volume schema information",
+    "Id": "Volume",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Volume.json"
+        }
+    ],
+    "Name": "Volume JSON Schema File",
+    "Schema": "#Volume.Volume"
+}

@@ -1,1 +1,40 @@
-{"SerialNumber":"REMOVED_FROM_MOCK","@odata.id":"/redfish/v1/Systems/1/PCIeDevices/slot_1","Links":{"Chassis":[{"@odata.id":"/redfish/v1/Chassis/1/"}],"PCIeFunctions":[{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/slot_1.00"}]},"@odata.context":"/redfish/v1/$metadata#PCIeDevice.PCIeDevice","PartNumber":"SR17A04507","Description":"This resource represents the properties of a PCIeDevice attached to a System.","FirmwareVersion":"50.3.0-1075","Status":{"State":"Enabled","Health":"OK"},"Name":"ThinkSystem RAID 930-24i 4GB Flash","DeviceType":"SingleFunction","SKU":"01KN509","@odata.type":"#PCIeDevice.v1_1_0.PCIeDevice","Oem":{"Lenovo":{"Location":{"InfoFormat":"Slot X","Info":"Slot 1"}}},"Manufacturer":"Lenovo","@odata.etag":"W/\"838b4b903bacc53265eea8e717b47c1e\"","Model":"SAS3508+SAS35x36","Id":"slot_1"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeDevice.PCIeDevice",
+    "@odata.etag": "W/\"838b4b903bacc53265eea8e717b47c1e\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/slot_1",
+    "@odata.type": "#PCIeDevice.v1_1_0.PCIeDevice",
+    "Description": "This resource represents the properties of a PCIeDevice attached to a System.",
+    "DeviceType": "SingleFunction",
+    "FirmwareVersion": "50.3.0-1075",
+    "Id": "slot_1",
+    "Links": {
+        "Chassis": [
+            {
+                "@odata.id": "/redfish/v1/Chassis/1/"
+            }
+        ],
+        "PCIeFunctions": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/slot_1.00"
+            }
+        ]
+    },
+    "Manufacturer": "Lenovo",
+    "Model": "SAS3508+SAS35x36",
+    "Name": "ThinkSystem RAID 930-24i 4GB Flash",
+    "Oem": {
+        "Lenovo": {
+            "Location": {
+                "Info": "Slot 1",
+                "InfoFormat": "Slot X"
+            }
+        }
+    },
+    "PartNumber": "SR17A04507",
+    "SKU": "01KN509",
+    "SerialNumber": "REMOVED_FROM_MOCK",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

@@ -1,1 +1,19 @@
-{"Schema":"#SerialInterface.SerialInterface","@odata.id":"/redfish/v1/JsonSchemas/SerialInterface","Name":"SerialInterface JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SerialInterface.json","Language":"en"}],"@odata.etag":"W/\"551b84e4de33267670faf05f1e437b5f\"","Id":"SerialInterface","Description":"SerialInterface schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"551b84e4de33267670faf05f1e437b5f\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SerialInterface",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SerialInterface schema information",
+    "Id": "SerialInterface",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SerialInterface.json"
+        }
+    ],
+    "Name": "SerialInterface JSON Schema File",
+    "Schema": "#SerialInterface.SerialInterface"
+}

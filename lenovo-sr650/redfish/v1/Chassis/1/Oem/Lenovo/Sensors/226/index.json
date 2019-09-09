@@ -1,1 +1,22 @@
-{"Id":"226","EntityInstance":2,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"d0c4d48baeeff5364e1e411e624049dd\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/226","State":32768,"SensorNumber":226,"Name":"Front Video","OwnerID":16,"SensorTypeNumber":27,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":12,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Cable Or Interconnect"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"d0c4d48baeeff5364e1e411e624049dd\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/226",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 12,
+    "EntityInstance": 2,
+    "Id": "226",
+    "Name": "Front Video",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 226,
+    "SensorType": "Cable Or Interconnect",
+    "SensorTypeNumber": 27,
+    "State": 32768
+}

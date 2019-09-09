@@ -1,1 +1,19 @@
-{"Schema":"#LenovoAdapterCollection.LenovoAdapterCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoAdapterCollection","Name":"LenovoAdapterCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoAdapterCollection.json","Language":"en"}],"@odata.etag":"W/\"656007dbbca451b87b62bd1ee7c929f6\"","Id":"LenovoAdapterCollection","Description":"LenovoAdapterCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"656007dbbca451b87b62bd1ee7c929f6\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoAdapterCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoAdapterCollection schema information",
+    "Id": "LenovoAdapterCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoAdapterCollection.json"
+        }
+    ],
+    "Name": "LenovoAdapterCollection JSON Schema File",
+    "Schema": "#LenovoAdapterCollection.LenovoAdapterCollection"
+}

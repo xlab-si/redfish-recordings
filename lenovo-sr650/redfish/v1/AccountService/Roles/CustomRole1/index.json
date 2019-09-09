@@ -1,1 +1,14 @@
-{"IsPredefined":false,"@odata.id":"/redfish/v1/AccountService/Roles/CustomRole1","AssignedPrivileges":[],"Name":"CustomRole1","@odata.context":"/redfish/v1/$metadata#Role.Role","@odata.type":"#Role.v1_1_0.Role","OemPrivileges":["Supervisor"],"@odata.etag":"W/\"ed0f8920f116b34ec27f49a2c83f7aa2\"","Id":"CustomRole1","Description":"This resource is used to represent a user role for the user account for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#Role.Role",
+    "@odata.etag": "W/\"ed0f8920f116b34ec27f49a2c83f7aa2\"",
+    "@odata.id": "/redfish/v1/AccountService/Roles/CustomRole1",
+    "@odata.type": "#Role.v1_1_0.Role",
+    "AssignedPrivileges": [],
+    "Description": "This resource is used to represent a user role for the user account for a Redfish implementation.",
+    "Id": "CustomRole1",
+    "IsPredefined": false,
+    "Name": "CustomRole1",
+    "OemPrivileges": [
+        "Supervisor"
+    ]
+}

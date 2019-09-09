@@ -1,1 +1,49 @@
-{"SerialNumber":"REMOVED_FROM_MOCK","@odata.etag":"W/\"979d352c86d2cb9aff79413cb12d2ce6\"","BusWidthBits":null,"Id":"9","@odata.id":"/redfish/v1/Systems/1/Memory/9","Links":{"Chassis":{"@odata.id":"/redfish/v1/Chassis/1/"}},"MemoryMedia":[],"@odata.context":"/redfish/v1/$metadata#Memory.Memory","BaseModuleType":null,"MemoryLocation":{"Channel":4,"MemoryController":1,"Slot":9,"Socket":1},"VendorID":null,"PartNumber":null,"AllowedSpeedsMHz":[],"CapacityMiB":null,"Description":"This resource is used to represent a memory for a Redfish implementation.","Name":"DIMM 9","MemoryType":null,"SubsystemDeviceID":null,"OperatingMemoryModes":[],"DeviceLocator":null,"Oem":{"Lenovo":{"PN":null}},"DataWidthBits":null,"MemoryDeviceType":null,"DeviceID":null,"SubsystemVendorID":null,"@odata.type":"#Memory.v1_2_0.Memory","RankCount":null,"Manufacturer":null,"OperatingSpeedMhz":null,"Status":{"State":"Absent","Health":null},"FunctionClasses":[]}
+{
+    "@odata.context": "/redfish/v1/$metadata#Memory.Memory",
+    "@odata.etag": "W/\"979d352c86d2cb9aff79413cb12d2ce6\"",
+    "@odata.id": "/redfish/v1/Systems/1/Memory/9",
+    "@odata.type": "#Memory.v1_2_0.Memory",
+    "AllowedSpeedsMHz": [],
+    "BaseModuleType": null,
+    "BusWidthBits": null,
+    "CapacityMiB": null,
+    "DataWidthBits": null,
+    "Description": "This resource is used to represent a memory for a Redfish implementation.",
+    "DeviceID": null,
+    "DeviceLocator": null,
+    "FunctionClasses": [],
+    "Id": "9",
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        }
+    },
+    "Manufacturer": null,
+    "MemoryDeviceType": null,
+    "MemoryLocation": {
+        "Channel": 4,
+        "MemoryController": 1,
+        "Slot": 9,
+        "Socket": 1
+    },
+    "MemoryMedia": [],
+    "MemoryType": null,
+    "Name": "DIMM 9",
+    "Oem": {
+        "Lenovo": {
+            "PN": null
+        }
+    },
+    "OperatingMemoryModes": [],
+    "OperatingSpeedMhz": null,
+    "PartNumber": null,
+    "RankCount": null,
+    "SerialNumber": "REMOVED_FROM_MOCK",
+    "Status": {
+        "Health": null,
+        "State": "Absent"
+    },
+    "SubsystemDeviceID": null,
+    "SubsystemVendorID": null,
+    "VendorID": null
+}

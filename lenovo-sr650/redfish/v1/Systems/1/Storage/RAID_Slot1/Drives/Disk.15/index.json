@@ -1,1 +1,47 @@
-{"SerialNumber":"REMOVED_FROM_MOCK","Id":"Disk.15","Revision":"LE38","@odata.context":"/redfish/v1/$metadata#Drive.Drive","CapableSpeedGbs":6,"PartNumber":"D7A01875","MediaType":null,"Description":"This resource is used to represent a drive for a Redfish implementation.","RotationSpeedRPM":7200,"FailurePredicted":false,"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.15","Status":{"State":"Enabled","Health":"OK"},"Protocol":"SATA","Name":"ST2000NX0253","@odata.type":"#Drive.v1_2_0.Drive","Location":[{"InfoFormat":"Slot Number","Info":"Slot 15"}],"Identifiers":[{"DurableName":"REMOVED_FROM_MOCK","DurableNameFormat":"UUID"}],"CapacityBytes":2000398934016,"BlockSizeBytes":512,"Manufacturer":"ATA","@odata.etag":"W/\"a8a47c55d824d536b111576889798fd1\"","Model":"","Links":{"Volumes":[{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Volumes/2"}],"Chassis":{"@odata.id":"/redfish/v1/Chassis/1/"}}}
+{
+    "@odata.context": "/redfish/v1/$metadata#Drive.Drive",
+    "@odata.etag": "W/\"a8a47c55d824d536b111576889798fd1\"",
+    "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.15",
+    "@odata.type": "#Drive.v1_2_0.Drive",
+    "BlockSizeBytes": 512,
+    "CapableSpeedGbs": 6,
+    "CapacityBytes": 2000398934016,
+    "Description": "This resource is used to represent a drive for a Redfish implementation.",
+    "FailurePredicted": false,
+    "Id": "Disk.15",
+    "Identifiers": [
+        {
+            "DurableName": "REMOVED_FROM_MOCK",
+            "DurableNameFormat": "UUID"
+        }
+    ],
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        },
+        "Volumes": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Volumes/2"
+            }
+        ]
+    },
+    "Location": [
+        {
+            "Info": "Slot 15",
+            "InfoFormat": "Slot Number"
+        }
+    ],
+    "Manufacturer": "ATA",
+    "MediaType": null,
+    "Model": "",
+    "Name": "ST2000NX0253",
+    "PartNumber": "D7A01875",
+    "Protocol": "SATA",
+    "Revision": "LE38",
+    "RotationSpeedRPM": 7200,
+    "SerialNumber": "REMOVED_FROM_MOCK",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

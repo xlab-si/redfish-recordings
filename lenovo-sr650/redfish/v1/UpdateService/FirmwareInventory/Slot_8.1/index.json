@@ -1,1 +1,41 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Slot_8.1","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/slot_8"},{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/"}],"Id":"Slot_8.1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":2,"Name":"Marvell Firmware","Version":"2.3.10.1088","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Slot_8.1/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"FirmwareStatus":"Active","Manufacturer":"Marvell","FirmwareName":"Marvell Firmware","PLDMFWInfo":{"PLDMUpdSupported":false},"ReleaseDate":"11/14/2017"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"90af6bd09c8f8e3e5d6ed2237ec41ad1\"","SoftwareId":"1D490300","Description":"The information of Marvell Firmware firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"90af6bd09c8f8e3e5d6ed2237ec41ad1\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Slot_8.1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of Marvell Firmware firmware.",
+    "Id": "Slot_8.1",
+    "Name": "Marvell Firmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareName": "Marvell Firmware",
+            "FirmwareStatus": "Active",
+            "Manufacturer": "Marvell",
+            "PLDMFWInfo": {
+                "PLDMUpdSupported": false
+            },
+            "ReleaseDate": "11/14/2017"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/slot_8"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/"
+        }
+    ],
+    "RelatedItem@odata.count": 2,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Slot_8.1/RelatedItem",
+    "SoftwareId": "1D490300",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "2.3.10.1088"
+}

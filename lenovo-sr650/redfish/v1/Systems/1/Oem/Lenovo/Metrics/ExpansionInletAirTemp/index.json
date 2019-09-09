@@ -1,1 +1,10 @@
-{"@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/Metrics/ExpansionInletAirTemp","Container":[],"@odata.type":"#LenovoHistoryMetricValueContainer.v1_0_0.LenovoHistoryMetricValueContainer","ContainerName":"ExpansionInletAirTemp","@odata.context":"/redfish/v1/$metadata#LenovoHistoryMetricValueContainer.LenovoHistoryMetricValueContainer","@odata.etag":"W/\"5a8def9ed885ce6b567a78d5b644a14a\"","Id":"ExpansionInletAirTemp","Description":"This resource is used to represent an array of history metric values in the container for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoHistoryMetricValueContainer.LenovoHistoryMetricValueContainer",
+    "@odata.etag": "W/\"5a8def9ed885ce6b567a78d5b644a14a\"",
+    "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/Metrics/ExpansionInletAirTemp",
+    "@odata.type": "#LenovoHistoryMetricValueContainer.v1_0_0.LenovoHistoryMetricValueContainer",
+    "Container": [],
+    "ContainerName": "ExpansionInletAirTemp",
+    "Description": "This resource is used to represent an array of history metric values in the container for a Redfish implementation.",
+    "Id": "ExpansionInletAirTemp"
+}

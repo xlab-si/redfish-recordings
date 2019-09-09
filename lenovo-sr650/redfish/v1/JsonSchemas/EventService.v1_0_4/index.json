@@ -1,1 +1,19 @@
-{"Schema":"#EventService.v1_0_4.EventService","@odata.id":"/redfish/v1/JsonSchemas/EventService.v1_0_4","Name":"Event Service JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/EventService.v1_0_4.json","Language":"en"}],"@odata.etag":"W/\"5b4e0fee4896411d07fc4065892900a6\"","Id":"EventService.v1_0_4","Description":"Event Service schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"5b4e0fee4896411d07fc4065892900a6\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/EventService.v1_0_4",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Event Service schema information",
+    "Id": "EventService.v1_0_4",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/EventService.v1_0_4.json"
+        }
+    ],
+    "Name": "Event Service JSON Schema File",
+    "Schema": "#EventService.v1_0_4.EventService"
+}

@@ -1,1 +1,24 @@
-{"Id":"1","Status":{"State":"Enabled","Health":"OK"},"Links":{"NetworkAdapter":{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1"}},"Name":"Network Interface 1","@odata.context":"/redfish/v1/$metadata#NetworkInterface.NetworkInterface","@odata.type":"#NetworkInterface.v1_1_0.NetworkInterface","NetworkPorts":{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/"},"@odata.id":"/redfish/v1/Systems/1/NetworkInterfaces/1","@odata.etag":"W/\"789cec2257bd2161094e574a2b9bff51\"","NetworkDeviceFunctions":{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkDeviceFunctions/"},"Description":"A NetworkInterface contains references linking NetworkAdapter, NetworkPort, and NetworkDeviceFunction resources and represents the functionality available to the containing system."}
+{
+    "@odata.context": "/redfish/v1/$metadata#NetworkInterface.NetworkInterface",
+    "@odata.etag": "W/\"789cec2257bd2161094e574a2b9bff51\"",
+    "@odata.id": "/redfish/v1/Systems/1/NetworkInterfaces/1",
+    "@odata.type": "#NetworkInterface.v1_1_0.NetworkInterface",
+    "Description": "A NetworkInterface contains references linking NetworkAdapter, NetworkPort, and NetworkDeviceFunction resources and represents the functionality available to the containing system.",
+    "Id": "1",
+    "Links": {
+        "NetworkAdapter": {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1"
+        }
+    },
+    "Name": "Network Interface 1",
+    "NetworkDeviceFunctions": {
+        "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkDeviceFunctions/"
+    },
+    "NetworkPorts": {
+        "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/"
+    },
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

@@ -1,1 +1,42 @@
-{"VendorId":"0x1b4b","@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_1.03","Links":{"Drives":[{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay0"},{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay1"}],"StorageControllers":[{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/#/StorageControllers/0"}],"PCIeDevice":{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_1"},"EthernetInterfaces":[]},"FunctionId":0,"RevisionId":"0x11","Description":"This resource represents the properties of a PCIeFunction attached to a System.","FunctionType":"Physical","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"DeviceClass":"MassStorageController","Name":"Intel X722 LOM 09:00:03","SubsystemVendorId":"0x1d49","SubsystemId":"0x0300","@odata.type":"#PCIeFunction.v1_1_0.PCIeFunction","DeviceId":"0x9230","@odata.context":"/redfish/v1/$metadata#PCIeFunction.PCIeFunction","@odata.etag":"W/\"4e337aab8473562e6ee6ad039ea4b3b9\"","Id":"ob_1.03","ClassCode":"0x010601"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeFunction.PCIeFunction",
+    "@odata.etag": "W/\"4e337aab8473562e6ee6ad039ea4b3b9\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_1.03",
+    "@odata.type": "#PCIeFunction.v1_1_0.PCIeFunction",
+    "ClassCode": "0x010601",
+    "Description": "This resource represents the properties of a PCIeFunction attached to a System.",
+    "DeviceClass": "MassStorageController",
+    "DeviceId": "0x9230",
+    "FunctionId": 0,
+    "FunctionType": "Physical",
+    "Id": "ob_1.03",
+    "Links": {
+        "Drives": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay0"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay1"
+            }
+        ],
+        "EthernetInterfaces": [],
+        "PCIeDevice": {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_1"
+        },
+        "StorageControllers": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/#/StorageControllers/0"
+            }
+        ]
+    },
+    "Name": "Intel X722 LOM 09:00:03",
+    "RevisionId": "0x11",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "SubsystemId": "0x0300",
+    "SubsystemVendorId": "0x1d49",
+    "VendorId": "0x1b4b"
+}

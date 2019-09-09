@@ -1,1 +1,19 @@
-{"Schema":"#Message","@odata.id":"/redfish/v1/JsonSchemas/Message","Name":"Message JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Message.json","Language":"en"}],"@odata.etag":"W/\"3bf081375a91c42f9942108066de6430\"","Id":"Message","Description":"Message schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"3bf081375a91c42f9942108066de6430\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Message",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Message schema information",
+    "Id": "Message",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Message.json"
+        }
+    ],
+    "Name": "Message JSON Schema File",
+    "Schema": "#Message"
+}

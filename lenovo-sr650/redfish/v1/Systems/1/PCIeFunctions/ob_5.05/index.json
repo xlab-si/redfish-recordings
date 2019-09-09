@@ -1,1 +1,31 @@
-{"VendorId":"0x8086","@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_5.05","Links":{"Drives":[],"StorageControllers":[],"PCIeDevice":{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_5"},"EthernetInterfaces":[]},"FunctionId":0,"RevisionId":"0x09","Description":"This resource represents the properties of a PCIeFunction attached to a System.","FunctionType":"Physical","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"DeviceClass":"MassStorageController","Name":"Adapter 00:11:05","SubsystemVendorId":"0x17aa","SubsystemId":"0x7800","@odata.type":"#PCIeFunction.v1_1_0.PCIeFunction","DeviceId":"0xa182","@odata.context":"/redfish/v1/$metadata#PCIeFunction.PCIeFunction","@odata.etag":"W/\"9a714926d6f79684c3092397082c4cd0\"","Id":"ob_5.05","ClassCode":"0x010601"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeFunction.PCIeFunction",
+    "@odata.etag": "W/\"9a714926d6f79684c3092397082c4cd0\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_5.05",
+    "@odata.type": "#PCIeFunction.v1_1_0.PCIeFunction",
+    "ClassCode": "0x010601",
+    "Description": "This resource represents the properties of a PCIeFunction attached to a System.",
+    "DeviceClass": "MassStorageController",
+    "DeviceId": "0xa182",
+    "FunctionId": 0,
+    "FunctionType": "Physical",
+    "Id": "ob_5.05",
+    "Links": {
+        "Drives": [],
+        "EthernetInterfaces": [],
+        "PCIeDevice": {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_5"
+        },
+        "StorageControllers": []
+    },
+    "Name": "Adapter 00:11:05",
+    "RevisionId": "0x09",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "SubsystemId": "0x7800",
+    "SubsystemVendorId": "0x17aa",
+    "VendorId": "0x8086"
+}

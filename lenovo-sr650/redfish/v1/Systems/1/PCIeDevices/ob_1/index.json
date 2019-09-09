@@ -1,1 +1,43 @@
-{"SerialNumber":"REMOVED_FROM_MOCK","@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_1","Links":{"Chassis":[{"@odata.id":"/redfish/v1/Chassis/1/"}],"PCIeFunctions":[{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_1.00"},{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_1.01"}]},"@odata.context":"/redfish/v1/$metadata#PCIeDevice.PCIeDevice","PartNumber":"N/A","Description":"This resource represents the properties of a PCIeDevice attached to a System.","FirmwareVersion":"1.1638.0","Status":{"State":"Enabled","Health":"OK"},"Name":"Intel X722 LOM (onboard)","DeviceType":"MultiFunction","SKU":"N/A","@odata.type":"#PCIeDevice.v1_1_0.PCIeDevice","Oem":{"Lenovo":{"Location":{"InfoFormat":"OnBoard","Info":"OnBoard"}}},"Manufacturer":"Intel","@odata.etag":"W/\"41bca121e9a9188c4f197d15b236bd07\"","Model":"N/A","Id":"ob_1"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeDevice.PCIeDevice",
+    "@odata.etag": "W/\"41bca121e9a9188c4f197d15b236bd07\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_1",
+    "@odata.type": "#PCIeDevice.v1_1_0.PCIeDevice",
+    "Description": "This resource represents the properties of a PCIeDevice attached to a System.",
+    "DeviceType": "MultiFunction",
+    "FirmwareVersion": "1.1638.0",
+    "Id": "ob_1",
+    "Links": {
+        "Chassis": [
+            {
+                "@odata.id": "/redfish/v1/Chassis/1/"
+            }
+        ],
+        "PCIeFunctions": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_1.00"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_1.01"
+            }
+        ]
+    },
+    "Manufacturer": "Intel",
+    "Model": "N/A",
+    "Name": "Intel X722 LOM (onboard)",
+    "Oem": {
+        "Lenovo": {
+            "Location": {
+                "Info": "OnBoard",
+                "InfoFormat": "OnBoard"
+            }
+        }
+    },
+    "PartNumber": "N/A",
+    "SKU": "N/A",
+    "SerialNumber": "REMOVED_FROM_MOCK",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

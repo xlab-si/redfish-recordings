@@ -1,1 +1,19 @@
-{"Schema":"#SessionService.SessionService","@odata.id":"/redfish/v1/JsonSchemas/SessionService","Name":"SessionService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SessionService.json","Language":"en"}],"@odata.etag":"W/\"edf72a200ba6dc8a53019fcc4725140a\"","Id":"SessionService","Description":"SessionService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"edf72a200ba6dc8a53019fcc4725140a\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SessionService",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SessionService schema information",
+    "Id": "SessionService",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SessionService.json"
+        }
+    ],
+    "Name": "SessionService JSON Schema File",
+    "Schema": "#SessionService.SessionService"
+}

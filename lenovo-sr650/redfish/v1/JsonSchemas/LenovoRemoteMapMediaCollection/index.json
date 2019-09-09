@@ -1,1 +1,19 @@
-{"Schema":"#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoRemoteMapMediaCollection","Name":"LenovoRemoteMapMediaCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoRemoteMapMediaCollection.json","Language":"en"}],"@odata.etag":"W/\"ecfa9766f347b60829efefd28840a6f6\"","Id":"LenovoRemoteMapMediaCollection","Description":"LenovoRemoteMapMediaCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ecfa9766f347b60829efefd28840a6f6\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoRemoteMapMediaCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoRemoteMapMediaCollection schema information",
+    "Id": "LenovoRemoteMapMediaCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoRemoteMapMediaCollection.json"
+        }
+    ],
+    "Name": "LenovoRemoteMapMediaCollection JSON Schema File",
+    "Schema": "#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection"
+}

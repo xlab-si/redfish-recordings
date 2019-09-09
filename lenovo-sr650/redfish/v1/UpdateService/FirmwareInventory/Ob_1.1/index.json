@@ -1,1 +1,41 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Ob_1.1","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_1"},{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1"}],"Id":"Ob_1.1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":2,"Name":"Combined Option ROM Image","Version":"1.1638.0","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Ob_1.1/RelatedItem","Oem":{"Lenovo":{"Classifications":["0x8005"],"FirmwareStatus":"Active","Manufacturer":"Intel","FirmwareName":"Combined Option ROM Image","PLDMFWInfo":{"PLDMUpdSupported":false},"ReleaseDate":"N/A"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"0d39102ba4bbd81716525ffcdd5d6bba\"","SoftwareId":"17AA4021","Description":"The information of Combined Option ROM Image firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"0d39102ba4bbd81716525ffcdd5d6bba\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Ob_1.1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of Combined Option ROM Image firmware.",
+    "Id": "Ob_1.1",
+    "Name": "Combined Option ROM Image",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "0x8005"
+            ],
+            "FirmwareName": "Combined Option ROM Image",
+            "FirmwareStatus": "Active",
+            "Manufacturer": "Intel",
+            "PLDMFWInfo": {
+                "PLDMUpdSupported": false
+            },
+            "ReleaseDate": "N/A"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1"
+        }
+    ],
+    "RelatedItem@odata.count": 2,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Ob_1.1/RelatedItem",
+    "SoftwareId": "17AA4021",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "1.1638.0"
+}

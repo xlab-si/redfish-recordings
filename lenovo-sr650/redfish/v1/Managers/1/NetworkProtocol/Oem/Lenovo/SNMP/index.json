@@ -1,1 +1,53 @@
-{"SNMPv3Agent":{"ProtocolEnabled":false,"Location":"","Links":{"UsersSNMPv3Settings":{"@odata.id":"/redfish/v1/AccountService/Accounts/"}},"Port":161,"ContactPerson":""},"@odata.etag":"W/\"af16dea46a1bcf785495205d0c03cae2\"","@odata.type":"#LenovoSNMPProtocol.v1_0_0.LenovoSNMPProtocol","@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SNMP","CommunityNames":[""],"SNMPTraps":{"ProtocolEnabled":false,"SNMPv1TrapEnabled":false,"AlertRecipient":{"CriticalEvents":{"AcceptedEvents":[""],"Enabled":false},"WarningEvents":{"AcceptedEvents":[""],"Enabled":false},"SystemEvents":{"AcceptedEvents":[""],"Enabled":false}},"Targets":[{"Addresses":[""]}],"Port":162},"@odata.context":"/redfish/v1/$metadata#LenovoSNMPProtocol.LenovoSNMPProtocol","Description":"This resource is used to represent SNMP protocol for the manager for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSNMPProtocol.LenovoSNMPProtocol",
+    "@odata.etag": "W/\"af16dea46a1bcf785495205d0c03cae2\"",
+    "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SNMP",
+    "@odata.type": "#LenovoSNMPProtocol.v1_0_0.LenovoSNMPProtocol",
+    "CommunityNames": [
+        ""
+    ],
+    "Description": "This resource is used to represent SNMP protocol for the manager for a Redfish implementation.",
+    "SNMPTraps": {
+        "AlertRecipient": {
+            "CriticalEvents": {
+                "AcceptedEvents": [
+                    ""
+                ],
+                "Enabled": false
+            },
+            "SystemEvents": {
+                "AcceptedEvents": [
+                    ""
+                ],
+                "Enabled": false
+            },
+            "WarningEvents": {
+                "AcceptedEvents": [
+                    ""
+                ],
+                "Enabled": false
+            }
+        },
+        "Port": 162,
+        "ProtocolEnabled": false,
+        "SNMPv1TrapEnabled": false,
+        "Targets": [
+            {
+                "Addresses": [
+                    ""
+                ]
+            }
+        ]
+    },
+    "SNMPv3Agent": {
+        "ContactPerson": "",
+        "Links": {
+            "UsersSNMPv3Settings": {
+                "@odata.id": "/redfish/v1/AccountService/Accounts/"
+            }
+        },
+        "Location": "",
+        "Port": 161,
+        "ProtocolEnabled": false
+    }
+}

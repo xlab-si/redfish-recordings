@@ -1,1 +1,19 @@
-{"Schema":"#ResourceBlock.ResourceBlock","@odata.id":"/redfish/v1/JsonSchemas/ResourceBlock","Name":"ResourceBlock JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ResourceBlock.json","Language":"en"}],"@odata.etag":"W/\"55ebb42c7f4fd868b01748a2a8dc618b\"","Id":"ResourceBlock","Description":"ResourceBlock schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"55ebb42c7f4fd868b01748a2a8dc618b\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ResourceBlock",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "ResourceBlock schema information",
+    "Id": "ResourceBlock",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ResourceBlock.json"
+        }
+    ],
+    "Name": "ResourceBlock JSON Schema File",
+    "Schema": "#ResourceBlock.ResourceBlock"
+}

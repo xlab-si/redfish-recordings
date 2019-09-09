@@ -1,1 +1,26 @@
-{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/","Name":"LenovoRemoteMapService","@odata.context":"/redfish/v1/$metadata#LenovoRemoteMapService.LenovoRemoteMapService","@odata.type":"#LenovoRemoteMapService.v1_0_0.LenovoRemoteMapService","MountImages":{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/"},"ServiceEnabled":true,"@odata.etag":"W/\"dc39544251a76138b19b18ad36a85e3d\"","Actions":{"#LenovoRemoteMapService.Reset":{"target":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.Reset","title":"#LenovoRemoteMapService.Reset"},"#LenovoRemoteMapService.UMount":{"target":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.UMount","title":"#LenovoRemoteMapService.UMount"},"#LenovoRemoteMapService.Mount":{"target":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.Mount","title":"#LenovoRemoteMapService.Mount"}},"Description":"This resource is used to represent remote map service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoRemoteMapService.LenovoRemoteMapService",
+    "@odata.etag": "W/\"dc39544251a76138b19b18ad36a85e3d\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/",
+    "@odata.type": "#LenovoRemoteMapService.v1_0_0.LenovoRemoteMapService",
+    "Actions": {
+        "#LenovoRemoteMapService.Mount": {
+            "target": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.Mount",
+            "title": "#LenovoRemoteMapService.Mount"
+        },
+        "#LenovoRemoteMapService.Reset": {
+            "target": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.Reset",
+            "title": "#LenovoRemoteMapService.Reset"
+        },
+        "#LenovoRemoteMapService.UMount": {
+            "target": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/Actions/LenovoRemoteMapService.UMount",
+            "title": "#LenovoRemoteMapService.UMount"
+        }
+    },
+    "Description": "This resource is used to represent remote map service for a Redfish implementation.",
+    "MountImages": {
+        "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/"
+    },
+    "Name": "LenovoRemoteMapService",
+    "ServiceEnabled": true
+}

@@ -1,1 +1,103 @@
-{"FQDN":"XCC-7X06-S4AEU038.xlab.lan","SNMP":{"ProtocolEnabled":true,"Port":161},"Id":"NetworkProtocol","@odata.context":"/redfish/v1/$metadata#ManagerNetworkProtocol.ManagerNetworkProtocol","HostName":"XCC-7X06-S4AEU038","VirtualMedia":{"ProtocolEnabled":true,"Port":3900},"Description":"The resource is used to represent the network service settings for the manager for a Redfish implementation.","KVMIP":{"ProtocolEnabled":true,"Port":3900},"HTTP":{"ProtocolEnabled":true,"Port":80},"Name":"Manager Network Protocol","DHCP":{"ProtocolEnabled":true},"@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/","HTTPS":{"ProtocolEnabled":true,"Port":443},"Oem":{"Lenovo":{"DNS":{"@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/DNS"},"SLP":{"ProtocolEnabled":true,"MulticastAddress":"239.255.255.253","AddressType":"Multicast","Port":427},"CimOverHTTPS":{"ProtocolEnabled":true,"Port":5989},"SNMP":{"@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SNMP"},"SMTPClient":{"@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SMTPClient"},"LDAPClient":{"@odata.id":"/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/LDAPClient"},"OpenPorts":[22,68,80,81,115,161,199,427,443,546,623,1900,3306,3389,3900,5900,5989]}},"@odata.type":"#ManagerNetworkProtocol.v1_2_0.ManagerNetworkProtocol","SSDP":{"ProtocolEnabled":true,"NotifyMulticastIntervalSeconds":60,"NotifyTTL":2,"NotifyIPv6Scope":"Organization","Port":1900},"IPMI":{"ProtocolEnabled":true,"Port":623},"@odata.etag":"W/\"3489172d2fb617bcd53f95dc8e01f797\"","SSH":{"ProtocolEnabled":true,"Port":22},"NTP":{"NTPServers":["","","",""],"ProtocolEnabled":false}}
+{
+    "@odata.context": "/redfish/v1/$metadata#ManagerNetworkProtocol.ManagerNetworkProtocol",
+    "@odata.etag": "W/\"3489172d2fb617bcd53f95dc8e01f797\"",
+    "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/",
+    "@odata.type": "#ManagerNetworkProtocol.v1_2_0.ManagerNetworkProtocol",
+    "DHCP": {
+        "ProtocolEnabled": true
+    },
+    "Description": "The resource is used to represent the network service settings for the manager for a Redfish implementation.",
+    "FQDN": "XCC-7X06-S4AEU038.xlab.lan",
+    "HTTP": {
+        "Port": 80,
+        "ProtocolEnabled": true
+    },
+    "HTTPS": {
+        "Port": 443,
+        "ProtocolEnabled": true
+    },
+    "HostName": "XCC-7X06-S4AEU038",
+    "IPMI": {
+        "Port": 623,
+        "ProtocolEnabled": true
+    },
+    "Id": "NetworkProtocol",
+    "KVMIP": {
+        "Port": 3900,
+        "ProtocolEnabled": true
+    },
+    "NTP": {
+        "NTPServers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ProtocolEnabled": false
+    },
+    "Name": "Manager Network Protocol",
+    "Oem": {
+        "Lenovo": {
+            "CimOverHTTPS": {
+                "Port": 5989,
+                "ProtocolEnabled": true
+            },
+            "DNS": {
+                "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/DNS"
+            },
+            "LDAPClient": {
+                "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/LDAPClient"
+            },
+            "OpenPorts": [
+                22,
+                68,
+                80,
+                81,
+                115,
+                161,
+                199,
+                427,
+                443,
+                546,
+                623,
+                1900,
+                3306,
+                3389,
+                3900,
+                5900,
+                5989
+            ],
+            "SLP": {
+                "AddressType": "Multicast",
+                "MulticastAddress": "239.255.255.253",
+                "Port": 427,
+                "ProtocolEnabled": true
+            },
+            "SMTPClient": {
+                "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SMTPClient"
+            },
+            "SNMP": {
+                "@odata.id": "/redfish/v1/Managers/1/NetworkProtocol/Oem/Lenovo/SNMP"
+            }
+        }
+    },
+    "SNMP": {
+        "Port": 161,
+        "ProtocolEnabled": true
+    },
+    "SSDP": {
+        "NotifyIPv6Scope": "Organization",
+        "NotifyMulticastIntervalSeconds": 60,
+        "NotifyTTL": 2,
+        "Port": 1900,
+        "ProtocolEnabled": true
+    },
+    "SSH": {
+        "Port": 22,
+        "ProtocolEnabled": true
+    },
+    "VirtualMedia": {
+        "Port": 3900,
+        "ProtocolEnabled": true
+    }
+}

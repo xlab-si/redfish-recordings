@@ -1,1 +1,37 @@
-{"RedundancySet@odata.navigationLink":"/redfish/v1/Chassis/1/Power/Redundancy/PSU/RedundancySet","@odata.etag":"W/\"6dd2a00c5c4535c3e12bab80fa0cbcf4\"","@odata.id":"/redfish/v1/Chassis/1/Power/Redundancy/PSU","Status":{"State":"Enabled","Health":"OK"},"RedundancySet@odata.count":2,"Name":"PSU Redundancy","@odata.context":"/redfish/v1/$metadata#Redundancy.Redundancy","RedundancySet":[{"@odata.id":"/redfish/v1/Chassis/1/Power/#/PowerSupplies/0"},{"@odata.id":"/redfish/v1/Chassis/1/Power/#/PowerSupplies/1"}],"Oem":{"Lenovo":{"NonRedundantAvailablePower":1100,"PowerRedundancySettings":{"EstimatedUsage":"42.27%","MaxPowerLimitWatts":1100,"PowerFailureLimit":0,"PowerRedundancyPolicy":"RedundantWithThrottling"}}},"@odata.type":"#Redundancy.v1_2_0.Redundancy","MemberId":"PSU","MinNumNeeded":2,"MaxNumSupported":2,"Mode":"N+m","RedundancyEnabled":true}
+{
+    "@odata.context": "/redfish/v1/$metadata#Redundancy.Redundancy",
+    "@odata.etag": "W/\"6dd2a00c5c4535c3e12bab80fa0cbcf4\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Power/Redundancy/PSU",
+    "@odata.type": "#Redundancy.v1_2_0.Redundancy",
+    "MaxNumSupported": 2,
+    "MemberId": "PSU",
+    "MinNumNeeded": 2,
+    "Mode": "N+m",
+    "Name": "PSU Redundancy",
+    "Oem": {
+        "Lenovo": {
+            "NonRedundantAvailablePower": 1100,
+            "PowerRedundancySettings": {
+                "EstimatedUsage": "42.27%",
+                "MaxPowerLimitWatts": 1100,
+                "PowerFailureLimit": 0,
+                "PowerRedundancyPolicy": "RedundantWithThrottling"
+            }
+        }
+    },
+    "RedundancyEnabled": true,
+    "RedundancySet": [
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Power/#/PowerSupplies/0"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Power/#/PowerSupplies/1"
+        }
+    ],
+    "RedundancySet@odata.count": 2,
+    "RedundancySet@odata.navigationLink": "/redfish/v1/Chassis/1/Power/Redundancy/PSU/RedundancySet",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

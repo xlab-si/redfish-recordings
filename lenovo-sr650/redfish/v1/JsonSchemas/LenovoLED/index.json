@@ -1,1 +1,19 @@
-{"Schema":"#LenovoLED.LenovoLED","@odata.id":"/redfish/v1/JsonSchemas/LenovoLED","Name":"LenovoLED JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoLED.json","Language":"en"}],"@odata.etag":"W/\"e46a760627b0e42531aa0319a7baa434\"","Id":"LenovoLED","Description":"LenovoLED schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"e46a760627b0e42531aa0319a7baa434\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoLED",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoLED schema information",
+    "Id": "LenovoLED",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoLED.json"
+        }
+    ],
+    "Name": "LenovoLED JSON Schema File",
+    "Schema": "#LenovoLED.LenovoLED"
+}

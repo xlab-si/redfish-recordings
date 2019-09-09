@@ -1,1 +1,46 @@
-{"@odata.etag":"W/\"670c58528bb999f62f459d4e67ae123e\"","MessageArgs":["CIM:ep1","XCC-7X06-S4AEU038","fe80::7ed3:0aff:fe54:f025","64"],"Id":"990","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/990","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"ENET[CIM:ep1] IPv6-LinkLocal:HstName=XCC-7X06-S4AEU038, IP@=fe80::7ed3:0aff:fe54:f025 ,Pref=64  .","Oem":{"Lenovo":{"ReportingChain":"","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"0","RelatedEventID":"","Hidden":false,"EventID":"0x4000003700000000","EventSequenceNumber":218,"EventType":0,"LenovoMessageID":"Lenovo0055","Serviceable":"Not Serviceable","CommonEventID":"FQXSPNM4028I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-08T10:34:43.639+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"670c58528bb999f62f459d4e67ae123e\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/990",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-08T10:34:43.639+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "990",
+    "Message": "ENET[CIM:ep1] IPv6-LinkLocal:HstName=XCC-7X06-S4AEU038, IP@=fe80::7ed3:0aff:fe54:f025 ,Pref=64  .",
+    "MessageArgs": [
+        "CIM:ep1",
+        "XCC-7X06-S4AEU038",
+        "fe80::7ed3:0aff:fe54:f025",
+        "64"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPNM4028I",
+            "EventFlag": 0,
+            "EventID": "0x4000003700000000",
+            "EventSequenceNumber": 218,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "Lenovo0055",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "0"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

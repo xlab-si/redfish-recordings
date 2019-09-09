@@ -1,1 +1,9 @@
-{"ExternalPort":0,"@odata.type":"#LenovoPortForwardingMap.v1_0_0.LenovoPortForwardingMap","@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/PortForwardingMap/5","Type":"EthtoUSB","@odata.etag":"W/\"c6e53503e60dd567b175287a86bb824f\"","@odata.context":"/redfish/v1/$metadata#LenovoPortForwardingMap.LenovoPortForwardingMap","USBPort":0}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoPortForwardingMap.LenovoPortForwardingMap",
+    "@odata.etag": "W/\"c6e53503e60dd567b175287a86bb824f\"",
+    "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/PortForwardingMap/5",
+    "@odata.type": "#LenovoPortForwardingMap.v1_0_0.LenovoPortForwardingMap",
+    "ExternalPort": 0,
+    "Type": "EthtoUSB",
+    "USBPort": 0
+}

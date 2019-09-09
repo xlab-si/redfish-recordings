@@ -1,1 +1,19 @@
-{"Schema":"#LenovoServerProfileTaskData.v1_0_0.LenovoServerProfileTaskData","@odata.id":"/redfish/v1/JsonSchemas/LenovoServerProfileTaskData.v1_0_0","Name":"LenovoServerProfileTaskData JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoServerProfileTaskData.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"7dbcacfff39bf89df8e1ea93f988c74e\"","Id":"LenovoServerProfileTaskData.v1_0_0","Description":"LenovoServerProfileTaskData schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"7dbcacfff39bf89df8e1ea93f988c74e\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoServerProfileTaskData.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoServerProfileTaskData schema information",
+    "Id": "LenovoServerProfileTaskData.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoServerProfileTaskData.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoServerProfileTaskData JSON Schema File",
+    "Schema": "#LenovoServerProfileTaskData.v1_0_0.LenovoServerProfileTaskData"
+}

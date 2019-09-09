@@ -1,1 +1,18 @@
-{"@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/","Members@odata.count":2,"@odata.context":"/redfish/v1/$metadata#EthernetInterfaceCollection.EthernetInterfaceCollection","Members":[{"@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/NIC"},{"@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/ToHost/"}],"@odata.type":"#EthernetInterfaceCollection.EthernetInterfaceCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/EthernetInterfaces/Members","@odata.etag":"W/\"04c25428b228f8a926e97ccf7b7f785e\"","Name":"EthernetInterfaceCollection","Description":"A Collection of EthernetInterface resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#EthernetInterfaceCollection.EthernetInterfaceCollection",
+    "@odata.etag": "W/\"04c25428b228f8a926e97ccf7b7f785e\"",
+    "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/",
+    "@odata.type": "#EthernetInterfaceCollection.EthernetInterfaceCollection",
+    "Description": "A Collection of EthernetInterface resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/NIC"
+        },
+        {
+            "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/ToHost/"
+        }
+    ],
+    "Members@odata.count": 2,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/EthernetInterfaces/Members",
+    "Name": "EthernetInterfaceCollection"
+}

@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"6f1e18303b90d378716b2bb80c9047f9\"","MessageArgs":["USERID"],"Id":"3500","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/3500","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"User USERID removed.","Oem":{"Lenovo":{"ReportingChain":"","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"0","RelatedEventID":"","Hidden":false,"EventID":"0x4000006500000000","EventSequenceNumber":3147,"EventType":0,"LenovoMessageID":"Lenovo0101","Serviceable":"Not Serviceable","CommonEventID":"FQXSPSE4018I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-30T13:08:16.360+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"6f1e18303b90d378716b2bb80c9047f9\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/3500",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-30T13:08:16.360+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "3500",
+    "Message": "User USERID removed.",
+    "MessageArgs": [
+        "USERID"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPSE4018I",
+            "EventFlag": 0,
+            "EventID": "0x4000006500000000",
+            "EventSequenceNumber": 3147,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "Lenovo0101",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "0"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

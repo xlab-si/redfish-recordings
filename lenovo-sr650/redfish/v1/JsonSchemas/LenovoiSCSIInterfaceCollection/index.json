@@ -1,1 +1,19 @@
-{"Schema":"#LenovoiSCSIInterfaceCollection.LenovoiSCSIInterfaceCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoiSCSIInterfaceCollection","Name":"LenovoiSCSIInterfaceCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoiSCSIInterfaceCollection.json","Language":"en"}],"@odata.etag":"W/\"5cef9135feb44dc5b61e90cc5f0cecc9\"","Id":"LenovoiSCSIInterfaceCollection","Description":"LenovoiSCSIInterfaceCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"5cef9135feb44dc5b61e90cc5f0cecc9\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoiSCSIInterfaceCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoiSCSIInterfaceCollection schema information",
+    "Id": "LenovoiSCSIInterfaceCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoiSCSIInterfaceCollection.json"
+        }
+    ],
+    "Name": "LenovoiSCSIInterfaceCollection JSON Schema File",
+    "Schema": "#LenovoiSCSIInterfaceCollection.LenovoiSCSIInterfaceCollection"
+}

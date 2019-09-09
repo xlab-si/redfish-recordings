@@ -1,1 +1,15 @@
-{"@odata.id":"/redfish/v1/Managers/1/HostInterfaces/","Members@odata.count":1,"@odata.context":"/redfish/v1/$metadata#HostInterfaceCollection.HostInterfaceCollection","Members":[{"@odata.id":"/redfish/v1/Managers/1/HostInterfaces/1/"}],"@odata.type":"#HostInterfaceCollection.HostInterfaceCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/HostInterfaces/Members","@odata.etag":"W/\"fd5c5b6d645e0a047f3c1f42ba30ece7\"","Name":"HostInterfaceCollection","Description":"A Collection of HostInterface resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#HostInterfaceCollection.HostInterfaceCollection",
+    "@odata.etag": "W/\"fd5c5b6d645e0a047f3c1f42ba30ece7\"",
+    "@odata.id": "/redfish/v1/Managers/1/HostInterfaces/",
+    "@odata.type": "#HostInterfaceCollection.HostInterfaceCollection",
+    "Description": "A Collection of HostInterface resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Managers/1/HostInterfaces/1/"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/HostInterfaces/Members",
+    "Name": "HostInterfaceCollection"
+}

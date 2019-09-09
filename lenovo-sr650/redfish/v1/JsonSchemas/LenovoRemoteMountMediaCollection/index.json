@@ -1,1 +1,19 @@
-{"Schema":"#LenovoRemoteMountMediaCollection.LenovoRemoteMountMediaCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoRemoteMountMediaCollection","Name":"LenovoRemoteMountMediaCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoRemoteMountMediaCollection.json","Language":"en"}],"@odata.etag":"W/\"fa11c3b90d599ddce03726aa3da1202c\"","Id":"LenovoRemoteMountMediaCollection","Description":"LenovoRemoteMountMediaCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"fa11c3b90d599ddce03726aa3da1202c\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoRemoteMountMediaCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoRemoteMountMediaCollection schema information",
+    "Id": "LenovoRemoteMountMediaCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoRemoteMountMediaCollection.json"
+        }
+    ],
+    "Name": "LenovoRemoteMountMediaCollection JSON Schema File",
+    "Schema": "#LenovoRemoteMountMediaCollection.LenovoRemoteMountMediaCollection"
+}

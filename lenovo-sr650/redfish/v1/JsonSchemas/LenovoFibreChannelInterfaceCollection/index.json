@@ -1,1 +1,19 @@
-{"Schema":"#LenovoFibreChannelInterfaceCollection.LenovoFibreChannelInterfaceCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoFibreChannelInterfaceCollection","Name":"LenovoFibreChannelInterfaceCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoFibreChannelInterfaceCollection.json","Language":"en"}],"@odata.etag":"W/\"d145fb9fc2b631715109bb70b05c89b6\"","Id":"LenovoFibreChannelInterfaceCollection","Description":"LenovoFibreChannelInterfaceCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"d145fb9fc2b631715109bb70b05c89b6\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoFibreChannelInterfaceCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoFibreChannelInterfaceCollection schema information",
+    "Id": "LenovoFibreChannelInterfaceCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoFibreChannelInterfaceCollection.json"
+        }
+    ],
+    "Name": "LenovoFibreChannelInterfaceCollection JSON Schema File",
+    "Schema": "#LenovoFibreChannelInterfaceCollection.LenovoFibreChannelInterfaceCollection"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#LenovoLogEntry","@odata.id":"/redfish/v1/JsonSchemas/LenovoLogEntry.v1_0_0","Name":"LenovoLogEntry JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoLogEntry.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"ebd53e144c7bece2b5d5c384a69861cf\"","Id":"LenovoLogEntry.v1_0_0","Description":"LenovoLogEntry schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ebd53e144c7bece2b5d5c384a69861cf\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoLogEntry.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoLogEntry schema information",
+    "Id": "LenovoLogEntry.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoLogEntry.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoLogEntry JSON Schema File",
+    "Schema": "#LenovoLogEntry"
+}

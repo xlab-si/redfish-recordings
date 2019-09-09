@@ -1,1 +1,19 @@
-{"Schema":"#SecureBoot.SecureBoot","@odata.id":"/redfish/v1/JsonSchemas/SecureBoot","Name":"SecureBoot JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SecureBoot.json","Language":"en"}],"@odata.etag":"W/\"87c52aeb5a895a3f8253560342ea6687\"","Id":"SecureBoot","Description":"SecureBoot schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"87c52aeb5a895a3f8253560342ea6687\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SecureBoot",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SecureBoot schema information",
+    "Id": "SecureBoot",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SecureBoot.json"
+        }
+    ],
+    "Name": "SecureBoot JSON Schema File",
+    "Schema": "#SecureBoot.SecureBoot"
+}

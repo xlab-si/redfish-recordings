@@ -1,1 +1,16 @@
-{"IsPredefined":true,"@odata.id":"/redfish/v1/AccountService/Roles/Operator","AssignedPrivileges":["Login","ConfigureSelf","ConfigureComponents"],"Name":"Operator","@odata.context":"/redfish/v1/$metadata#Role.Role","@odata.type":"#Role.v1_1_0.Role","OemPrivileges":[],"@odata.etag":"W/\"0074e9ab7a729f5ff540129d6a75a2af\"","Id":"Operator","Description":"This resource is used to represent a user role for the user account for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#Role.Role",
+    "@odata.etag": "W/\"0074e9ab7a729f5ff540129d6a75a2af\"",
+    "@odata.id": "/redfish/v1/AccountService/Roles/Operator",
+    "@odata.type": "#Role.v1_1_0.Role",
+    "AssignedPrivileges": [
+        "Login",
+        "ConfigureSelf",
+        "ConfigureComponents"
+    ],
+    "Description": "This resource is used to represent a user role for the user account for a Redfish implementation.",
+    "Id": "Operator",
+    "IsPredefined": true,
+    "Name": "Operator",
+    "OemPrivileges": []
+}

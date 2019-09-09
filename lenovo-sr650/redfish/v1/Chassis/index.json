@@ -1,1 +1,15 @@
-{"@odata.id":"/redfish/v1/Chassis/","Members@odata.count":1,"@odata.context":"/redfish/v1/$metadata#ChassisCollection.ChassisCollection","Members":[{"@odata.id":"/redfish/v1/Chassis/1/"}],"@odata.type":"#ChassisCollection.ChassisCollection","Members@odata.navigationLink":"/redfish/v1/Chassis/Members","@odata.etag":"W/\"aef74912345d8e2ae00d008591fc5d85\"","Name":"ChassisCollection","Description":"A Collection of Chassis resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#ChassisCollection.ChassisCollection",
+    "@odata.etag": "W/\"aef74912345d8e2ae00d008591fc5d85\"",
+    "@odata.id": "/redfish/v1/Chassis/",
+    "@odata.type": "#ChassisCollection.ChassisCollection",
+    "Description": "A Collection of Chassis resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Chassis/Members",
+    "Name": "ChassisCollection"
+}

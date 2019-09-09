@@ -1,1 +1,40 @@
-{"RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/"}],"RelatedItem@odata.count":1,"UefiDevicePaths":[null],"Id":"LXPMLinuxDriver1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/LXPMLinuxDriver1/RelatedItem","Name":"LXPM Linux Drivers","Version":"1.20","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Oem":{"Lenovo":{"Classifications":["2"],"FirmwareBuild":"PDL212S","ReleaseDate":"2018-01-31","Manufacturer":"Lenovo","FirmwareRole":"Primary","FirmwareType":"LXPMLinuxDrivers","FirmwareName":"LXPM Linux Drivers"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/LXPMLinuxDriver1","Updateable":true,"@odata.etag":"W/\"4ad15d06f843ca9bab8d4633d082d1f4\"","SoftwareId":"PDL2","Description":"The information of LXPM Linux Drivers."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"4ad15d06f843ca9bab8d4633d082d1f4\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/LXPMLinuxDriver1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of LXPM Linux Drivers.",
+    "Id": "LXPMLinuxDriver1",
+    "Name": "LXPM Linux Drivers",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "2"
+            ],
+            "FirmwareBuild": "PDL212S",
+            "FirmwareName": "LXPM Linux Drivers",
+            "FirmwareRole": "Primary",
+            "FirmwareType": "LXPMLinuxDrivers",
+            "Manufacturer": "Lenovo",
+            "ReleaseDate": "2018-01-31"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/LXPMLinuxDriver1/RelatedItem",
+    "SoftwareId": "PDL2",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "UefiDevicePaths": [
+        null
+    ],
+    "Updateable": true,
+    "Version": "1.20"
+}

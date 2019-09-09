@@ -1,1 +1,19 @@
-{"Schema":"#EthernetInterface.EthernetInterface","@odata.id":"/redfish/v1/JsonSchemas/EthernetInterface","Name":"EthernetInterface JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/EthernetInterface.json","Language":"en"}],"@odata.etag":"W/\"ff9a2b9f242ff4238b1b54ed837a63bd\"","Id":"EthernetInterface","Description":"EthernetInterface schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ff9a2b9f242ff4238b1b54ed837a63bd\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/EthernetInterface",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "EthernetInterface schema information",
+    "Id": "EthernetInterface",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/EthernetInterface.json"
+        }
+    ],
+    "Name": "EthernetInterface JSON Schema File",
+    "Schema": "#EthernetInterface.EthernetInterface"
+}

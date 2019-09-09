@@ -1,1 +1,19 @@
-{"Schema":"#LenovoHistoryMetricValue.LenovoHistoryMetricValue","@odata.id":"/redfish/v1/JsonSchemas/LenovoHistoryMetricValue","Name":"LenovoHistoryMetricValue JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoHistoryMetricValue.json","Language":"en"}],"@odata.etag":"W/\"b376b000ec60095da289596c88b90462\"","Id":"LenovoHistoryMetricValue","Description":"LenovoHistoryMetricValue schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"b376b000ec60095da289596c88b90462\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoHistoryMetricValue",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoHistoryMetricValue schema information",
+    "Id": "LenovoHistoryMetricValue",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoHistoryMetricValue.json"
+        }
+    ],
+    "Name": "LenovoHistoryMetricValue JSON Schema File",
+    "Schema": "#LenovoHistoryMetricValue.LenovoHistoryMetricValue"
+}

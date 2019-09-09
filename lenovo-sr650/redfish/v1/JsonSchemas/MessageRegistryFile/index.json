@@ -1,1 +1,19 @@
-{"Schema":"#MessageRegistryFile.MessageRegistryFile","@odata.id":"/redfish/v1/JsonSchemas/MessageRegistryFile","Name":"MessageRegistryFile JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/MessageRegistryFile.json","Language":"en"}],"@odata.etag":"W/\"fd455ad660aad9fed02bf34d12a1dece\"","Id":"MessageRegistryFile","Description":"MessageRegistryFile schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"fd455ad660aad9fed02bf34d12a1dece\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/MessageRegistryFile",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "MessageRegistryFile schema information",
+    "Id": "MessageRegistryFile",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/MessageRegistryFile.json"
+        }
+    ],
+    "Name": "MessageRegistryFile JSON Schema File",
+    "Schema": "#MessageRegistryFile.MessageRegistryFile"
+}

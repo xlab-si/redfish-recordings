@@ -1,1 +1,19 @@
-{"Schema":"#AttributeRegistry.v1_1_0.AttributeRegistry","@odata.id":"/redfish/v1/JsonSchemas/AttributeRegistry.v1_1_0","Name":"AttributeRegistry JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/AttributeRegistry.v1_1_0.json","Language":"en"}],"@odata.etag":"W/\"e9a9319d1ae95dff2b4f91c3a9d9f612\"","Id":"AttributeRegistry.v1_1_0","Description":"AttributeRegistry schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"e9a9319d1ae95dff2b4f91c3a9d9f612\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/AttributeRegistry.v1_1_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "AttributeRegistry schema information",
+    "Id": "AttributeRegistry.v1_1_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/AttributeRegistry.v1_1_0.json"
+        }
+    ],
+    "Name": "AttributeRegistry JSON Schema File",
+    "Schema": "#AttributeRegistry.v1_1_0.AttributeRegistry"
+}

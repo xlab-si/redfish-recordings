@@ -1,1 +1,29 @@
-{"@odata.etag":"W/\"d5314857b7312fbc9c640398e109dee8\"","Id":"3","@odata.id":"/redfish/v1/AccountService/Accounts/3","Links":{"Role":{"@odata.id":"/redfish/v1/AccountService/Roles/CustomRole3"}},"Name":"User3","@odata.context":"/redfish/v1/$metadata#ManagerAccount.ManagerAccount","UserName":"","Password":null,"@odata.type":"#ManagerAccount.v1_1_0.ManagerAccount","Oem":{"Lenovo:SSHPublicKey":[],"Lenovo:SNMPv3Settings":{"AccessType":"Get","PrivacyProtocolPassword":null,"Destination":"","AuthenticationProtocol":"None","PrivacyProtocol":"None"}},"RoleId":"CustomRole3","Enabled":false,"Locked":false,"Description":"This resource is used to represent an account for the manager for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#ManagerAccount.ManagerAccount",
+    "@odata.etag": "W/\"d5314857b7312fbc9c640398e109dee8\"",
+    "@odata.id": "/redfish/v1/AccountService/Accounts/3",
+    "@odata.type": "#ManagerAccount.v1_1_0.ManagerAccount",
+    "Description": "This resource is used to represent an account for the manager for a Redfish implementation.",
+    "Enabled": false,
+    "Id": "3",
+    "Links": {
+        "Role": {
+            "@odata.id": "/redfish/v1/AccountService/Roles/CustomRole3"
+        }
+    },
+    "Locked": false,
+    "Name": "User3",
+    "Oem": {
+        "Lenovo:SNMPv3Settings": {
+            "AccessType": "Get",
+            "AuthenticationProtocol": "None",
+            "Destination": "",
+            "PrivacyProtocol": "None",
+            "PrivacyProtocolPassword": null
+        },
+        "Lenovo:SSHPublicKey": []
+    },
+    "Password": null,
+    "RoleId": "CustomRole3",
+    "UserName": ""
+}

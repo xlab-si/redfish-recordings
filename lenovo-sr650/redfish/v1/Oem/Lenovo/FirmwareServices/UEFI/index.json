@@ -1,1 +1,30 @@
-{"Id":"UEFI","Firmwares":[{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/UEFI"}],"Name":"LenovoFirmwareService","@odata.context":"/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService","ChangeHistory":{"@odata.id":"/redfish/v1/Systems/1/LogServices/"},"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI","@odata.type":"#LenovoFirmwareService.v1_0_0.LenovoFirmwareService","Actions":{"#LenovoFirmwareService.InstallFromURI":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI/Actions/LenovoFirmwareService.InstallFromURI","InstallOptions@Redfish.AllowableValues":["Install"],"title":"InstallFromURI"}},"Description":"This resource is used to represent a firmware service for a Redfish implementation.","@odata.etag":"W/\"105227ba9a8c75118b09f513df5aae34\"","Task":{"@odata.id":"/redfish/v1/Tasks/Tasks/"},"@Redfish.Deprecated":"The UEFI FirmwareService is deprecated. Please use UpdateService instead."}
+{
+    "@Redfish.Deprecated": "The UEFI FirmwareService is deprecated. Please use UpdateService instead.",
+    "@odata.context": "/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService",
+    "@odata.etag": "W/\"105227ba9a8c75118b09f513df5aae34\"",
+    "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI",
+    "@odata.type": "#LenovoFirmwareService.v1_0_0.LenovoFirmwareService",
+    "Actions": {
+        "#LenovoFirmwareService.InstallFromURI": {
+            "InstallOptions@Redfish.AllowableValues": [
+                "Install"
+            ],
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI/Actions/LenovoFirmwareService.InstallFromURI",
+            "title": "InstallFromURI"
+        }
+    },
+    "ChangeHistory": {
+        "@odata.id": "/redfish/v1/Systems/1/LogServices/"
+    },
+    "Description": "This resource is used to represent a firmware service for a Redfish implementation.",
+    "Firmwares": [
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/UEFI"
+        }
+    ],
+    "Id": "UEFI",
+    "Name": "LenovoFirmwareService",
+    "Task": {
+        "@odata.id": "/redfish/v1/Tasks/Tasks/"
+    }
+}

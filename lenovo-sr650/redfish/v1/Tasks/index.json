@@ -1,1 +1,27 @@
-{"Tasks":{"Members":[],"Members@odata.count":0,"@odata.type":"#TaskCollection.TaskCollection","@odata.id":"/redfish/v1/Tasks/Tasks/","Members@odata.navigationLink":"/redfish/v1/Tasks/Tasks/Members","@odata.context":"/redfish/v1/$metadata#TaskCollection.TaskCollection","Name":"Task Collection","Description":"A Collection of Task resource instances."},"Id":"TaskService","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"Name":"Task Service","ServiceEnabled":true,"@odata.id":"/redfish/v1/Tasks/","@odata.type":"#TaskService.v1_1_0.TaskService","CompletedTaskOverWritePolicy":"Oldest","@odata.context":"/redfish/v1/$metadata#TaskService.TaskService","@odata.etag":"W/\"89aac8e844610484c648f35775f0fcbf\"","LifeCycleEventOnTaskStateChange":true,"Description":"This is used to represent a task service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#TaskService.TaskService",
+    "@odata.etag": "W/\"89aac8e844610484c648f35775f0fcbf\"",
+    "@odata.id": "/redfish/v1/Tasks/",
+    "@odata.type": "#TaskService.v1_1_0.TaskService",
+    "CompletedTaskOverWritePolicy": "Oldest",
+    "Description": "This is used to represent a task service for a Redfish implementation.",
+    "Id": "TaskService",
+    "LifeCycleEventOnTaskStateChange": true,
+    "Name": "Task Service",
+    "ServiceEnabled": true,
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Tasks": {
+        "@odata.context": "/redfish/v1/$metadata#TaskCollection.TaskCollection",
+        "@odata.id": "/redfish/v1/Tasks/Tasks/",
+        "@odata.type": "#TaskCollection.TaskCollection",
+        "Description": "A Collection of Task resource instances.",
+        "Members": [],
+        "Members@odata.count": 0,
+        "Members@odata.navigationLink": "/redfish/v1/Tasks/Tasks/Members",
+        "Name": "Task Collection"
+    }
+}

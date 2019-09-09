@@ -1,1 +1,33 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk18","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay0"}],"Id":"Disk18","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":1,"Name":"Disk firmware","Version":"T87RA34 ","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Disk18/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"Manufacturer":"LEN","FirmwareStatus":"Active"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"0754b58e120e6bc467412ffe3a2b2291\"","SoftwareId":"LITEON CV3-8D128","Description":"The firmware information of a disk controlled by a RAID, M.2 or NVMe controller."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"0754b58e120e6bc467412ffe3a2b2291\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk18",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The firmware information of a disk controlled by a RAID, M.2 or NVMe controller.",
+    "Id": "Disk18",
+    "Name": "Disk firmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareStatus": "Active",
+            "Manufacturer": "LEN"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/Drives/Drive.M.2_Bay0"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Disk18/RelatedItem",
+    "SoftwareId": "LITEON CV3-8D128",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "T87RA34 "
+}

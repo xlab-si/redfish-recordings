@@ -1,1 +1,19 @@
-{"Schema":"#Redundancy","@odata.id":"/redfish/v1/JsonSchemas/Redundancy","Name":"Redundancy JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Redundancy.json","Language":"en"}],"@odata.etag":"W/\"a75bb12e33b2648b479ef6efd9748c77\"","Id":"Redundancy","Description":"Redundancy schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"a75bb12e33b2648b479ef6efd9748c77\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Redundancy",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Redundancy schema information",
+    "Id": "Redundancy",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Redundancy.json"
+        }
+    ],
+    "Name": "Redundancy JSON Schema File",
+    "Schema": "#Redundancy"
+}

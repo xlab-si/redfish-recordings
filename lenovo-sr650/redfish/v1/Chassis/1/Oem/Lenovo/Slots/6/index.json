@@ -1,1 +1,13 @@
-{"SupportsHotPlug":false,"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/6","Name":"LenovoSlot","ConnectorLayout":"M.2 Socket 3 (Mechanical Key M)","Number":"Slot 8 M.2","@odata.type":"#LenovoSlot.v1_0_0.LenovoSlot","@odata.etag":"W/\"00c85c2cca3712cfffe41dbd3b27e3f3\"","@odata.context":"/redfish/v1/$metadata#LenovoSlot.LenovoSlot","MaxDataWidth":"2x or x2","Id":"6","Description":"This resource is used to represent slot information for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSlot.LenovoSlot",
+    "@odata.etag": "W/\"00c85c2cca3712cfffe41dbd3b27e3f3\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/6",
+    "@odata.type": "#LenovoSlot.v1_0_0.LenovoSlot",
+    "ConnectorLayout": "M.2 Socket 3 (Mechanical Key M)",
+    "Description": "This resource is used to represent slot information for a Redfish implementation.",
+    "Id": "6",
+    "MaxDataWidth": "2x or x2",
+    "Name": "LenovoSlot",
+    "Number": "Slot 8 M.2",
+    "SupportsHotPlug": false
+}

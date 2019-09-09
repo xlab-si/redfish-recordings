@@ -1,1 +1,19 @@
-{"Schema":"#LogService.LogService","@odata.id":"/redfish/v1/JsonSchemas/LogService","Name":"LogService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LogService.json","Language":"en"}],"@odata.etag":"W/\"ddde9dbd8cf085f45a43c9c0ec14cda8\"","Id":"LogService","Description":"LogService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ddde9dbd8cf085f45a43c9c0ec14cda8\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LogService",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LogService schema information",
+    "Id": "LogService",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LogService.json"
+        }
+    ],
+    "Name": "LogService JSON Schema File",
+    "Schema": "#LogService.LogService"
+}

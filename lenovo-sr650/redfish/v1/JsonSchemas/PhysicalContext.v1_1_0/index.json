@@ -1,1 +1,19 @@
-{"Schema":"#PhysicalContext.v1_1_0","@odata.id":"/redfish/v1/JsonSchemas/PhysicalContext.v1_1_0","Name":"PhysicalContext JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/PhysicalContext.v1_1_0.json","Language":"en"}],"@odata.etag":"W/\"03e81474ac02772ebda0df92113c90ce\"","Id":"PhysicalContext.v1_1_0","Description":"PhysicalContext schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"03e81474ac02772ebda0df92113c90ce\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/PhysicalContext.v1_1_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "PhysicalContext schema information",
+    "Id": "PhysicalContext.v1_1_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/PhysicalContext.v1_1_0.json"
+        }
+    ],
+    "Name": "PhysicalContext JSON Schema File",
+    "Schema": "#PhysicalContext.v1_1_0"
+}

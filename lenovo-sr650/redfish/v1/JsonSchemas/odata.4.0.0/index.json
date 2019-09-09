@@ -1,1 +1,19 @@
-{"Schema":"#odata.4.0.0","@odata.id":"/redfish/v1/JsonSchemas/odata.4.0.0","Name":"odata JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/odata.4.0.0.json","Language":"en"}],"@odata.etag":"W/\"3d2d024efb34e863aaa6cc18fd9b15b7\"","Id":"odata.4.0.0","Description":"odata schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"3d2d024efb34e863aaa6cc18fd9b15b7\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/odata.4.0.0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "odata schema information",
+    "Id": "odata.4.0.0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/odata.4.0.0.json"
+        }
+    ],
+    "Name": "odata JSON Schema File",
+    "Schema": "#odata.4.0.0"
+}

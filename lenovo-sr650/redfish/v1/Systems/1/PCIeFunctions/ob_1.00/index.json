@@ -1,1 +1,35 @@
-{"VendorId":"0x8086","@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_1.00","Links":{"Drives":[],"StorageControllers":[],"PCIeDevice":{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_1"},"EthernetInterfaces":[{"@odata.id":"/redfish/v1/Systems/1/EthernetInterfaces/NIC1"}]},"FunctionId":0,"RevisionId":"0x09","Description":"This resource represents the properties of a PCIeFunction attached to a System.","FunctionType":"Physical","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"DeviceClass":"NetworkController","Name":"Intel X722 LOM 09:00:00","SubsystemVendorId":"0x17aa","SubsystemId":"0x4021","@odata.type":"#PCIeFunction.v1_1_0.PCIeFunction","DeviceId":"0x37d2","@odata.context":"/redfish/v1/$metadata#PCIeFunction.PCIeFunction","@odata.etag":"W/\"a7779996828b2685d8eb5517d97f9460\"","Id":"ob_1.00","ClassCode":"0x020000"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeFunction.PCIeFunction",
+    "@odata.etag": "W/\"a7779996828b2685d8eb5517d97f9460\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_1.00",
+    "@odata.type": "#PCIeFunction.v1_1_0.PCIeFunction",
+    "ClassCode": "0x020000",
+    "Description": "This resource represents the properties of a PCIeFunction attached to a System.",
+    "DeviceClass": "NetworkController",
+    "DeviceId": "0x37d2",
+    "FunctionId": 0,
+    "FunctionType": "Physical",
+    "Id": "ob_1.00",
+    "Links": {
+        "Drives": [],
+        "EthernetInterfaces": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/EthernetInterfaces/NIC1"
+            }
+        ],
+        "PCIeDevice": {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_1"
+        },
+        "StorageControllers": []
+    },
+    "Name": "Intel X722 LOM 09:00:00",
+    "RevisionId": "0x09",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "SubsystemId": "0x4021",
+    "SubsystemVendorId": "0x17aa",
+    "VendorId": "0x8086"
+}

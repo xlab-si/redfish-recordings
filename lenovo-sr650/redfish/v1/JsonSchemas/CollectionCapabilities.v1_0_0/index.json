@@ -1,1 +1,19 @@
-{"Schema":"#CollectionCapabilities.v1_0_0.CollectionCapabilities","@odata.id":"/redfish/v1/JsonSchemas/CollectionCapabilities.v1_0_0","Name":"CollectionCapabilities JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/CollectionCapabilities.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"b2694ed24bbcca9d5108327dbc868c71\"","Id":"CollectionCapabilities.v1_0_0","Description":"CollectionCapabilities schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"b2694ed24bbcca9d5108327dbc868c71\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/CollectionCapabilities.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "CollectionCapabilities schema information",
+    "Id": "CollectionCapabilities.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/CollectionCapabilities.v1_0_0.json"
+        }
+    ],
+    "Name": "CollectionCapabilities JSON Schema File",
+    "Schema": "#CollectionCapabilities.v1_0_0.CollectionCapabilities"
+}

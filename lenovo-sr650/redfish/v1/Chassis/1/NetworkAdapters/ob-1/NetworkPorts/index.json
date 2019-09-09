@@ -1,1 +1,24 @@
-{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/","Members@odata.count":4,"@odata.context":"/redfish/v1/$metadata#NetworkPortCollection.NetworkPortCollection","Members":[{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/1"},{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/2"},{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/3"},{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/4"}],"@odata.type":"#NetworkPortCollection.NetworkPortCollection","Members@odata.navigationLink":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/Members","@odata.etag":"W/\"83b4cb93bee8d3a6de95620c3d8c537f\"","Name":"NetworkPortCollection","Description":"A Collection of NetworkPort resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#NetworkPortCollection.NetworkPortCollection",
+    "@odata.etag": "W/\"83b4cb93bee8d3a6de95620c3d8c537f\"",
+    "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/",
+    "@odata.type": "#NetworkPortCollection.NetworkPortCollection",
+    "Description": "A Collection of NetworkPort resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/2"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/3"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/4"
+        }
+    ],
+    "Members@odata.count": 4,
+    "Members@odata.navigationLink": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/Members",
+    "Name": "NetworkPortCollection"
+}

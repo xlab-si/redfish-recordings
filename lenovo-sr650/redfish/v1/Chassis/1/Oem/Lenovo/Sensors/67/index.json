@@ -1,1 +1,22 @@
-{"Id":"67","EntityInstance":4,"Assertion":"Assert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"51f77b7f02b92b283130afce70ee3b24\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/67","State":32769,"SensorNumber":67,"Name":"PCI 4 OverTemp","OwnerID":16,"SensorTypeNumber":1,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":11,"Reading":0,"BaseUnit":"0","ReadingType":7,"SensorType":"Temperature"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"51f77b7f02b92b283130afce70ee3b24\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/67",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Assert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 11,
+    "EntityInstance": 4,
+    "Id": "67",
+    "Name": "PCI 4 OverTemp",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 7,
+    "RecordType": 2,
+    "SensorNumber": 67,
+    "SensorType": "Temperature",
+    "SensorTypeNumber": 1,
+    "State": 32769
+}

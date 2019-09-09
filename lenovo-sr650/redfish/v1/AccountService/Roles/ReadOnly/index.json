@@ -1,1 +1,17 @@
-{"IsPredefined":true,"@odata.id":"/redfish/v1/AccountService/Roles/ReadOnly","AssignedPrivileges":["Login","ConfigureSelf"],"Name":"ReadOnly","@odata.context":"/redfish/v1/$metadata#Role.Role","@odata.type":"#Role.v1_1_0.Role","OemPrivileges":["ReadOnly"],"@odata.etag":"W/\"b0b2f892148b24e51d7410daf945ea3b\"","Id":"ReadOnly","Description":"This resource is used to represent a user role for the user account for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#Role.Role",
+    "@odata.etag": "W/\"b0b2f892148b24e51d7410daf945ea3b\"",
+    "@odata.id": "/redfish/v1/AccountService/Roles/ReadOnly",
+    "@odata.type": "#Role.v1_1_0.Role",
+    "AssignedPrivileges": [
+        "Login",
+        "ConfigureSelf"
+    ],
+    "Description": "This resource is used to represent a user role for the user account for a Redfish implementation.",
+    "Id": "ReadOnly",
+    "IsPredefined": true,
+    "Name": "ReadOnly",
+    "OemPrivileges": [
+        "ReadOnly"
+    ]
+}

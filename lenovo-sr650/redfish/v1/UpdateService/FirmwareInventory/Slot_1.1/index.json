@@ -1,1 +1,41 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Slot_1.1","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/slot_1"},{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/"}],"Id":"Slot_1.1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":2,"Name":"MegaRAID Controller Firmware","Version":"50.3.0-1075","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Slot_1.1/RelatedItem","Oem":{"Lenovo":{"Classifications":["13"],"FirmwareStatus":"Active","Manufacturer":"AVAGO Technologies","FirmwareName":"MegaRAID Controller Firmware","PLDMFWInfo":{"PLDMUpdSupported":false},"ReleaseDate":"12/27/2017"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"9351d1383fab3f5f7ddf42c18fb699fc\"","SoftwareId":"1D490603","Description":"The information of MegaRAID Controller Firmware firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"9351d1383fab3f5f7ddf42c18fb699fc\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Slot_1.1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of MegaRAID Controller Firmware firmware.",
+    "Id": "Slot_1.1",
+    "Name": "MegaRAID Controller Firmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "13"
+            ],
+            "FirmwareName": "MegaRAID Controller Firmware",
+            "FirmwareStatus": "Active",
+            "Manufacturer": "AVAGO Technologies",
+            "PLDMFWInfo": {
+                "PLDMUpdSupported": false
+            },
+            "ReleaseDate": "12/27/2017"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/slot_1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/"
+        }
+    ],
+    "RelatedItem@odata.count": 2,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Slot_1.1/RelatedItem",
+    "SoftwareId": "1D490603",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "50.3.0-1075"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#LenvoInfinibandInterface.LenovoInfinibandInterface","@odata.id":"/redfish/v1/JsonSchemas/LenovoInfinibandInterface","Name":"LenovoInfinibandInterface JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoInfinibandInterface.json","Language":"en"}],"@odata.etag":"W/\"83c936a8471cf7502568fe5f5d23f605\"","Id":"LenovoInfinibandInterface","Description":"LenovoInfinibandInterface schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"83c936a8471cf7502568fe5f5d23f605\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoInfinibandInterface",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoInfinibandInterface schema information",
+    "Id": "LenovoInfinibandInterface",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoInfinibandInterface.json"
+        }
+    ],
+    "Name": "LenovoInfinibandInterface JSON Schema File",
+    "Schema": "#LenvoInfinibandInterface.LenovoInfinibandInterface"
+}

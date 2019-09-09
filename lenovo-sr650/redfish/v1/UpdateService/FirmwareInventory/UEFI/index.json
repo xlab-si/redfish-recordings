@@ -1,1 +1,41 @@
-{"RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/UEFI/RelatedItem","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","RelatedItem@odata.count":1,"Updateable":true,"LowestSupportedVersion":"IVE112K","Description":"The information of UEFI firmware.","UefiDevicePaths":[null],"Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"Name":"UEFI","@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/UEFI","Oem":{"Lenovo":{"Classifications":["6"],"FirmwareBuild":"IVE116S","ReleaseDate":"2018-02-08","Manufacturer":"Lenovo","FirmwareRole":"Primary","FirmwareType":"UEFI","FirmwareName":"UEFI"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","Version":"1.20","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/"}],"@odata.etag":"W/\"3b731adef557189bbd09af2f00b6478b\"","SoftwareId":"IVE1","Id":"UEFI"}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"3b731adef557189bbd09af2f00b6478b\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/UEFI",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of UEFI firmware.",
+    "Id": "UEFI",
+    "LowestSupportedVersion": "IVE112K",
+    "Name": "UEFI",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "6"
+            ],
+            "FirmwareBuild": "IVE116S",
+            "FirmwareName": "UEFI",
+            "FirmwareRole": "Primary",
+            "FirmwareType": "UEFI",
+            "Manufacturer": "Lenovo",
+            "ReleaseDate": "2018-02-08"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/UEFI/RelatedItem",
+    "SoftwareId": "IVE1",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "UefiDevicePaths": [
+        null
+    ],
+    "Updateable": true,
+    "Version": "1.20"
+}

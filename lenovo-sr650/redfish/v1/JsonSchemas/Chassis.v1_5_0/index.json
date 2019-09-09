@@ -1,1 +1,19 @@
-{"Schema":"#Chassis.v1_5_0.Chassis","@odata.id":"/redfish/v1/JsonSchemas/Chassis.v1_5_0","Name":"Chassis JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Chassis.v1_5_0.json","Language":"en"}],"@odata.etag":"W/\"55be852e6a5fe3120ee1cff4c30f8bee\"","Id":"Chassis.v1_5_0","Description":"Chassis schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"55be852e6a5fe3120ee1cff4c30f8bee\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Chassis.v1_5_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Chassis schema information",
+    "Id": "Chassis.v1_5_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Chassis.v1_5_0.json"
+        }
+    ],
+    "Name": "Chassis JSON Schema File",
+    "Schema": "#Chassis.v1_5_0.Chassis"
+}

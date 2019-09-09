@@ -1,1 +1,11 @@
-{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/","Members@odata.count":0,"@odata.context":"/redfish/v1/$metadata#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection","Members":[],"@odata.type":"#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/Members","@odata.etag":"W/\"f0891661365ea6896b9387966d3b669b\"","Name":"LenovoRemoteMapMediaCollection","Description":"A Collection of RemoteMapMedia resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection",
+    "@odata.etag": "W/\"f0891661365ea6896b9387966d3b669b\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/",
+    "@odata.type": "#LenovoRemoteMapMediaCollection.LenovoRemoteMapMediaCollection",
+    "Description": "A Collection of RemoteMapMedia resource instances.",
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/Oem/Lenovo/RemoteMap/MountImages/Members",
+    "Name": "LenovoRemoteMapMediaCollection"
+}

@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"a8401884b60fc496d1d4d4f31a79c2fa\"","MessageArgs":["front panel board 1"],"Id":"984","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/984","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"front panel board 1 detected as present.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x806f00250c01ffff","EventSequenceNumber":213,"EventType":0,"LenovoMessageID":"PLAT0390","Serviceable":"Not Serviceable","CommonEventID":"FQXSPPR0000I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-08T10:34:10.382+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"a8401884b60fc496d1d4d4f31a79c2fa\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/984",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-08T10:34:10.382+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "984",
+    "Message": "front panel board 1 detected as present.",
+    "MessageArgs": [
+        "front panel board 1"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPPR0000I",
+            "EventFlag": 0,
+            "EventID": "0x806f00250c01ffff",
+            "EventSequenceNumber": 213,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0390",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

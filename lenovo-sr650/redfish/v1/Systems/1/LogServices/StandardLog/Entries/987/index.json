@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"cedb14b4de9c258f4e67e002d4db4eae\"","MessageArgs":["SN#   S4AEU038"],"Id":"987","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/987","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"Management Controller SN#   S4AEU038 Network Initialization Complete.","Oem":{"Lenovo":{"ReportingChain":"","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"0","RelatedEventID":"","Hidden":false,"EventID":"0x4000000100000000","EventSequenceNumber":216,"EventType":0,"LenovoMessageID":"Lenovo0001","Serviceable":"Not Serviceable","CommonEventID":"FQXSPNM4000I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-08T10:34:40.893+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"cedb14b4de9c258f4e67e002d4db4eae\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/987",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-08T10:34:40.893+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "987",
+    "Message": "Management Controller SN#   S4AEU038 Network Initialization Complete.",
+    "MessageArgs": [
+        "SN#   S4AEU038"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPNM4000I",
+            "EventFlag": 0,
+            "EventID": "0x4000000100000000",
+            "EventSequenceNumber": 216,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "Lenovo0001",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "0"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

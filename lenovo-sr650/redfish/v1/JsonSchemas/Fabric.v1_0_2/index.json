@@ -1,1 +1,19 @@
-{"Schema":"#Fabric.v1_0_2.Fabric","@odata.id":"/redfish/v1/JsonSchemas/Fabric.v1_0_2","Name":"Fabric JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Fabric.v1_0_2.json","Language":"en"}],"@odata.etag":"W/\"e3df3882c4e75d48e09d24be2938f48f\"","Id":"Fabric.v1_0_2","Description":"Fabric schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"e3df3882c4e75d48e09d24be2938f48f\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Fabric.v1_0_2",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Fabric schema information",
+    "Id": "Fabric.v1_0_2",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Fabric.v1_0_2.json"
+        }
+    ],
+    "Name": "Fabric JSON Schema File",
+    "Schema": "#Fabric.v1_0_2.Fabric"
+}

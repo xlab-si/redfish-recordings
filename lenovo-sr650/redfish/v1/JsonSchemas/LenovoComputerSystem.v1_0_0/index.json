@@ -1,1 +1,19 @@
-{"Schema":"#LenovoComputerSystem","@odata.id":"/redfish/v1/JsonSchemas/LenovoComputerSystem.v1_0_0","Name":"LenovoComputerSystem JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoComputerSystem.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"8a0b1cc028d4a46fa52502deaed8906b\"","Id":"LenovoComputerSystem.v1_0_0","Description":"LenovoComputerSystem schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"8a0b1cc028d4a46fa52502deaed8906b\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoComputerSystem.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoComputerSystem schema information",
+    "Id": "LenovoComputerSystem.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoComputerSystem.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoComputerSystem JSON Schema File",
+    "Schema": "#LenovoComputerSystem"
+}

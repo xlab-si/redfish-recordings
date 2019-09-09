@@ -1,1 +1,35 @@
-{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_7","Status":{"State":"Enabled"},"Links":{"Chassis":[{"@odata.id":"/redfish/v1/Chassis/1/"}],"PCIeFunctions":[{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_7.00"},{"@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_7.05"}]},"Name":"Adapter","@odata.context":"/redfish/v1/$metadata#PCIeDevice.PCIeDevice","Oem":{"Lenovo":{"Location":{"InfoFormat":"OnBoard","Info":"OnBoard"}}},"@odata.type":"#PCIeDevice.v1_1_0.PCIeDevice","@odata.etag":"W/\"34b53a141c897f33917e6a2389e9a5bb\"","Id":"ob_7","Description":"This resource represents the properties of a PCIeDevice attached to a System."}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeDevice.PCIeDevice",
+    "@odata.etag": "W/\"34b53a141c897f33917e6a2389e9a5bb\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_7",
+    "@odata.type": "#PCIeDevice.v1_1_0.PCIeDevice",
+    "Description": "This resource represents the properties of a PCIeDevice attached to a System.",
+    "Id": "ob_7",
+    "Links": {
+        "Chassis": [
+            {
+                "@odata.id": "/redfish/v1/Chassis/1/"
+            }
+        ],
+        "PCIeFunctions": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_7.00"
+            },
+            {
+                "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_7.05"
+            }
+        ]
+    },
+    "Name": "Adapter",
+    "Oem": {
+        "Lenovo": {
+            "Location": {
+                "Info": "OnBoard",
+                "InfoFormat": "OnBoard"
+            }
+        }
+    },
+    "Status": {
+        "State": "Enabled"
+    }
+}

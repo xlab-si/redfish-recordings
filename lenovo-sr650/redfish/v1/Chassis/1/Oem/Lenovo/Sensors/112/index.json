@@ -1,1 +1,22 @@
-{"Id":"112","EntityInstance":16,"Assertion":"Assert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"014473b0accd3b91c75fe003131e806d\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/112","State":32777,"SensorNumber":112,"Name":"Drive 16","OwnerID":16,"SensorTypeNumber":13,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":4,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Drive Slot"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"014473b0accd3b91c75fe003131e806d\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/112",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Assert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 4,
+    "EntityInstance": 16,
+    "Id": "112",
+    "Name": "Drive 16",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 112,
+    "SensorType": "Drive Slot",
+    "SensorTypeNumber": 13,
+    "State": 32777
+}

@@ -1,1 +1,13 @@
-{"TimerExpired":false,"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/3","State":"EnabledButOffline","@odata.context":"/redfish/v1/$metadata#LenovoWatchdog.LenovoWatchdog","Type":"BIOSBootProcess","@odata.type":"#LenovoWatchdog.v1_0_0.LenovoWatchdog","TimerValueInSec":null,"Id":"3","@odata.etag":"W/\"7afa6df18d6c12e5c578694ab22b0016\"","TimeoutIntervalInSec":null,"Description":"This resource is used to represent a watchdog of a system for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoWatchdog.LenovoWatchdog",
+    "@odata.etag": "W/\"7afa6df18d6c12e5c578694ab22b0016\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/3",
+    "@odata.type": "#LenovoWatchdog.v1_0_0.LenovoWatchdog",
+    "Description": "This resource is used to represent a watchdog of a system for a Redfish implementation.",
+    "Id": "3",
+    "State": "EnabledButOffline",
+    "TimeoutIntervalInSec": null,
+    "TimerExpired": false,
+    "TimerValueInSec": null,
+    "Type": "BIOSBootProcess"
+}

@@ -1,1 +1,34 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk7","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.6"}],"Id":"Disk7","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":1,"Name":"Disk firmware","Version":"MD44","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Disk7/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"FirmwareStatus":"Active","Manufacturer":"ATA","ReleaseDate":""}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"2704831f38e2c358ffb3a9935dac07fb\"","SoftwareId":"MTFDDAK1T9TCB-1AR1ZA","Description":"The firmware information of a disk controlled by a RAID, M.2 or NVMe controller."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"2704831f38e2c358ffb3a9935dac07fb\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk7",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The firmware information of a disk controlled by a RAID, M.2 or NVMe controller.",
+    "Id": "Disk7",
+    "Name": "Disk firmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareStatus": "Active",
+            "Manufacturer": "ATA",
+            "ReleaseDate": ""
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.6"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Disk7/RelatedItem",
+    "SoftwareId": "MTFDDAK1T9TCB-1AR1ZA",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "MD44"
+}

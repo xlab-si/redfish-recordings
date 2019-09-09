@@ -1,1 +1,22 @@
-{"Id":"41","EntityInstance":1,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"ec3c0fa6d45eef9470af4653cb8a43b8\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/41","State":32768,"SensorNumber":41,"Name":"TXT ACM Module","OwnerID":16,"SensorTypeNumber":15,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":34,"Reading":0,"BaseUnit":"0","ReadingType":7,"SensorType":"System Firmware Post"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"ec3c0fa6d45eef9470af4653cb8a43b8\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/41",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 34,
+    "EntityInstance": 1,
+    "Id": "41",
+    "Name": "TXT ACM Module",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 7,
+    "RecordType": 2,
+    "SensorNumber": 41,
+    "SensorType": "System Firmware Post",
+    "SensorTypeNumber": 15,
+    "State": 32768
+}

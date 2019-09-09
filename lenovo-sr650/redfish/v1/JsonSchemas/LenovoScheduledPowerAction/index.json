@@ -1,1 +1,19 @@
-{"Schema":"#LenovoScheduledPowerAction.LenovoScheduledPowerAction","@odata.id":"/redfish/v1/JsonSchemas/LenovoScheduledPowerAction","Name":"LenovoScheduledPowerAction JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoScheduledPowerAction.json","Language":"en"}],"@odata.etag":"W/\"9e10a14197f2381b87689a3d77157775\"","Id":"LenovoScheduledPowerAction","Description":"LenovoScheduledPowerAction schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"9e10a14197f2381b87689a3d77157775\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoScheduledPowerAction",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoScheduledPowerAction schema information",
+    "Id": "LenovoScheduledPowerAction",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoScheduledPowerAction.json"
+        }
+    ],
+    "Name": "LenovoScheduledPowerAction JSON Schema File",
+    "Schema": "#LenovoScheduledPowerAction.LenovoScheduledPowerAction"
+}

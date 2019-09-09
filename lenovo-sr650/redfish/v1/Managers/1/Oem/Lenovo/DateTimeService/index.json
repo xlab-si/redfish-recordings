@@ -1,1 +1,24 @@
-{"SettingMethod":"SyncwithHost","UTCOffset":"+0:00","@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/DateTimeService","@odata.context":"/redfish/v1/$metadata#LenovoDateTimeService.LenovoDateTimeService","NTPServerAddresses":["","","",""],"DateTime":"2018-05-30 13:25:23+00:00","@odata.type":"#LenovoDateTimeService.v1_0_0.LenovoDateTimeService","AutoDST":false,"Frequency":600,"@odata.etag":"W/\"beda8f5e55eab4f087a2ffc943f20122\"","Actions":{"#LenovoDateTimeService.ImmediatelySync":{"target":"/redfish/v1/Managers/1/Oem/Lenovo/DateTimeService/Actions/LenovoDateTimeService.ImmediatelySync","title":"#LenovoDateTimeService.ImmediatelySync"}},"Description":"This resource is used to represent the manager Date and Time setting for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoDateTimeService.LenovoDateTimeService",
+    "@odata.etag": "W/\"beda8f5e55eab4f087a2ffc943f20122\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/DateTimeService",
+    "@odata.type": "#LenovoDateTimeService.v1_0_0.LenovoDateTimeService",
+    "Actions": {
+        "#LenovoDateTimeService.ImmediatelySync": {
+            "target": "/redfish/v1/Managers/1/Oem/Lenovo/DateTimeService/Actions/LenovoDateTimeService.ImmediatelySync",
+            "title": "#LenovoDateTimeService.ImmediatelySync"
+        }
+    },
+    "AutoDST": false,
+    "DateTime": "2018-05-30 13:25:23+00:00",
+    "Description": "This resource is used to represent the manager Date and Time setting for a Redfish implementation.",
+    "Frequency": 600,
+    "NTPServerAddresses": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "SettingMethod": "SyncwithHost",
+    "UTCOffset": "+0:00"
+}

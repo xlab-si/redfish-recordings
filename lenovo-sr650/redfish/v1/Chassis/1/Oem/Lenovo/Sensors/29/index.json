@@ -1,1 +1,22 @@
-{"Id":"29","EntityInstance":1,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"3059edef844a88eea4b365f20b6a6edc\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/29","State":32768,"SensorNumber":29,"Name":"Progress","OwnerID":16,"SensorTypeNumber":15,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":34,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"System Firmware Post"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"3059edef844a88eea4b365f20b6a6edc\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/29",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 34,
+    "EntityInstance": 1,
+    "Id": "29",
+    "Name": "Progress",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 29,
+    "SensorType": "System Firmware Post",
+    "SensorTypeNumber": 15,
+    "State": 32768
+}

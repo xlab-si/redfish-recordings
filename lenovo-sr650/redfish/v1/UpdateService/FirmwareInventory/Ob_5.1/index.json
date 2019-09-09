@@ -1,1 +1,38 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Ob_5.1","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_5"}],"Id":"Ob_5.1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":1,"Name":"PCIFirmware","Version":"","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Ob_5.1/RelatedItem","Oem":{"Lenovo":{"Classifications":["0"],"FirmwareStatus":"Active","Manufacturer":"","FirmwareName":"PCIFirmware","PLDMFWInfo":{"PLDMUpdSupported":false},"ReleaseDate":""}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"9b84953b27b9b6817c084becd1655b63\"","SoftwareId":"19a2:101","Description":"The information of PCIFirmware firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"9b84953b27b9b6817c084becd1655b63\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Ob_5.1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of PCIFirmware firmware.",
+    "Id": "Ob_5.1",
+    "Name": "PCIFirmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "0"
+            ],
+            "FirmwareName": "PCIFirmware",
+            "FirmwareStatus": "Active",
+            "Manufacturer": "",
+            "PLDMFWInfo": {
+                "PLDMUpdSupported": false
+            },
+            "ReleaseDate": ""
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_5"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Ob_5.1/RelatedItem",
+    "SoftwareId": "19a2:101",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": ""
+}

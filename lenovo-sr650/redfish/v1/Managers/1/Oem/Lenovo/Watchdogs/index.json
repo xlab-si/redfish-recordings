@@ -1,1 +1,24 @@
-{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/","Members@odata.count":4,"@odata.context":"/redfish/v1/$metadata#LenovoWatchdogCollection.LenovoWatchdogCollection","Members":[{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/1"},{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/2"},{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/3"},{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/4"}],"@odata.type":"#LenovoWatchdogCollection.LenovoWatchdogCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/Members","@odata.etag":"W/\"ff7b59c64be56e8e5a20968c8ed6a72d\"","Name":"LenovoWatchdogCollection","Description":"A Collection of Watchdog resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoWatchdogCollection.LenovoWatchdogCollection",
+    "@odata.etag": "W/\"ff7b59c64be56e8e5a20968c8ed6a72d\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/",
+    "@odata.type": "#LenovoWatchdogCollection.LenovoWatchdogCollection",
+    "Description": "A Collection of Watchdog resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/2"
+        },
+        {
+            "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/3"
+        },
+        {
+            "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/4"
+        }
+    ],
+    "Members@odata.count": 4,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/Oem/Lenovo/Watchdogs/Members",
+    "Name": "LenovoWatchdogCollection"
+}

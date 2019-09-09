@@ -1,1 +1,30 @@
-{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/","Members@odata.count":6,"@odata.context":"/redfish/v1/$metadata#LenovoSlotCollection.LenovoSlotCollection","Members":[{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/1"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/2"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/3"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/4"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/5"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/6"}],"@odata.type":"#LenovoSlotCollection.LenovoSlotCollection","Members@odata.navigationLink":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/Members","@odata.etag":"W/\"f6f67270f960bc495d3dcaab539c7bda\"","Name":"Lenovo Slot Collection","Description":"A Collection of Lenovo Slot resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSlotCollection.LenovoSlotCollection",
+    "@odata.etag": "W/\"f6f67270f960bc495d3dcaab539c7bda\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/",
+    "@odata.type": "#LenovoSlotCollection.LenovoSlotCollection",
+    "Description": "A Collection of Lenovo Slot resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/2"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/3"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/4"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/5"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/6"
+        }
+    ],
+    "Members@odata.count": 6,
+    "Members@odata.navigationLink": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/Members",
+    "Name": "Lenovo Slot Collection"
+}

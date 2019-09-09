@@ -1,1 +1,19 @@
-{"Schema":"#Power.Power","@odata.id":"/redfish/v1/JsonSchemas/Power","Name":"Power JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Power.json","Language":"en"}],"@odata.etag":"W/\"8769d8f942fbd2fcac63daff5875f887\"","Id":"Power","Description":"Power schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"8769d8f942fbd2fcac63daff5875f887\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Power",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Power schema information",
+    "Id": "Power",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Power.json"
+        }
+    ],
+    "Name": "Power JSON Schema File",
+    "Schema": "#Power.Power"
+}

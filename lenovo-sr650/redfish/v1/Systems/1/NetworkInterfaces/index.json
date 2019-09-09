@@ -1,1 +1,15 @@
-{"@odata.id":"/redfish/v1/Systems/1/NetworkInterfaces/","Members@odata.count":1,"@odata.context":"/redfish/v1/$metadata#NetworkInterfaceCollection.NetworkInterfaceCollection","Members":[{"@odata.id":"/redfish/v1/Systems/1/NetworkInterfaces/1"}],"@odata.type":"#NetworkInterfaceCollection.NetworkInterfaceCollection","Members@odata.navigationLink":"/redfish/v1/Systems/1/NetworkInterfaces/Members","@odata.etag":"W/\"5685bd02dfe9c5bb639a98b5da78d4d6\"","Name":"NetworkInterfaceCollection","Description":"A Collection of NetworkInterface resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#NetworkInterfaceCollection.NetworkInterfaceCollection",
+    "@odata.etag": "W/\"5685bd02dfe9c5bb639a98b5da78d4d6\"",
+    "@odata.id": "/redfish/v1/Systems/1/NetworkInterfaces/",
+    "@odata.type": "#NetworkInterfaceCollection.NetworkInterfaceCollection",
+    "Description": "A Collection of NetworkInterface resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/NetworkInterfaces/1"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/1/NetworkInterfaces/Members",
+    "Name": "NetworkInterfaceCollection"
+}

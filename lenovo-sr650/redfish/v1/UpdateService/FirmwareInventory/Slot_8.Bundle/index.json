@@ -1,1 +1,47 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Slot_8.Bundle","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/slot_8"},{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/"}],"Id":"Slot_8.Bundle","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":2,"Name":"ThinkSystem M.2 with Mirroring Enablement Kit","Version":"2.3.10.1088","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Slot_8.Bundle/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"FirmwareStatus":"Active","Manufacturer":"Marvell","ReleaseDate":"11/14/2017","PLDMFWInfo":{"LastUpdErr":"NoError","SlotNO":8,"PendingVersionStr":"2.3.10.1088","PLDMUpdSupported":true,"Location":"addon","LastUpdErrStr":"No error.","FreshUpdated":false,"PendingReleaseDate":""}}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"48d0b859a37998907470233af75bff9d\"","SoftwareId":"1D490300","Description":"The information of ThinkSystem M.2 with Mirroring Enablement Kit firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"48d0b859a37998907470233af75bff9d\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Slot_8.Bundle",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of ThinkSystem M.2 with Mirroring Enablement Kit firmware.",
+    "Id": "Slot_8.Bundle",
+    "Name": "ThinkSystem M.2 with Mirroring Enablement Kit",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareStatus": "Active",
+            "Manufacturer": "Marvell",
+            "PLDMFWInfo": {
+                "FreshUpdated": false,
+                "LastUpdErr": "NoError",
+                "LastUpdErrStr": "No error.",
+                "Location": "addon",
+                "PLDMUpdSupported": true,
+                "PendingReleaseDate": "",
+                "PendingVersionStr": "2.3.10.1088",
+                "SlotNO": 8
+            },
+            "ReleaseDate": "11/14/2017"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/slot_8"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/"
+        }
+    ],
+    "RelatedItem@odata.count": 2,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Slot_8.Bundle/RelatedItem",
+    "SoftwareId": "1D490300",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "2.3.10.1088"
+}

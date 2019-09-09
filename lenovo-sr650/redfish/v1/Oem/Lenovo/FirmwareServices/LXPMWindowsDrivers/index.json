@@ -1,1 +1,30 @@
-{"Id":"LXPMWindowsDrivers","Firmwares":[{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1"}],"Name":"LenovoFirmwareService","@odata.context":"/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService","ChangeHistory":{"@odata.id":"/redfish/v1/Systems/1/LogServices/"},"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers","@odata.type":"#LenovoFirmwareService.v1_0_0.LenovoFirmwareService","Actions":{"#LenovoFirmwareService.InstallFromURI":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers/Actions/LenovoFirmwareService.InstallFromURI","InstallOptions@Redfish.AllowableValues":["Install"],"title":"InstallFromURI"}},"Description":"This resource is used to represent a firmware service for a Redfish implementation.","@odata.etag":"W/\"8d05c797b0c81bec0678e27934c20640\"","Task":{"@odata.id":"/redfish/v1/Tasks/Tasks/"},"@Redfish.Deprecated":"The LXPMWindowsDrivers FirmwareService is deprecated. Please use UpdateService instead."}
+{
+    "@Redfish.Deprecated": "The LXPMWindowsDrivers FirmwareService is deprecated. Please use UpdateService instead.",
+    "@odata.context": "/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService",
+    "@odata.etag": "W/\"8d05c797b0c81bec0678e27934c20640\"",
+    "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers",
+    "@odata.type": "#LenovoFirmwareService.v1_0_0.LenovoFirmwareService",
+    "Actions": {
+        "#LenovoFirmwareService.InstallFromURI": {
+            "InstallOptions@Redfish.AllowableValues": [
+                "Install"
+            ],
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers/Actions/LenovoFirmwareService.InstallFromURI",
+            "title": "InstallFromURI"
+        }
+    },
+    "ChangeHistory": {
+        "@odata.id": "/redfish/v1/Systems/1/LogServices/"
+    },
+    "Description": "This resource is used to represent a firmware service for a Redfish implementation.",
+    "Firmwares": [
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1"
+        }
+    ],
+    "Id": "LXPMWindowsDrivers",
+    "Name": "LenovoFirmwareService",
+    "Task": {
+        "@odata.id": "/redfish/v1/Tasks/Tasks/"
+    }
+}

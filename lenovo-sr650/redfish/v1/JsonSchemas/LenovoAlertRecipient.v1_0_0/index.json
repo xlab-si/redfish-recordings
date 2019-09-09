@@ -1,1 +1,19 @@
-{"Schema":"#LenovoAlertRecipient.v1_0_0.LenovoAlertRecipient","@odata.id":"/redfish/v1/JsonSchemas/LenovoAlertRecipient.v1_0_0","Name":"LenovoAlertRecipient JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoAlertRecipient.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"ef3a4d40a0b6277be93d6c651ea5a0de\"","Id":"LenovoAlertRecipient.v1_0_0","Description":"LenovoAlertRecipient schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ef3a4d40a0b6277be93d6c651ea5a0de\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoAlertRecipient.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoAlertRecipient schema information",
+    "Id": "LenovoAlertRecipient.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoAlertRecipient.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoAlertRecipient JSON Schema File",
+    "Schema": "#LenovoAlertRecipient.v1_0_0.LenovoAlertRecipient"
+}

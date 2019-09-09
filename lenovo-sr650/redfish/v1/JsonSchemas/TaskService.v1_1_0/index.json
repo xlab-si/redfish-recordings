@@ -1,1 +1,19 @@
-{"Schema":"#TaskService.v1_1_0.TaskService","@odata.id":"/redfish/v1/JsonSchemas/TaskService.v1_1_0","Name":"Task Service JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/TaskService.v1_1_0.json","Language":"en"}],"@odata.etag":"W/\"5337c461532a2cf7f27cdf3666d4bc91\"","Id":"TaskService.v1_1_0","Description":"Task Service schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"5337c461532a2cf7f27cdf3666d4bc91\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/TaskService.v1_1_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Task Service schema information",
+    "Id": "TaskService.v1_1_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/TaskService.v1_1_0.json"
+        }
+    ],
+    "Name": "Task Service JSON Schema File",
+    "Schema": "#TaskService.v1_1_0.TaskService"
+}

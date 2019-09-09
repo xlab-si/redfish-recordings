@@ -1,1 +1,22 @@
-{"Id":"254","EntityInstance":1,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"fe2cf7f005ed690d3d5c258c3098dadd\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/254","State":32768,"SensorNumber":254,"Name":"SEL Fullness","OwnerID":16,"SensorTypeNumber":16,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":33,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Event Logging Disabled"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"fe2cf7f005ed690d3d5c258c3098dadd\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/254",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 33,
+    "EntityInstance": 1,
+    "Id": "254",
+    "Name": "SEL Fullness",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 254,
+    "SensorType": "Event Logging Disabled",
+    "SensorTypeNumber": 16,
+    "State": 32768
+}

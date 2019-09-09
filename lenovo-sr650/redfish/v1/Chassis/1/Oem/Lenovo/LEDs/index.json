@@ -1,1 +1,24 @@
-{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/","Members@odata.count":4,"@odata.context":"/redfish/v1/$metadata#LenovoLEDCollection.LenovoLEDCollection","Members":[{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/1"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/2"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/3"},{"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/4"}],"@odata.type":"#LenovoLEDCollection.LenovoLEDCollection","Members@odata.navigationLink":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/Members","@odata.etag":"W/\"be70c3d9e9db64300bff7ca861ea3e9f\"","Name":"LenovoLEDCollection","Description":"A Collection of LED resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoLEDCollection.LenovoLEDCollection",
+    "@odata.etag": "W/\"be70c3d9e9db64300bff7ca861ea3e9f\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/",
+    "@odata.type": "#LenovoLEDCollection.LenovoLEDCollection",
+    "Description": "A Collection of LED resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/2"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/3"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/4"
+        }
+    ],
+    "Members@odata.count": 4,
+    "Members@odata.navigationLink": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/Members",
+    "Name": "LenovoLEDCollection"
+}

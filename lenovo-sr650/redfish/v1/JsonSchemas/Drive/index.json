@@ -1,1 +1,19 @@
-{"Schema":"#Drive.Drive","@odata.id":"/redfish/v1/JsonSchemas/Drive","Name":"Drive JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Drive.json","Language":"en"}],"@odata.etag":"W/\"edbebfcdb3ffb1a89bc644173c05edcd\"","Id":"Drive","Description":"Drive schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"edbebfcdb3ffb1a89bc644173c05edcd\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Drive",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Drive schema information",
+    "Id": "Drive",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Drive.json"
+        }
+    ],
+    "Name": "Drive JSON Schema File",
+    "Schema": "#Drive.Drive"
+}

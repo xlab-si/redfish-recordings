@@ -1,1 +1,19 @@
-{"Schema":"#HostInterface.HostInterface","@odata.id":"/redfish/v1/JsonSchemas/HostInterface","Name":"HostInterface JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/HostInterface.json","Language":"en"}],"@odata.etag":"W/\"69fc41cda3297d31acc0f8f2ca71a16f\"","Id":"HostInterface","Description":"HostInterface schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"69fc41cda3297d31acc0f8f2ca71a16f\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/HostInterface",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "HostInterface schema information",
+    "Id": "HostInterface",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/HostInterface.json"
+        }
+    ],
+    "Name": "HostInterface JSON Schema File",
+    "Schema": "#HostInterface.HostInterface"
+}

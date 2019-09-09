@@ -1,1 +1,41 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Ob_1.2","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_1"},{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1"}],"Id":"Ob_1.2","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":2,"Name":"Etrack ID","Version":"80000ADE","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Ob_1.2/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"FirmwareStatus":"Active","Manufacturer":"Intel","FirmwareName":"Etrack ID","PLDMFWInfo":{"PLDMUpdSupported":false},"ReleaseDate":"N/A"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"09e8cbf45f28a970251fd65765de502d\"","SoftwareId":"17AA4021","Description":"The information of Etrack ID firmware."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"09e8cbf45f28a970251fd65765de502d\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Ob_1.2",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of Etrack ID firmware.",
+    "Id": "Ob_1.2",
+    "Name": "Etrack ID",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareName": "Etrack ID",
+            "FirmwareStatus": "Active",
+            "Manufacturer": "Intel",
+            "PLDMFWInfo": {
+                "PLDMUpdSupported": false
+            },
+            "ReleaseDate": "N/A"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_1"
+        },
+        {
+            "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1"
+        }
+    ],
+    "RelatedItem@odata.count": 2,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Ob_1.2/RelatedItem",
+    "SoftwareId": "17AA4021",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "80000ADE"
+}

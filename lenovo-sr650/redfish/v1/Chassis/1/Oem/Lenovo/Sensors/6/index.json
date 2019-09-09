@@ -1,1 +1,22 @@
-{"Id":"6","EntityInstance":130,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"fe17fe4fab3fdaf899a2879c99bc0c89\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/6","State":32768,"SensorNumber":6,"Name":"All PCI Error","OwnerID":16,"SensorTypeNumber":33,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":37,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Slot Or Connector"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"fe17fe4fab3fdaf899a2879c99bc0c89\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/6",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 37,
+    "EntityInstance": 130,
+    "Id": "6",
+    "Name": "All PCI Error",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 6,
+    "SensorType": "Slot Or Connector",
+    "SensorTypeNumber": 33,
+    "State": 32768
+}

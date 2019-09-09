@@ -1,1 +1,60 @@
-{"Id":"2","Links":{"Chassis":{"@odata.id":"/redfish/v1/Chassis/1/"}},"TotalThreads":24,"InstructionSet":"x86-64","Description":"This resource is used to represent a processor for a Redfish implementation.","@odata.etag":"W/\"54e8d1d7cbad40f074e2d0a6fdca3cfc\"","@odata.context":"/redfish/v1/$metadata#Processor.Processor","@odata.id":"/redfish/v1/Systems/1/Processors/2","Status":{"State":"Enabled","Health":"OK"},"ProcessorType":"CPU","Name":"Processor 2","ProcessorId":{"Step":"0x04","VendorId":"GenuineIntel","EffectiveModel":"0x55","EffectiveFamily":"0x06","IdentificationRegisters":"0x00050654bfebfbff","MicrocodeInfo":null},"TotalCores":12,"Oem":{"Lenovo":{"ProcessorFamily":179,"CacheInfo":[{"MaxCacheSizeKByte":768,"InstalledSizeKByte":768,"CacheLevel":"L1"},{"MaxCacheSizeKByte":12288,"InstalledSizeKByte":12288,"CacheLevel":"L2"},{"MaxCacheSizeKByte":19712,"InstalledSizeKByte":19712,"CacheLevel":"L3"}],"NumberOfEnabledCores":12,"ExternalBusClockSpeedMHz":100,"CurrentClockSpeedMHz":2600}},"@odata.type":"#Processor.v1_1_0.Processor","ProcessorArchitecture":"x86","Manufacturer":"Intel(R) Corporation","MaxSpeedMHz":3700,"Model":"Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz","Socket":"CPU 2"}
+{
+    "@odata.context": "/redfish/v1/$metadata#Processor.Processor",
+    "@odata.etag": "W/\"54e8d1d7cbad40f074e2d0a6fdca3cfc\"",
+    "@odata.id": "/redfish/v1/Systems/1/Processors/2",
+    "@odata.type": "#Processor.v1_1_0.Processor",
+    "Description": "This resource is used to represent a processor for a Redfish implementation.",
+    "Id": "2",
+    "InstructionSet": "x86-64",
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        }
+    },
+    "Manufacturer": "Intel(R) Corporation",
+    "MaxSpeedMHz": 3700,
+    "Model": "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz",
+    "Name": "Processor 2",
+    "Oem": {
+        "Lenovo": {
+            "CacheInfo": [
+                {
+                    "CacheLevel": "L1",
+                    "InstalledSizeKByte": 768,
+                    "MaxCacheSizeKByte": 768
+                },
+                {
+                    "CacheLevel": "L2",
+                    "InstalledSizeKByte": 12288,
+                    "MaxCacheSizeKByte": 12288
+                },
+                {
+                    "CacheLevel": "L3",
+                    "InstalledSizeKByte": 19712,
+                    "MaxCacheSizeKByte": 19712
+                }
+            ],
+            "CurrentClockSpeedMHz": 2600,
+            "ExternalBusClockSpeedMHz": 100,
+            "NumberOfEnabledCores": 12,
+            "ProcessorFamily": 179
+        }
+    },
+    "ProcessorArchitecture": "x86",
+    "ProcessorId": {
+        "EffectiveFamily": "0x06",
+        "EffectiveModel": "0x55",
+        "IdentificationRegisters": "0x00050654bfebfbff",
+        "MicrocodeInfo": null,
+        "Step": "0x04",
+        "VendorId": "GenuineIntel"
+    },
+    "ProcessorType": "CPU",
+    "Socket": "CPU 2",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    },
+    "TotalCores": 12,
+    "TotalThreads": 24
+}

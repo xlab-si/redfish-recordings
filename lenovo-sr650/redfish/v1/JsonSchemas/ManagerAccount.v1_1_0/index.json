@@ -1,1 +1,19 @@
-{"Schema":"#ManagerAccount.v1_1_0.ManagerAccount","@odata.id":"/redfish/v1/JsonSchemas/ManagerAccount.v1_1_0","Name":"Manager Account JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ManagerAccount.v1_1_0.json","Language":"en"}],"@odata.etag":"W/\"232bfdc875faa3e2fbaecbd5d40158df\"","Id":"ManagerAccount.v1_1_0","Description":"Manager Account schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"232bfdc875faa3e2fbaecbd5d40158df\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ManagerAccount.v1_1_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Manager Account schema information",
+    "Id": "ManagerAccount.v1_1_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ManagerAccount.v1_1_0.json"
+        }
+    ],
+    "Name": "Manager Account JSON Schema File",
+    "Schema": "#ManagerAccount.v1_1_0.ManagerAccount"
+}

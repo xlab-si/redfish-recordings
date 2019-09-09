@@ -1,1 +1,19 @@
-{"Schema":"#LenovoManager.v1_0_0.LenovoManager","@odata.id":"/redfish/v1/JsonSchemas/LenovoManager.v1_0_0","Name":"LenovoManager JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoManager.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"c09ebc26f34659e1acdc3908d6bcbe8e\"","Id":"LenovoManager.v1_0_0","Description":"LenovoManager schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"c09ebc26f34659e1acdc3908d6bcbe8e\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoManager.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoManager schema information",
+    "Id": "LenovoManager.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoManager.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoManager JSON Schema File",
+    "Schema": "#LenovoManager.v1_0_0.LenovoManager"
+}

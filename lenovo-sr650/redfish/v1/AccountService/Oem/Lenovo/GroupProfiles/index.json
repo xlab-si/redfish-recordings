@@ -1,1 +1,60 @@
-{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/","Members@odata.count":16,"@odata.context":"/redfish/v1/$metadata#LenovoManagerGroupCollection.LenovoManagerGroupCollection","Members":[{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group1"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group2"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group3"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group4"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group5"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group6"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group7"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group8"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group9"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group10"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group11"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group12"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group13"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group14"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group15"},{"@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group16"}],"@odata.type":"#LenovoManagerGroupCollection.LenovoManagerGroupCollection","Members@odata.navigationLink":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Members","@odata.etag":"W/\"83d03f98264818b064afedcc6b3b0989\"","Name":"LenovoManagerGroupCollection","Description":"A Collection of ManagerGroup resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoManagerGroupCollection.LenovoManagerGroupCollection",
+    "@odata.etag": "W/\"83d03f98264818b064afedcc6b3b0989\"",
+    "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/",
+    "@odata.type": "#LenovoManagerGroupCollection.LenovoManagerGroupCollection",
+    "Description": "A Collection of ManagerGroup resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group1"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group2"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group3"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group4"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group5"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group6"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group7"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group8"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group9"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group10"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group11"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group12"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group13"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group14"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group15"
+        },
+        {
+            "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group16"
+        }
+    ],
+    "Members@odata.count": 16,
+    "Members@odata.navigationLink": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Members",
+    "Name": "LenovoManagerGroupCollection"
+}

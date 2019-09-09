@@ -1,1 +1,18 @@
-{"@odata.id":"/redfish/v1/Systems/1/Storage/","Members@odata.count":2,"@odata.context":"/redfish/v1/$metadata#StorageCollection.StorageCollection","Members":[{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/"},{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/"}],"@odata.type":"#StorageCollection.StorageCollection","Members@odata.navigationLink":"/redfish/v1/Systems/1/Storage/Members","@odata.etag":"W/\"e6a823dd732ffb65d4e10981fdaddf24\"","Name":"StorageCollection","Description":"A Collection of Storage resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#StorageCollection.StorageCollection",
+    "@odata.etag": "W/\"e6a823dd732ffb65d4e10981fdaddf24\"",
+    "@odata.id": "/redfish/v1/Systems/1/Storage/",
+    "@odata.type": "#StorageCollection.StorageCollection",
+    "Description": "A Collection of Storage resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/"
+        }
+    ],
+    "Members@odata.count": 2,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/1/Storage/Members",
+    "Name": "StorageCollection"
+}

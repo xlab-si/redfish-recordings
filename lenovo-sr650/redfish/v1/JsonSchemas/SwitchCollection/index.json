@@ -1,1 +1,19 @@
-{"Schema":"#SwitchCollection.SwitchCollection","@odata.id":"/redfish/v1/JsonSchemas/SwitchCollection","Name":"SwitchCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SwitchCollection.json","Language":"en"}],"@odata.etag":"W/\"2caffd07ef045aced0604b7bb9be48d1\"","Id":"SwitchCollection","Description":"SwitchCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"2caffd07ef045aced0604b7bb9be48d1\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SwitchCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SwitchCollection schema information",
+    "Id": "SwitchCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SwitchCollection.json"
+        }
+    ],
+    "Name": "SwitchCollection JSON Schema File",
+    "Schema": "#SwitchCollection.SwitchCollection"
+}

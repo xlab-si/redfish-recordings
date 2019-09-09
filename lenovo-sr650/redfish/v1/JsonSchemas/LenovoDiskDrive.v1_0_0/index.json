@@ -1,1 +1,19 @@
-{"Schema":"#LenovoDiskDrive.v1_0_0.LenovoDiskDrive","@odata.id":"/redfish/v1/JsonSchemas/LenovoDiskDrive.v1_0_0","Name":"LenovoDiskDrive JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoDiskDrive.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"afa104ef50fe957ea7cfddc216aaf7c4\"","Id":"LenovoDiskDrive.v1_0_0","Description":"LenovoDiskDrive schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"afa104ef50fe957ea7cfddc216aaf7c4\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoDiskDrive.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoDiskDrive schema information",
+    "Id": "LenovoDiskDrive.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoDiskDrive.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoDiskDrive JSON Schema File",
+    "Schema": "#LenovoDiskDrive.v1_0_0.LenovoDiskDrive"
+}

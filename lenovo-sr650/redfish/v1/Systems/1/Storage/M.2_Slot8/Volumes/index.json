@@ -1,1 +1,11 @@
-{"@odata.id":"/redfish/v1/Systems/1/Storage/M.2_Slot8/Volumes/","Members@odata.count":0,"@odata.context":"/redfish/v1/$metadata#VolumeCollection.VolumeCollection","Members":[],"@odata.type":"#VolumeCollection.VolumeCollection","Members@odata.navigationLink":"/redfish/v1/Systems/1/Storage/M.2_Slot8/Volumes/Members","@odata.etag":"W/\"dfe946aea8de106f89e49b868957e6ea\"","Name":"VolumeCollection","Description":"A Collection of Volume resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#VolumeCollection.VolumeCollection",
+    "@odata.etag": "W/\"dfe946aea8de106f89e49b868957e6ea\"",
+    "@odata.id": "/redfish/v1/Systems/1/Storage/M.2_Slot8/Volumes/",
+    "@odata.type": "#VolumeCollection.VolumeCollection",
+    "Description": "A Collection of Volume resource instances.",
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/1/Storage/M.2_Slot8/Volumes/Members",
+    "Name": "VolumeCollection"
+}

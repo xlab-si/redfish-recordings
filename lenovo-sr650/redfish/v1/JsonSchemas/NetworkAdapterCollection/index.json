@@ -1,1 +1,19 @@
-{"Schema":"#NetworkAdapterCollection.NetworkAdapterCollection","@odata.id":"/redfish/v1/JsonSchemas/NetworkAdapterCollection","Name":"NetworkAdapterCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/NetworkAdapterCollection.json","Language":"en"}],"@odata.etag":"W/\"01a4937eb61bede737c893e40949b4ef\"","Id":"NetworkAdapterCollection","Description":"NetworkAdapterCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"01a4937eb61bede737c893e40949b4ef\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/NetworkAdapterCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "NetworkAdapterCollection schema information",
+    "Id": "NetworkAdapterCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/NetworkAdapterCollection.json"
+        }
+    ],
+    "Name": "NetworkAdapterCollection JSON Schema File",
+    "Schema": "#NetworkAdapterCollection.NetworkAdapterCollection"
+}

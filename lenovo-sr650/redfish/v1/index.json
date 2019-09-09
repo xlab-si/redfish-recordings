@@ -1,1 +1,53 @@
-{"Tasks":{"@odata.id":"/redfish/v1/Tasks/"},"Chassis":{"@odata.id":"/redfish/v1/Chassis/"},"Id":"RootService","Links":{"Sessions":{"@odata.id":"/redfish/v1/SessionService/Sessions/"}},"Managers":{"@odata.id":"/redfish/v1/Managers/"},"EventService":{"@odata.id":"/redfish/v1/EventService/"},"JsonSchemas":{"@odata.id":"/redfish/v1/JsonSchemas/"},"Systems":{"@odata.id":"/redfish/v1/Systems/"},"Description":"This resource is used to represent a service root for a Redfish implementation.","Registries":{"@odata.id":"/redfish/v1/Registries/"},"UUID":"REMOVED_FROM_MOCK","Name":"Root Service","RedfishVersion":"1.0.2","@odata.context":"/redfish/v1/$metadata#ServiceRoot.ServiceRoot","Oem":{"Lenovo":{"FirmwareServices":{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/"}}},"@odata.type":"#ServiceRoot.v1_2_0.ServiceRoot","SessionService":{"@odata.id":"/redfish/v1/SessionService/"},"@odata.id":"/redfish/v1","@odata.etag":"W/\"bb7f4494b922dde991a940cc8251e8fc\"","AccountService":{"@odata.id":"/redfish/v1/AccountService/"},"UpdateService":{"@odata.id":"/redfish/v1/UpdateService/"}}
+{
+    "@odata.context": "/redfish/v1/$metadata#ServiceRoot.ServiceRoot",
+    "@odata.etag": "W/\"bb7f4494b922dde991a940cc8251e8fc\"",
+    "@odata.id": "/redfish/v1",
+    "@odata.type": "#ServiceRoot.v1_2_0.ServiceRoot",
+    "AccountService": {
+        "@odata.id": "/redfish/v1/AccountService/"
+    },
+    "Chassis": {
+        "@odata.id": "/redfish/v1/Chassis/"
+    },
+    "Description": "This resource is used to represent a service root for a Redfish implementation.",
+    "EventService": {
+        "@odata.id": "/redfish/v1/EventService/"
+    },
+    "Id": "RootService",
+    "JsonSchemas": {
+        "@odata.id": "/redfish/v1/JsonSchemas/"
+    },
+    "Links": {
+        "Sessions": {
+            "@odata.id": "/redfish/v1/SessionService/Sessions/"
+        }
+    },
+    "Managers": {
+        "@odata.id": "/redfish/v1/Managers/"
+    },
+    "Name": "Root Service",
+    "Oem": {
+        "Lenovo": {
+            "FirmwareServices": {
+                "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/"
+            }
+        }
+    },
+    "RedfishVersion": "1.0.2",
+    "Registries": {
+        "@odata.id": "/redfish/v1/Registries/"
+    },
+    "SessionService": {
+        "@odata.id": "/redfish/v1/SessionService/"
+    },
+    "Systems": {
+        "@odata.id": "/redfish/v1/Systems/"
+    },
+    "Tasks": {
+        "@odata.id": "/redfish/v1/Tasks/"
+    },
+    "UUID": "REMOVED_FROM_MOCK",
+    "UpdateService": {
+        "@odata.id": "/redfish/v1/UpdateService/"
+    }
+}

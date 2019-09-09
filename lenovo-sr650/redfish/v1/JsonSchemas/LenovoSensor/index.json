@@ -1,1 +1,19 @@
-{"Schema":"#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/JsonSchemas/LenovoSensor","Name":"LenovoSensor JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoSensor.json","Language":"en"}],"@odata.etag":"W/\"5331d341ae5df1bba80d7d2d39927e4d\"","Id":"LenovoSensor","Description":"LenovoSensor schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"5331d341ae5df1bba80d7d2d39927e4d\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoSensor",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoSensor schema information",
+    "Id": "LenovoSensor",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoSensor.json"
+        }
+    ],
+    "Name": "LenovoSensor JSON Schema File",
+    "Schema": "#LenovoSensor.LenovoSensor"
+}

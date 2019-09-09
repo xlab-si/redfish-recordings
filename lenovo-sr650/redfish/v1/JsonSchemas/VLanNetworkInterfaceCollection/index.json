@@ -1,1 +1,19 @@
-{"Schema":"#VLanNetworkInterfaceCollection.VLanNetworkInterfaceCollection","@odata.id":"/redfish/v1/JsonSchemas/VLanNetworkInterfaceCollection","Name":"VLanNetworkInterfaceCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/VLanNetworkInterfaceCollection.json","Language":"en"}],"@odata.etag":"W/\"664c8f794868c3e620b5670ede8fce80\"","Id":"VLanNetworkInterfaceCollection","Description":"VLanNetworkInterfaceCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"664c8f794868c3e620b5670ede8fce80\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/VLanNetworkInterfaceCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "VLanNetworkInterfaceCollection schema information",
+    "Id": "VLanNetworkInterfaceCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/VLanNetworkInterfaceCollection.json"
+        }
+    ],
+    "Name": "VLanNetworkInterfaceCollection JSON Schema File",
+    "Schema": "#VLanNetworkInterfaceCollection.VLanNetworkInterfaceCollection"
+}

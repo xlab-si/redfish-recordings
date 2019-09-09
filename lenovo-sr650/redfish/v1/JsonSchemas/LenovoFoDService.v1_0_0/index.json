@@ -1,1 +1,19 @@
-{"Schema":"#LenovoFoDService.v1_0_0.LenovoFoDService","@odata.id":"/redfish/v1/JsonSchemas/LenovoFoDService.v1_0_0","Name":"LenovoFoDService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoFoDService.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"5eb68ab24a8b2c524cdd2ab225f31518\"","Id":"LenovoFoDService.v1_0_0","Description":"LenovoFoDService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"5eb68ab24a8b2c524cdd2ab225f31518\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoFoDService.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoFoDService schema information",
+    "Id": "LenovoFoDService.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoFoDService.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoFoDService JSON Schema File",
+    "Schema": "#LenovoFoDService.v1_0_0.LenovoFoDService"
+}

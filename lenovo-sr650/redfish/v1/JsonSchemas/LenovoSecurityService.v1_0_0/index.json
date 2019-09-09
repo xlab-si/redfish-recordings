@@ -1,1 +1,19 @@
-{"Schema":"#LenovoSecurityService.v1_0_0.LenovoSecurityService","@odata.id":"/redfish/v1/JsonSchemas/LenovoSecurityService.v1_0_0","Name":"LenovoSecurityService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoSecurityService.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"ecf454b2aba6a990b90889adfa196ba6\"","Id":"LenovoSecurityService.v1_0_0","Description":"LenovoSecurityService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ecf454b2aba6a990b90889adfa196ba6\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoSecurityService.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoSecurityService schema information",
+    "Id": "LenovoSecurityService.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoSecurityService.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoSecurityService JSON Schema File",
+    "Schema": "#LenovoSecurityService.v1_0_0.LenovoSecurityService"
+}

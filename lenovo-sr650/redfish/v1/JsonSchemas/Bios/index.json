@@ -1,1 +1,19 @@
-{"Schema":"#Bios.Bios","@odata.id":"/redfish/v1/JsonSchemas/Bios","Name":"Bios JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Bios.json","Language":"en"}],"@odata.etag":"W/\"6872330f8b46c7bf9c5b4a2ee5385625\"","Id":"Bios","Description":"Bios schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"6872330f8b46c7bf9c5b4a2ee5385625\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Bios",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Bios schema information",
+    "Id": "Bios",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Bios.json"
+        }
+    ],
+    "Name": "Bios JSON Schema File",
+    "Schema": "#Bios.Bios"
+}

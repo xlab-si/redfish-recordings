@@ -1,1 +1,19 @@
-{"Schema":"#LenovoProcessor","@odata.id":"/redfish/v1/JsonSchemas/LenovoProcessor.v1_0_0","Name":"LenovoProcessor JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoProcessor.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"9f4d2192c6f1939e424606103612acc4\"","Id":"LenovoProcessor.v1_0_0","Description":"LenovoProcessor schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"9f4d2192c6f1939e424606103612acc4\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoProcessor.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoProcessor schema information",
+    "Id": "LenovoProcessor.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoProcessor.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoProcessor JSON Schema File",
+    "Schema": "#LenovoProcessor"
+}

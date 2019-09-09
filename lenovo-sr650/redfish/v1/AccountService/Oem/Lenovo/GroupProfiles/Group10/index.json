@@ -1,1 +1,16 @@
-{"Id":"Group10","Links":{"Role":{"@odata.id":"/redfish/v1/AccountService/Roles/"}},"Name":"LenovoManagerGroup","@odata.context":"/redfish/v1/$metadata#LenovoManagerGroup.LenovoManagerGroup","Privilege":[],"@odata.type":"#LenovoManagerGroup.v1_0_0.LenovoManagerGroup","@odata.id":"/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group10","@odata.etag":"W/\"00e370bac3d78c8afdd57f271353560b\"","GroupName":"","Description":"This resource is used to represent a group profile on the manager for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoManagerGroup.LenovoManagerGroup",
+    "@odata.etag": "W/\"00e370bac3d78c8afdd57f271353560b\"",
+    "@odata.id": "/redfish/v1/AccountService/Oem/Lenovo/GroupProfiles/Group10",
+    "@odata.type": "#LenovoManagerGroup.v1_0_0.LenovoManagerGroup",
+    "Description": "This resource is used to represent a group profile on the manager for a Redfish implementation.",
+    "GroupName": "",
+    "Id": "Group10",
+    "Links": {
+        "Role": {
+            "@odata.id": "/redfish/v1/AccountService/Roles/"
+        }
+    },
+    "Name": "LenovoManagerGroup",
+    "Privilege": []
+}

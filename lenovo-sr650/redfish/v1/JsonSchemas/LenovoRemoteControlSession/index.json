@@ -1,1 +1,19 @@
-{"Schema":"#LenovoRemoteControlSession.LenovoRemoteControlSession","@odata.id":"/redfish/v1/JsonSchemas/LenovoRemoteControlSession","Name":"LenovoRemoteControlSession JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoRemoteControlSession.json","Language":"en"}],"@odata.etag":"W/\"4b18261d36ad447b1b42089f9874f433\"","Id":"LenovoRemoteControlSession","Description":"LenovoRemoteControlSession schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"4b18261d36ad447b1b42089f9874f433\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoRemoteControlSession",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoRemoteControlSession schema information",
+    "Id": "LenovoRemoteControlSession",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoRemoteControlSession.json"
+        }
+    ],
+    "Name": "LenovoRemoteControlSession JSON Schema File",
+    "Schema": "#LenovoRemoteControlSession.LenovoRemoteControlSession"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#ActionInfo.ActionInfo","@odata.id":"/redfish/v1/JsonSchemas/ActionInfo","Name":"ActionInfo JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ActionInfo.json","Language":"en"}],"@odata.etag":"W/\"76f8a4549736f8afd73887b5ef3ad386\"","Id":"ActionInfo","Description":"ActionInfo schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"76f8a4549736f8afd73887b5ef3ad386\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ActionInfo",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "ActionInfo schema information",
+    "Id": "ActionInfo",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ActionInfo.json"
+        }
+    ],
+    "Name": "ActionInfo JSON Schema File",
+    "Schema": "#ActionInfo.ActionInfo"
+}

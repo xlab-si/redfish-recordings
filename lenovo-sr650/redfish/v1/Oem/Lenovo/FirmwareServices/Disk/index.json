@@ -1,1 +1,72 @@
-{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/Disk","Firmwares":[{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk1"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk2"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk3"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk4"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk5"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk6"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk7"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk8"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk9"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk10"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk11"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk12"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk13"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk14"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk15"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk16"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk17"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk18"},{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk19"}],"Name":"LenovoFirmwareService","@odata.context":"/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService","@odata.type":"#LenovoFirmwareService.v1_0_0.LenovoFirmwareService","Id":"Disk","@Redfish.Deprecated":"The Disk FirmwareService is deprecated. Please use UpdateService instead.","@odata.etag":"W/\"8ce5301340ba071b31aaf9d6f7205d1b\"","ChangeHistory":{"@odata.id":"/redfish/v1/Systems/1/LogServices/"},"Description":"This resource is used to represent a firmware service for a Redfish implementation."}
+{
+    "@Redfish.Deprecated": "The Disk FirmwareService is deprecated. Please use UpdateService instead.",
+    "@odata.context": "/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService",
+    "@odata.etag": "W/\"8ce5301340ba071b31aaf9d6f7205d1b\"",
+    "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/Disk",
+    "@odata.type": "#LenovoFirmwareService.v1_0_0.LenovoFirmwareService",
+    "ChangeHistory": {
+        "@odata.id": "/redfish/v1/Systems/1/LogServices/"
+    },
+    "Description": "This resource is used to represent a firmware service for a Redfish implementation.",
+    "Firmwares": [
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk1"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk2"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk3"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk4"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk5"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk6"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk7"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk8"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk9"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk10"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk11"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk12"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk13"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk14"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk15"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk16"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk17"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk18"
+        },
+        {
+            "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk19"
+        }
+    ],
+    "Id": "Disk",
+    "Name": "LenovoFirmwareService"
+}

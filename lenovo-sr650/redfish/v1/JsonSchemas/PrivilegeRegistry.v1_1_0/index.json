@@ -1,1 +1,19 @@
-{"Schema":"#PrivilegeRegistry.v1_1_0.PrivilegeRegistry","@odata.id":"/redfish/v1/JsonSchemas/PrivilegeRegistry.v1_1_0","Name":"PrivilegeRegistry JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/PrivilegeRegistry.v1_1_0.json","Language":"en"}],"@odata.etag":"W/\"66b94de780ab881e663db5179dde1e66\"","Id":"PrivilegeRegistry.v1_1_0","Description":"PrivilegeRegistry schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"66b94de780ab881e663db5179dde1e66\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/PrivilegeRegistry.v1_1_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "PrivilegeRegistry schema information",
+    "Id": "PrivilegeRegistry.v1_1_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/PrivilegeRegistry.v1_1_0.json"
+        }
+    ],
+    "Name": "PrivilegeRegistry JSON Schema File",
+    "Schema": "#PrivilegeRegistry.v1_1_0.PrivilegeRegistry"
+}

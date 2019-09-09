@@ -1,1 +1,10 @@
-{"Members":[],"Members@odata.navigationLink":"/redfish/v1/EventService/Subscriptions/Members","@odata.type":"#EventDestinationCollection.EventDestinationCollection","@odata.id":"/redfish/v1/EventService/Subscriptions/","Members@odata.count":0,"@odata.etag":"W/\"d48e46eafc56233e603d25965f1ba4e7\"","Name":"Subscriptions","@odata.context":"/redfish/v1/$metadata#EventDestinationCollection.EventDestinationCollection"}
+{
+    "@odata.context": "/redfish/v1/$metadata#EventDestinationCollection.EventDestinationCollection",
+    "@odata.etag": "W/\"d48e46eafc56233e603d25965f1ba4e7\"",
+    "@odata.id": "/redfish/v1/EventService/Subscriptions/",
+    "@odata.type": "#EventDestinationCollection.EventDestinationCollection",
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/EventService/Subscriptions/Members",
+    "Name": "Subscriptions"
+}

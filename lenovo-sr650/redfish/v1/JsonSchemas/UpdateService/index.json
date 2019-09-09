@@ -1,1 +1,19 @@
-{"Schema":"#UpdateService.UpdateService","@odata.id":"/redfish/v1/JsonSchemas/UpdateService","Name":"UpdateService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/UpdateService.json","Language":"en"}],"@odata.etag":"W/\"4fb4e570f9509c7447c1d532e8c3d9af\"","Id":"UpdateService","Description":"UpdateService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"4fb4e570f9509c7447c1d532e8c3d9af\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/UpdateService",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "UpdateService schema information",
+    "Id": "UpdateService",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/UpdateService.json"
+        }
+    ],
+    "Name": "UpdateService JSON Schema File",
+    "Schema": "#UpdateService.UpdateService"
+}

@@ -1,1 +1,22 @@
-{"Id":"36","EntityInstance":1,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"f690c6780a58c5296347858d8430d263\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/36","State":32768,"SensorNumber":36,"Name":"Sys Boot Status","OwnerID":16,"SensorTypeNumber":15,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":34,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"System Firmware Post"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"f690c6780a58c5296347858d8430d263\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/36",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 34,
+    "EntityInstance": 1,
+    "Id": "36",
+    "Name": "Sys Boot Status",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 36,
+    "SensorType": "System Firmware Post",
+    "SensorTypeNumber": 15,
+    "State": 32768
+}

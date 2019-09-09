@@ -1,1 +1,113 @@
-{"Id":"ToHost","Links":{"Chassis":{"@odata.id":"/redfish/v1/Chassis/1/"},"HostInterface":{"@odata.id":"/redfish/v1/Managers/1/HostInterfaces/1/"}},"AutoNeg":false,"IPv6AddressPolicyTable":[{"Precedence":10,"Prefix":"::1/128","Label":0},{"Precedence":10,"Prefix":"::/96","Label":3},{"Precedence":10,"Prefix":"::ffff:0.0.0.0/96","Label":4},{"Precedence":10,"Prefix":"2001::/32","Label":6},{"Precedence":10,"Prefix":"2001:10::/28","Label":7},{"Precedence":10,"Prefix":"3ffe::/16","Label":12},{"Precedence":10,"Prefix":"2002::/16","Label":2},{"Precedence":10,"Prefix":"fec0::/10","Label":11},{"Precedence":10,"Prefix":"fc00::/7","Label":5},{"Precedence":10,"Prefix":"::/0","Label":1}],"SpeedMbps":100,"FullDuplex":true,"IPv4Addresses":[{"Address":"169.254.95.118","SubnetMask":"255.255.0.0","Gateway":"0.0.0.0","AddressOrigin":"Static"},{"Address":"169.254.95.118","SubnetMask":"255.255.0.0","Gateway":"0.0.0.0","AddressOrigin":"IPv4LinkLocal"}],"Description":"Management Network Interface","Status":{"State":"Enabled","Health":null},"@odata.context":"/redfish/v1/$metadata#EthernetInterface.EthernetInterface","InterfaceEnabled":true,"MACAddress":"7c:d3:0a:54:f0:26","Name":"Manager Ethernet Over USB Interface","@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/ToHost/","MTUSize":1500,"Oem":{"Lenovo":{"OSIPv4Address":"169.254.95.120","AddressMode":"IPv6LLA","PortForwarding":{"@odata.id":"/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/"}}},"@odata.type":"#EthernetInterface.v1_3_0.EthernetInterface","MaxIPv6StaticAddresses":0,"LinkStatus":"LinkUp","@odata.etag":"W/\"6ebff48be3af502d3ec8c9f1b3a7d036\"","PermanentMACAddress":"7c:d3:0a:54:f0:26","IPv6Addresses":[{"Address":"fe80::7ed3:0aff:fe54:f026","AddressOrigin":"LinkLocal","PrefixLength":64,"AddressState":"Preferred"}]}
+{
+    "@odata.context": "/redfish/v1/$metadata#EthernetInterface.EthernetInterface",
+    "@odata.etag": "W/\"6ebff48be3af502d3ec8c9f1b3a7d036\"",
+    "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/ToHost/",
+    "@odata.type": "#EthernetInterface.v1_3_0.EthernetInterface",
+    "AutoNeg": false,
+    "Description": "Management Network Interface",
+    "FullDuplex": true,
+    "IPv4Addresses": [
+        {
+            "Address": "169.254.95.118",
+            "AddressOrigin": "Static",
+            "Gateway": "0.0.0.0",
+            "SubnetMask": "255.255.0.0"
+        },
+        {
+            "Address": "169.254.95.118",
+            "AddressOrigin": "IPv4LinkLocal",
+            "Gateway": "0.0.0.0",
+            "SubnetMask": "255.255.0.0"
+        }
+    ],
+    "IPv6AddressPolicyTable": [
+        {
+            "Label": 0,
+            "Precedence": 10,
+            "Prefix": "::1/128"
+        },
+        {
+            "Label": 3,
+            "Precedence": 10,
+            "Prefix": "::/96"
+        },
+        {
+            "Label": 4,
+            "Precedence": 10,
+            "Prefix": "::ffff:0.0.0.0/96"
+        },
+        {
+            "Label": 6,
+            "Precedence": 10,
+            "Prefix": "2001::/32"
+        },
+        {
+            "Label": 7,
+            "Precedence": 10,
+            "Prefix": "2001:10::/28"
+        },
+        {
+            "Label": 12,
+            "Precedence": 10,
+            "Prefix": "3ffe::/16"
+        },
+        {
+            "Label": 2,
+            "Precedence": 10,
+            "Prefix": "2002::/16"
+        },
+        {
+            "Label": 11,
+            "Precedence": 10,
+            "Prefix": "fec0::/10"
+        },
+        {
+            "Label": 5,
+            "Precedence": 10,
+            "Prefix": "fc00::/7"
+        },
+        {
+            "Label": 1,
+            "Precedence": 10,
+            "Prefix": "::/0"
+        }
+    ],
+    "IPv6Addresses": [
+        {
+            "Address": "fe80::7ed3:0aff:fe54:f026",
+            "AddressOrigin": "LinkLocal",
+            "AddressState": "Preferred",
+            "PrefixLength": 64
+        }
+    ],
+    "Id": "ToHost",
+    "InterfaceEnabled": true,
+    "LinkStatus": "LinkUp",
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1/"
+        },
+        "HostInterface": {
+            "@odata.id": "/redfish/v1/Managers/1/HostInterfaces/1/"
+        }
+    },
+    "MACAddress": "7c:d3:0a:54:f0:26",
+    "MTUSize": 1500,
+    "MaxIPv6StaticAddresses": 0,
+    "Name": "Manager Ethernet Over USB Interface",
+    "Oem": {
+        "Lenovo": {
+            "AddressMode": "IPv6LLA",
+            "OSIPv4Address": "169.254.95.120",
+            "PortForwarding": {
+                "@odata.id": "/redfish/v1/Managers/1/EthernetInterfaces/ToHost/Oem/Lenovo/PortForwarding/"
+            }
+        }
+    },
+    "PermanentMACAddress": "7c:d3:0a:54:f0:26",
+    "SpeedMbps": 100,
+    "Status": {
+        "Health": null,
+        "State": "Enabled"
+    }
+}

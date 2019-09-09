@@ -1,1 +1,52 @@
-{"DateTimeLocalOffset":"+00:00","DateTime":"2018-05-30 13:27:38+00:00","Id":"StandardLog","@odata.context":"/redfish/v1/$metadata#LogService.LogService","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/","Name":"LogService","ServiceEnabled":true,"MaxNumberOfRecords":3000,"Oem":{"Lenovo":{"AuditLastSeqNum":3152,"PlatformLastSeqNum":278,"AuditFristSeqNum":2641,"VMMoveCategory":[{"VMMoveCategoryName":"RAS event VM movement support","VMMoveCategoryBit":0,"VMMoveCategoryType":"VMEFlag"}],"PlatformFirstSeqNum":205,"SupportedCategories":3087007935,"DesiredCategories":2147483684}},"@odata.type":"#LogService.v1_0_4.LogService","OverWritePolicy":"WrapsWhenFull","Entries":{"@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/"},"@odata.etag":"W/\"fb46e86e44b0817bfe85a7995b62e0c9\"","Actions":{"#LogService.ClearLog":{"target":"/redfish/v1/Systems/1/LogServices/StandardLog/Actions/LogService.ClearLog","title":"ClearLog"},"Oem":{"Lenovo":{"#LenovoLogServiceActions.GetLogEntriesBySequenceNumber":{"target":"/redfish/v1/Systems/1/LogServices/StandardLog/Actions/Oem/Lenovo/LenovoLogServiceActions.GetLogEntriesBySequenceNumber","title":"GetLogEntriesBySequenceNumber"},"#LenovoLogServiceActions.ClearSpecifiedLog":{"target":"/redfish/v1/Systems/1/LogServices/StandardLog/Actions/Oem/Lenovo/LenovoLogServiceActions.ClearSpecifiedLog","title":"ClearSpecifiedLog"}}}},"Description":"This resource is used to represent a log service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogService.LogService",
+    "@odata.etag": "W/\"fb46e86e44b0817bfe85a7995b62e0c9\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/",
+    "@odata.type": "#LogService.v1_0_4.LogService",
+    "Actions": {
+        "#LogService.ClearLog": {
+            "target": "/redfish/v1/Systems/1/LogServices/StandardLog/Actions/LogService.ClearLog",
+            "title": "ClearLog"
+        },
+        "Oem": {
+            "Lenovo": {
+                "#LenovoLogServiceActions.ClearSpecifiedLog": {
+                    "target": "/redfish/v1/Systems/1/LogServices/StandardLog/Actions/Oem/Lenovo/LenovoLogServiceActions.ClearSpecifiedLog",
+                    "title": "ClearSpecifiedLog"
+                },
+                "#LenovoLogServiceActions.GetLogEntriesBySequenceNumber": {
+                    "target": "/redfish/v1/Systems/1/LogServices/StandardLog/Actions/Oem/Lenovo/LenovoLogServiceActions.GetLogEntriesBySequenceNumber",
+                    "title": "GetLogEntriesBySequenceNumber"
+                }
+            }
+        }
+    },
+    "DateTime": "2018-05-30 13:27:38+00:00",
+    "DateTimeLocalOffset": "+00:00",
+    "Description": "This resource is used to represent a log service for a Redfish implementation.",
+    "Entries": {
+        "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/"
+    },
+    "Id": "StandardLog",
+    "MaxNumberOfRecords": 3000,
+    "Name": "LogService",
+    "Oem": {
+        "Lenovo": {
+            "AuditFristSeqNum": 2641,
+            "AuditLastSeqNum": 3152,
+            "DesiredCategories": 2147483684,
+            "PlatformFirstSeqNum": 205,
+            "PlatformLastSeqNum": 278,
+            "SupportedCategories": 3087007935,
+            "VMMoveCategory": [
+                {
+                    "VMMoveCategoryBit": 0,
+                    "VMMoveCategoryName": "RAS event VM movement support",
+                    "VMMoveCategoryType": "VMEFlag"
+                }
+            ]
+        }
+    },
+    "OverWritePolicy": "WrapsWhenFull",
+    "ServiceEnabled": true
+}

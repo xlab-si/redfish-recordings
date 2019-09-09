@@ -1,1 +1,13 @@
-{"SupportsHotPlug":false,"@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Slots/5","Name":"LenovoSlot","ConnectorLayout":"PCI Express Gen 3 (see below)","Number":"Slot 7 RAID","@odata.type":"#LenovoSlot.v1_0_0.LenovoSlot","@odata.etag":"W/\"44a5247e711b2d1a27a7e90c96060f3d\"","@odata.context":"/redfish/v1/$metadata#LenovoSlot.LenovoSlot","MaxDataWidth":"8x or x8","Id":"5","Description":"This resource is used to represent slot information for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSlot.LenovoSlot",
+    "@odata.etag": "W/\"44a5247e711b2d1a27a7e90c96060f3d\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Slots/5",
+    "@odata.type": "#LenovoSlot.v1_0_0.LenovoSlot",
+    "ConnectorLayout": "PCI Express Gen 3 (see below)",
+    "Description": "This resource is used to represent slot information for a Redfish implementation.",
+    "Id": "5",
+    "MaxDataWidth": "8x or x8",
+    "Name": "LenovoSlot",
+    "Number": "Slot 7 RAID",
+    "SupportsHotPlug": false
+}

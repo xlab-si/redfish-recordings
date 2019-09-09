@@ -1,1 +1,19 @@
-{"Schema":"#Endpoint.v1_0_2.Endpoint","@odata.id":"/redfish/v1/JsonSchemas/Endpoint.v1_0_2","Name":"Endpoint JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Endpoint.v1_0_2.json","Language":"en"}],"@odata.etag":"W/\"1c66486573cdec9f261fffb58fc4304d\"","Id":"Endpoint.v1_0_2","Description":"Endpoint schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"1c66486573cdec9f261fffb58fc4304d\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Endpoint.v1_0_2",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Endpoint schema information",
+    "Id": "Endpoint.v1_0_2",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Endpoint.v1_0_2.json"
+        }
+    ],
+    "Name": "Endpoint JSON Schema File",
+    "Schema": "#Endpoint.v1_0_2.Endpoint"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#SoftwareInventoryCollection.SoftwareInventoryCollection","@odata.id":"/redfish/v1/JsonSchemas/SoftwareInventoryCollection","Name":"SoftwareInventoryCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SoftwareInventoryCollection.json","Language":"en"}],"@odata.etag":"W/\"ddebaefad1d275cebaa5ca455d26fa25\"","Id":"SoftwareInventoryCollection","Description":"SoftwareInventoryCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ddebaefad1d275cebaa5ca455d26fa25\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SoftwareInventoryCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SoftwareInventoryCollection schema information",
+    "Id": "SoftwareInventoryCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SoftwareInventoryCollection.json"
+        }
+    ],
+    "Name": "SoftwareInventoryCollection JSON Schema File",
+    "Schema": "#SoftwareInventoryCollection.SoftwareInventoryCollection"
+}

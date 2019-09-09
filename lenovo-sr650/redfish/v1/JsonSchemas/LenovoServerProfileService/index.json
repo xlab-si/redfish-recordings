@@ -1,1 +1,19 @@
-{"Schema":"#LenovoServerProfileService.LenovoServerProfileService","@odata.id":"/redfish/v1/JsonSchemas/LenovoServerProfileService","Name":"LenovoServerProfileService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoServerProfileService.json","Language":"en"}],"@odata.etag":"W/\"ebdfa27ab5f74bca731de7077aacb69d\"","Id":"LenovoServerProfileService","Description":"LenovoServerProfileService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ebdfa27ab5f74bca731de7077aacb69d\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoServerProfileService",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoServerProfileService schema information",
+    "Id": "LenovoServerProfileService",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoServerProfileService.json"
+        }
+    ],
+    "Name": "LenovoServerProfileService JSON Schema File",
+    "Schema": "#LenovoServerProfileService.LenovoServerProfileService"
+}

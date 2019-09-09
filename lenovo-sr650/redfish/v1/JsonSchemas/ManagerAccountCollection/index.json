@@ -1,1 +1,19 @@
-{"Schema":"#ManagerAccountCollection.ManagerAccountCollection","@odata.id":"/redfish/v1/JsonSchemas/ManagerAccountCollection","Name":"Manager Account Collection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ManagerAccountCollection.json","Language":"en"}],"@odata.etag":"W/\"525a7d55b4d07787ce2ede6d87bd8cc0\"","Id":"ManagerAccountCollection","Description":"Manager Account Collection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"525a7d55b4d07787ce2ede6d87bd8cc0\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ManagerAccountCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Manager Account Collection schema information",
+    "Id": "ManagerAccountCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ManagerAccountCollection.json"
+        }
+    ],
+    "Name": "Manager Account Collection JSON Schema File",
+    "Schema": "#ManagerAccountCollection.ManagerAccountCollection"
+}

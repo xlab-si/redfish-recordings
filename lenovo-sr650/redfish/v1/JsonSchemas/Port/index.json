@@ -1,1 +1,19 @@
-{"Schema":"#Port.Port","@odata.id":"/redfish/v1/JsonSchemas/Port","Name":"Port JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/Port.json","Language":"en"}],"@odata.etag":"W/\"f8532207f81c47479ec606c95fbd7362\"","Id":"Port","Description":"Port schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"f8532207f81c47479ec606c95fbd7362\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/Port",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Port schema information",
+    "Id": "Port",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/Port.json"
+        }
+    ],
+    "Name": "Port JSON Schema File",
+    "Schema": "#Port.Port"
+}

@@ -1,1 +1,31 @@
-{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL","Name":"LenovoFirmwareService","@odata.context":"/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService","Actions":{"#LenovoFirmwareService.StartDeferredUpdateActivation":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.StartDeferredUpdateActivation","title":"StartDeferredUpdateActivation"},"#LenovoFirmwareService.RestartToBareMetal":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.RestartToBareMetal","title":"RestartToBareMetal"},"#LenovoFirmwareService.CompleteBareMetal":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.CompleteBareMetal","title":"CompleteBareMetal"},"#LenovoFirmwareService.StartBareMetalConnection":{"target":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.StartBareMetalConnection","title":"StartBareMetalConnection"}},"@odata.type":"#LenovoFirmwareService.v1_0_0.LenovoFirmwareService","BMAppStatus":"NotReady","Id":"BAREMETAL","@odata.etag":"W/\"4c53ddcf83d1d7c967fb8f736a231de2\"","ChangeHistory":{"@odata.id":"/redfish/v1/Systems/1/LogServices/"},"Description":"This resource is used to represent a firmware service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoFirmwareService.LenovoFirmwareService",
+    "@odata.etag": "W/\"4c53ddcf83d1d7c967fb8f736a231de2\"",
+    "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL",
+    "@odata.type": "#LenovoFirmwareService.v1_0_0.LenovoFirmwareService",
+    "Actions": {
+        "#LenovoFirmwareService.CompleteBareMetal": {
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.CompleteBareMetal",
+            "title": "CompleteBareMetal"
+        },
+        "#LenovoFirmwareService.RestartToBareMetal": {
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.RestartToBareMetal",
+            "title": "RestartToBareMetal"
+        },
+        "#LenovoFirmwareService.StartBareMetalConnection": {
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.StartBareMetalConnection",
+            "title": "StartBareMetalConnection"
+        },
+        "#LenovoFirmwareService.StartDeferredUpdateActivation": {
+            "target": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL/Actions/LenovoFirmwareService.StartDeferredUpdateActivation",
+            "title": "StartDeferredUpdateActivation"
+        }
+    },
+    "BMAppStatus": "NotReady",
+    "ChangeHistory": {
+        "@odata.id": "/redfish/v1/Systems/1/LogServices/"
+    },
+    "Description": "This resource is used to represent a firmware service for a Redfish implementation.",
+    "Id": "BAREMETAL",
+    "Name": "LenovoFirmwareService"
+}

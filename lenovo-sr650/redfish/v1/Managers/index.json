@@ -1,1 +1,15 @@
-{"@odata.id":"/redfish/v1/Managers/","Members@odata.count":1,"@odata.context":"/redfish/v1/$metadata#ManagerCollection.ManagerCollection","Members":[{"@odata.id":"/redfish/v1/Managers/1/"}],"@odata.type":"#ManagerCollection.ManagerCollection","Members@odata.navigationLink":"/redfish/v1/Managers/Members","@odata.etag":"W/\"166011d419e5c897d0aa3e980350adc4\"","Name":"ManagerCollection","Description":"A Collection of Manager resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#ManagerCollection.ManagerCollection",
+    "@odata.etag": "W/\"166011d419e5c897d0aa3e980350adc4\"",
+    "@odata.id": "/redfish/v1/Managers/",
+    "@odata.type": "#ManagerCollection.ManagerCollection",
+    "Description": "A Collection of Manager resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Managers/1/"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/Members",
+    "Name": "ManagerCollection"
+}

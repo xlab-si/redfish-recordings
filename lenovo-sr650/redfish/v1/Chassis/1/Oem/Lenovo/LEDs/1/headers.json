@@ -1,1 +1,20 @@
-{"GET":{"Date":"Wed, 30 May 2018 13:27:37 GMT","Content-Type":"application/json","Content-Length":"504","Connection":"keep-alive","OData-Version":"4.0","Cache-Control":"no-store, no-cache, no-store, must-revalidate, private, no-cache, no-store, must-revalidate, private","Content-Language":"en","Link":"</redfish/v1/schemas/LenovoLED.v1_0_0.json>; rel=\"describedby\"; type=\"application/json\"","Allow":"GET, PATCH, HEAD","ETag":"W/\"f00ff873bb77ffef5e95db4a18a4483d\"","Strict-Transport-Security":"max-age-31536000; includeSubDomains, max-age-31536000; includeSubDomains","Content-Security-Policy":"default-src 'self'; connect-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; front-src 'self' data:; frame-src 'self'; object-src 'none', default-src 'self'; connect-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; child-src 'self'; object-src 'none'","X-XSS-Protection":"1; mode=block, 1; mode=block","X-Content-Type-Options":"nosniff, nosniff","X-Frame-Options":"DENY, DENY","Server":"XCC Web Server"}}
+{
+    "GET": {
+        "Allow": "GET, PATCH, HEAD",
+        "Cache-Control": "no-store, no-cache, no-store, must-revalidate, private, no-cache, no-store, must-revalidate, private",
+        "Connection": "keep-alive",
+        "Content-Language": "en",
+        "Content-Length": "504",
+        "Content-Security-Policy": "default-src 'self'; connect-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; front-src 'self' data:; frame-src 'self'; object-src 'none', default-src 'self'; connect-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; child-src 'self'; object-src 'none'",
+        "Content-Type": "application/json",
+        "Date": "Wed, 30 May 2018 13:27:37 GMT",
+        "ETag": "W/\"f00ff873bb77ffef5e95db4a18a4483d\"",
+        "Link": "</redfish/v1/schemas/LenovoLED.v1_0_0.json>; rel=\"describedby\"; type=\"application/json\"",
+        "OData-Version": "4.0",
+        "Server": "XCC Web Server",
+        "Strict-Transport-Security": "max-age-31536000; includeSubDomains, max-age-31536000; includeSubDomains",
+        "X-Content-Type-Options": "nosniff, nosniff",
+        "X-Frame-Options": "DENY, DENY",
+        "X-XSS-Protection": "1; mode=block, 1; mode=block"
+    }
+}

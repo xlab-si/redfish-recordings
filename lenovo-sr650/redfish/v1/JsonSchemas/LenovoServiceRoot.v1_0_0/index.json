@@ -1,1 +1,19 @@
-{"Schema":"#LenovoServiceRoot","@odata.id":"/redfish/v1/JsonSchemas/LenovoServiceRoot.v1_0_0","Name":"LenovoServiceRoot JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoServiceRoot.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"aad3808be8bf28b646b5c3548b18f9b1\"","Id":"LenovoServiceRoot.v1_0_0","Description":"LenovoServiceRoot schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"aad3808be8bf28b646b5c3548b18f9b1\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoServiceRoot.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoServiceRoot schema information",
+    "Id": "LenovoServiceRoot.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoServiceRoot.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoServiceRoot JSON Schema File",
+    "Schema": "#LenovoServiceRoot"
+}

@@ -1,1 +1,44 @@
-{"@odata.etag":"W/\"3d41149283f1b3139f72a8652c304a1b\"","MessageArgs":["RAID subsystem","135"],"Id":"3381","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/3381","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"Inventory data collecting and processing complete for RAID subsystem, sequence number is 135.","Oem":{"Lenovo":{"ReportingChain":"","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"0","RelatedEventID":"","Hidden":true,"EventID":"0x400000c000000000","EventSequenceNumber":3029,"EventType":0,"LenovoMessageID":"Lenovo0192","Serviceable":"Not Serviceable","CommonEventID":"FQXSPDM4010I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-29T04:33:43.325+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"3d41149283f1b3139f72a8652c304a1b\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/3381",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-29T04:33:43.325+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "3381",
+    "Message": "Inventory data collecting and processing complete for RAID subsystem, sequence number is 135.",
+    "MessageArgs": [
+        "RAID subsystem",
+        "135"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPDM4010I",
+            "EventFlag": 0,
+            "EventID": "0x400000c000000000",
+            "EventSequenceNumber": 3029,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": true,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "Lenovo0192",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "0"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

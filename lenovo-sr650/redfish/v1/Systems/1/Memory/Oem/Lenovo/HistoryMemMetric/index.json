@@ -1,1 +1,15 @@
-{"@odata.type":"#LenovoHistoryMetricValue.v1_0_0.LenovoHistoryMetricValue","@odata.id":"/redfish/v1/Systems/1/Memory/Oem/Lenovo/HistoryMemMetric","@odata.etag":"W/\"730fc6101b04646249cd8a31aee5dee9\"","HistoryMetricValue":[{"@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/Metrics/MemorySubsystemPower"},{"@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/Metrics/MemorySubsystemPerformance"}],"Description":"This resource is used to represent an array of history metric value containers which are categorized by ContainerName.","@odata.context":"/redfish/v1/$metadata#LenovoHistoryMetricValue.LenovoHistoryMetricValue"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoHistoryMetricValue.LenovoHistoryMetricValue",
+    "@odata.etag": "W/\"730fc6101b04646249cd8a31aee5dee9\"",
+    "@odata.id": "/redfish/v1/Systems/1/Memory/Oem/Lenovo/HistoryMemMetric",
+    "@odata.type": "#LenovoHistoryMetricValue.v1_0_0.LenovoHistoryMetricValue",
+    "Description": "This resource is used to represent an array of history metric value containers which are categorized by ContainerName.",
+    "HistoryMetricValue": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/Metrics/MemorySubsystemPower"
+        },
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/Metrics/MemorySubsystemPerformance"
+        }
+    ]
+}

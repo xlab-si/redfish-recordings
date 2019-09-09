@@ -1,1 +1,34 @@
-{"@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/Disk16","RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.15"}],"Id":"Disk16","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.count":1,"Name":"Disk firmware","Version":"LE38","RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/Disk16/RelatedItem","Oem":{"Lenovo":{"Classifications":["10"],"FirmwareStatus":"Active","Manufacturer":"ATA","ReleaseDate":""}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Updateable":true,"@odata.etag":"W/\"6c31584b99dafdadcc19b9330339d787\"","SoftwareId":"ST2000NX0253","Description":"The firmware information of a disk controlled by a RAID, M.2 or NVMe controller."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"6c31584b99dafdadcc19b9330339d787\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/Disk16",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The firmware information of a disk controlled by a RAID, M.2 or NVMe controller.",
+    "Id": "Disk16",
+    "Name": "Disk firmware",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "10"
+            ],
+            "FirmwareStatus": "Active",
+            "Manufacturer": "ATA",
+            "ReleaseDate": ""
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/Storage/RAID_Slot1/Drives/Disk.15"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/Disk16/RelatedItem",
+    "SoftwareId": "ST2000NX0253",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "Updateable": true,
+    "Version": "LE38"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#LenovoSNMPProtocol.v1_0_0.LenovoSNMPProtocol","@odata.id":"/redfish/v1/JsonSchemas/LenovoSNMPProtocol.v1_0_0","Name":"LenovoSNMPProtocol JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoSNMPProtocol.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"a6128f910e53a805167c8ea36d4d80c3\"","Id":"LenovoSNMPProtocol.v1_0_0","Description":"LenovoSNMPProtocol schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"a6128f910e53a805167c8ea36d4d80c3\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoSNMPProtocol.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoSNMPProtocol schema information",
+    "Id": "LenovoSNMPProtocol.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoSNMPProtocol.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoSNMPProtocol JSON Schema File",
+    "Schema": "#LenovoSNMPProtocol.v1_0_0.LenovoSNMPProtocol"
+}

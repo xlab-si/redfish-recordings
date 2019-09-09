@@ -1,1 +1,40 @@
-{"RelatedItem":[{"@odata.id":"/redfish/v1/Systems/1/"}],"RelatedItem@odata.count":1,"UefiDevicePaths":[null],"Id":"LXPMWindowsDriver1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"RelatedItem@odata.navigationLink":"/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1/RelatedItem","Name":"LXPM Windows Drivers","Version":"1.20","@odata.context":"/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory","Oem":{"Lenovo":{"Classifications":["2"],"FirmwareBuild":"PDL312R","ReleaseDate":"2018-01-30","Manufacturer":"Lenovo","FirmwareRole":"Primary","FirmwareType":"LXPMWindowsDrivers","FirmwareName":"LXPM Windows Drivers"}},"@odata.type":"#SoftwareInventory.v1_1_1.SoftwareInventory","@odata.id":"/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1","Updateable":true,"@odata.etag":"W/\"c84490cad5633a8945baccc15bdb030c\"","SoftwareId":"PDL3","Description":"The information of LXPM Windows Drivers."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SoftwareInventory.SoftwareInventory",
+    "@odata.etag": "W/\"c84490cad5633a8945baccc15bdb030c\"",
+    "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1",
+    "@odata.type": "#SoftwareInventory.v1_1_1.SoftwareInventory",
+    "Description": "The information of LXPM Windows Drivers.",
+    "Id": "LXPMWindowsDriver1",
+    "Name": "LXPM Windows Drivers",
+    "Oem": {
+        "Lenovo": {
+            "Classifications": [
+                "2"
+            ],
+            "FirmwareBuild": "PDL312R",
+            "FirmwareName": "LXPM Windows Drivers",
+            "FirmwareRole": "Primary",
+            "FirmwareType": "LXPMWindowsDrivers",
+            "Manufacturer": "Lenovo",
+            "ReleaseDate": "2018-01-30"
+        }
+    },
+    "RelatedItem": [
+        {
+            "@odata.id": "/redfish/v1/Systems/1/"
+        }
+    ],
+    "RelatedItem@odata.count": 1,
+    "RelatedItem@odata.navigationLink": "/redfish/v1/UpdateService/FirmwareInventory/LXPMWindowsDriver1/RelatedItem",
+    "SoftwareId": "PDL3",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "UefiDevicePaths": [
+        null
+    ],
+    "Updateable": true,
+    "Version": "1.20"
+}

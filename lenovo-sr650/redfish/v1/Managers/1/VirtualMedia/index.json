@@ -1,1 +1,11 @@
-{"@odata.id":"/redfish/v1/Managers/1/VirtualMedia/","Members@odata.count":0,"@odata.context":"/redfish/v1/$metadata#VirtualMediaCollection.VirtualMediaCollection","Members":[],"@odata.type":"#VirtualMediaCollection.VirtualMediaCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/VirtualMedia/Members","@odata.etag":"W/\"18071c6cf73d7c00ee3bcb26d51ae560\"","Name":"VirtualMediaCollection","Description":"A Collection of VirtualMedia resource instances"}
+{
+    "@odata.context": "/redfish/v1/$metadata#VirtualMediaCollection.VirtualMediaCollection",
+    "@odata.etag": "W/\"18071c6cf73d7c00ee3bcb26d51ae560\"",
+    "@odata.id": "/redfish/v1/Managers/1/VirtualMedia/",
+    "@odata.type": "#VirtualMediaCollection.VirtualMediaCollection",
+    "Description": "A Collection of VirtualMedia resource instances",
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/VirtualMedia/Members",
+    "Name": "VirtualMediaCollection"
+}

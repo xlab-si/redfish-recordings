@@ -1,1 +1,19 @@
-{"Schema":"#LenovoStoragePool.LenovoStoragePool","@odata.id":"/redfish/v1/JsonSchemas/LenovoStoragePool","Name":"LenovoStoragePool JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoStoragePool.json","Language":"en"}],"@odata.etag":"W/\"a9c9cc93b91f2695b20baf848e874eeb\"","Id":"LenovoStoragePool","Description":"LenovoStoragePool schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"a9c9cc93b91f2695b20baf848e874eeb\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoStoragePool",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoStoragePool schema information",
+    "Id": "LenovoStoragePool",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoStoragePool.json"
+        }
+    ],
+    "Name": "LenovoStoragePool JSON Schema File",
+    "Schema": "#LenovoStoragePool.LenovoStoragePool"
+}

@@ -1,1 +1,12 @@
-{"Id":"1","Type":"On","Time":"00:00","@odata.context":"/redfish/v1/$metadata#LenovoScheduledPowerAction.LenovoScheduledPowerAction","@odata.type":"#LenovoScheduledPowerAction.v1_0_0.LenovoScheduledPowerAction","@odata.id":"/redfish/v1/Systems/1/Oem/Lenovo/ScheduledPowerActions/1","Description":"This resource is used to represent settings of scheduled power action for a Redfish implementation.","@odata.etag":"W/\"1e710712e66d9bd8162eae47a3092d91\"","Activated":false,"Interval":"Daily"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoScheduledPowerAction.LenovoScheduledPowerAction",
+    "@odata.etag": "W/\"1e710712e66d9bd8162eae47a3092d91\"",
+    "@odata.id": "/redfish/v1/Systems/1/Oem/Lenovo/ScheduledPowerActions/1",
+    "@odata.type": "#LenovoScheduledPowerAction.v1_0_0.LenovoScheduledPowerAction",
+    "Activated": false,
+    "Description": "This resource is used to represent settings of scheduled power action for a Redfish implementation.",
+    "Id": "1",
+    "Interval": "Daily",
+    "Time": "00:00",
+    "Type": "On"
+}

@@ -1,1 +1,17 @@
-{"Name":"Fault","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/1","Id":"1","State":"On","PeriodInMillSec":0,"DeviceEntity":"front panel board","@odata.context":"/redfish/v1/$metadata#LenovoLED.LenovoLED","Color":"Yellow","DutyCycle":255,"@odata.type":"#LenovoLED.v1_0_0.LenovoLED","EntityID":12,"Location":"Front Panel, Rear Panel","@odata.etag":"W/\"f00ff873bb77ffef5e95db4a18a4483d\"","EntityInstance":1,"Description":"This resource is used to represent a LED sensor for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoLED.LenovoLED",
+    "@odata.etag": "W/\"f00ff873bb77ffef5e95db4a18a4483d\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/LEDs/1",
+    "@odata.type": "#LenovoLED.v1_0_0.LenovoLED",
+    "Color": "Yellow",
+    "Description": "This resource is used to represent a LED sensor for a Redfish implementation.",
+    "DeviceEntity": "front panel board",
+    "DutyCycle": 255,
+    "EntityID": 12,
+    "EntityInstance": 1,
+    "Id": "1",
+    "Location": "Front Panel, Rear Panel",
+    "Name": "Fault",
+    "PeriodInMillSec": 0,
+    "State": "On"
+}

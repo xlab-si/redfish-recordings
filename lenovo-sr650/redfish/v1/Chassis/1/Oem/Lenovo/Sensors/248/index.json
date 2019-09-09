@@ -1,1 +1,22 @@
-{"Id":"248","EntityInstance":2,"Assertion":"Assert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"b5d1b4c9d9fddec4da340e6b20b692c7\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/248","State":32772,"SensorNumber":248,"Name":"PHY Card Fault","OwnerID":16,"SensorTypeNumber":33,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":44,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Slot Or Connector"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"b5d1b4c9d9fddec4da340e6b20b692c7\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/248",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Assert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 44,
+    "EntityInstance": 2,
+    "Id": "248",
+    "Name": "PHY Card Fault",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 248,
+    "SensorType": "Slot Or Connector",
+    "SensorTypeNumber": 33,
+    "State": 32772
+}

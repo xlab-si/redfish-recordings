@@ -1,1 +1,19 @@
-{"Schema":"#NetworkDeviceFunction.NetworkDeviceFunction","@odata.id":"/redfish/v1/JsonSchemas/NetworkDeviceFunction","Name":"NetworkDeviceFunction JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/NetworkDeviceFunction.json","Language":"en"}],"@odata.etag":"W/\"90a2d95958bacae0a3de53c80b57404e\"","Id":"NetworkDeviceFunction","Description":"NetworkDeviceFunction schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"90a2d95958bacae0a3de53c80b57404e\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/NetworkDeviceFunction",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "NetworkDeviceFunction schema information",
+    "Id": "NetworkDeviceFunction",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/NetworkDeviceFunction.json"
+        }
+    ],
+    "Name": "NetworkDeviceFunction JSON Schema File",
+    "Schema": "#NetworkDeviceFunction.NetworkDeviceFunction"
+}

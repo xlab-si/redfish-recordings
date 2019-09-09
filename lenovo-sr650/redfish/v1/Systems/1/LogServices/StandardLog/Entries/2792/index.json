@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"32d7b84c11ed45704bd8ec3371909440\"","MessageArgs":["RAID Vol State"],"Id":"2792","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2792","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"Sensor RAID Vol State has deasserted the transition from normal to non-critical state.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x8107010d2584ffff","EventSequenceNumber":273,"EventType":0,"LenovoMessageID":"PLAT0521","Serviceable":"Not Serviceable","CommonEventID":"FQXSPUN2018I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-24T18:45:26.342+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"32d7b84c11ed45704bd8ec3371909440\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2792",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-24T18:45:26.342+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "2792",
+    "Message": "Sensor RAID Vol State has deasserted the transition from normal to non-critical state.",
+    "MessageArgs": [
+        "RAID Vol State"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPUN2018I",
+            "EventFlag": 0,
+            "EventID": "0x8107010d2584ffff",
+            "EventSequenceNumber": 273,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0521",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

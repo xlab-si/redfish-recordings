@@ -1,1 +1,18 @@
-{"ServerIP":"","@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/ServerProfile","UserID":"","@odata.context":"/redfish/v1/$metadata#LenovoServerProfileService.LenovoServerProfileService","Password":"","@odata.type":"#LenovoServerProfileService.v1_0_0.LenovoServerProfileService","@odata.etag":"W/\"52046b869d93cf0a71dd9ca265668785\"","ServerPort":636,"Enabled":false,"Actions":{"#LenovoServerProfileService.ApplySystemProfiles":{"target":"/redfish/v1/Managers/1/Oem/Lenovo/ServerProfile/Actions/LenovoServerProfileService.ApplySystemProfiles","title":"ApplySystemProfiles"}},"Description":"This resource is used to represent a server profile service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoServerProfileService.LenovoServerProfileService",
+    "@odata.etag": "W/\"52046b869d93cf0a71dd9ca265668785\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/ServerProfile",
+    "@odata.type": "#LenovoServerProfileService.v1_0_0.LenovoServerProfileService",
+    "Actions": {
+        "#LenovoServerProfileService.ApplySystemProfiles": {
+            "target": "/redfish/v1/Managers/1/Oem/Lenovo/ServerProfile/Actions/LenovoServerProfileService.ApplySystemProfiles",
+            "title": "ApplySystemProfiles"
+        }
+    },
+    "Description": "This resource is used to represent a server profile service for a Redfish implementation.",
+    "Enabled": false,
+    "Password": "",
+    "ServerIP": "",
+    "ServerPort": 636,
+    "UserID": ""
+}

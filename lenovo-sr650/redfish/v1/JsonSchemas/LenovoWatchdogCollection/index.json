@@ -1,1 +1,19 @@
-{"Schema":"#LenovoWatchdogCollection.LenovoWatchdogCollection","@odata.id":"/redfish/v1/JsonSchemas/LenovoWatchdogCollection","Name":"LenovoWatchdogCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoWatchdogCollection.json","Language":"en"}],"@odata.etag":"W/\"ae5608ee8d6025a0995e7defd0943c4a\"","Id":"LenovoWatchdogCollection","Description":"LenovoWatchdogCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"ae5608ee8d6025a0995e7defd0943c4a\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoWatchdogCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoWatchdogCollection schema information",
+    "Id": "LenovoWatchdogCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoWatchdogCollection.json"
+        }
+    ],
+    "Name": "LenovoWatchdogCollection JSON Schema File",
+    "Schema": "#LenovoWatchdogCollection.LenovoWatchdogCollection"
+}

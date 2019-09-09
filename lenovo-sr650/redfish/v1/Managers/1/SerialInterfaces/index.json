@@ -1,1 +1,15 @@
-{"@odata.id":"/redfish/v1/Managers/1/SerialInterfaces/","Members@odata.count":1,"@odata.context":"/redfish/v1/$metadata#SerialInterfaceCollection.SerialInterfaceCollection","Members":[{"@odata.id":"/redfish/v1/Managers/1/SerialInterfaces/1"}],"@odata.type":"#SerialInterfaceCollection.SerialInterfaceCollection","Members@odata.navigationLink":"/redfish/v1/Managers/1/SerialInterfaces/Members","@odata.etag":"W/\"861af168febcf7c4c3c9e76471806f84\"","Name":"SerialInterfaceCollection","Description":"A Collection of SerialInterface resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#SerialInterfaceCollection.SerialInterfaceCollection",
+    "@odata.etag": "W/\"861af168febcf7c4c3c9e76471806f84\"",
+    "@odata.id": "/redfish/v1/Managers/1/SerialInterfaces/",
+    "@odata.type": "#SerialInterfaceCollection.SerialInterfaceCollection",
+    "Description": "A Collection of SerialInterface resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Managers/1/SerialInterfaces/1"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/SerialInterfaces/Members",
+    "Name": "SerialInterfaceCollection"
+}

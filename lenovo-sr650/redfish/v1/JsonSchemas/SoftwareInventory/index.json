@@ -1,1 +1,19 @@
-{"Schema":"#SoftwareInventory.SoftwareInventory","@odata.id":"/redfish/v1/JsonSchemas/SoftwareInventory","Name":"SoftwareInventory JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SoftwareInventory.json","Language":"en"}],"@odata.etag":"W/\"9732ae98afba97a94c8e3b8954bc635c\"","Id":"SoftwareInventory","Description":"SoftwareInventory schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"9732ae98afba97a94c8e3b8954bc635c\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SoftwareInventory",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SoftwareInventory schema information",
+    "Id": "SoftwareInventory",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SoftwareInventory.json"
+        }
+    ],
+    "Name": "SoftwareInventory JSON Schema File",
+    "Schema": "#SoftwareInventory.SoftwareInventory"
+}

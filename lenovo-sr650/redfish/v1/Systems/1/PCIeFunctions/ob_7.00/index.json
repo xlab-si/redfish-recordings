@@ -1,1 +1,22 @@
-{"FunctionType":"Physical","@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/ob_7.00","Status":{"State":"Enabled","Health":"OK"},"Links":{"Drives":[],"StorageControllers":[],"PCIeDevice":{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/ob_7"},"EthernetInterfaces":[]},"Name":"Adapter 00:11:00","@odata.context":"/redfish/v1/$metadata#PCIeFunction.PCIeFunction","@odata.type":"#PCIeFunction.v1_1_0.PCIeFunction","@odata.etag":"W/\"ef28d5eec094b3a8cb49bff51307c600\"","Id":"ob_7.00","Description":"This resource represents the properties of a PCIeFunction attached to a System."}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeFunction.PCIeFunction",
+    "@odata.etag": "W/\"ef28d5eec094b3a8cb49bff51307c600\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/ob_7.00",
+    "@odata.type": "#PCIeFunction.v1_1_0.PCIeFunction",
+    "Description": "This resource represents the properties of a PCIeFunction attached to a System.",
+    "FunctionType": "Physical",
+    "Id": "ob_7.00",
+    "Links": {
+        "Drives": [],
+        "EthernetInterfaces": [],
+        "PCIeDevice": {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/ob_7"
+        },
+        "StorageControllers": []
+    },
+    "Name": "Adapter 00:11:00",
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

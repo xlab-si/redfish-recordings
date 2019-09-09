@@ -1,1 +1,31 @@
-{"VendorId":"0x8086","@odata.id":"/redfish/v1/Systems/1/PCIeFunctions/slot_1.00","Links":{"Drives":[],"StorageControllers":[],"PCIeDevice":{"@odata.id":"/redfish/v1/Systems/1/PCIeDevices/slot_1"},"EthernetInterfaces":[]},"FunctionId":0,"RevisionId":"0x09","Description":"This resource represents the properties of a PCIeFunction attached to a System.","FunctionType":"Physical","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"DeviceClass":"Other","Name":"ThinkSystem RAID 930-24i 4GB Flash 30:00:00","SubsystemVendorId":"0x17aa","SubsystemId":"0x7800","@odata.type":"#PCIeFunction.v1_1_0.PCIeFunction","DeviceId":"0xa1ec","@odata.context":"/redfish/v1/$metadata#PCIeFunction.PCIeFunction","@odata.etag":"W/\"0e16de8cc7f7a1b55e179a021c26b13b\"","Id":"slot_1.00","ClassCode":"0xff0000"}
+{
+    "@odata.context": "/redfish/v1/$metadata#PCIeFunction.PCIeFunction",
+    "@odata.etag": "W/\"0e16de8cc7f7a1b55e179a021c26b13b\"",
+    "@odata.id": "/redfish/v1/Systems/1/PCIeFunctions/slot_1.00",
+    "@odata.type": "#PCIeFunction.v1_1_0.PCIeFunction",
+    "ClassCode": "0xff0000",
+    "Description": "This resource represents the properties of a PCIeFunction attached to a System.",
+    "DeviceClass": "Other",
+    "DeviceId": "0xa1ec",
+    "FunctionId": 0,
+    "FunctionType": "Physical",
+    "Id": "slot_1.00",
+    "Links": {
+        "Drives": [],
+        "EthernetInterfaces": [],
+        "PCIeDevice": {
+            "@odata.id": "/redfish/v1/Systems/1/PCIeDevices/slot_1"
+        },
+        "StorageControllers": []
+    },
+    "Name": "ThinkSystem RAID 930-24i 4GB Flash 30:00:00",
+    "RevisionId": "0x09",
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    },
+    "SubsystemId": "0x7800",
+    "SubsystemVendorId": "0x17aa",
+    "VendorId": "0x8086"
+}

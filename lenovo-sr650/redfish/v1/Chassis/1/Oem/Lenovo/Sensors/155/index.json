@@ -1,1 +1,22 @@
-{"Id":"155","EntityInstance":1,"Assertion":"Assert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"d617b7200c2c766cb65fd361bac18ae7\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/155","State":32769,"SensorNumber":155,"Name":"Pwr Rail DEF Err","OwnerID":16,"SensorTypeNumber":2,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":7,"Reading":0,"BaseUnit":"0","ReadingType":7,"SensorType":"Voltage"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"d617b7200c2c766cb65fd361bac18ae7\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/155",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Assert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 7,
+    "EntityInstance": 1,
+    "Id": "155",
+    "Name": "Pwr Rail DEF Err",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 7,
+    "RecordType": 2,
+    "SensorNumber": 155,
+    "SensorType": "Voltage",
+    "SensorTypeNumber": 2,
+    "State": 32769
+}

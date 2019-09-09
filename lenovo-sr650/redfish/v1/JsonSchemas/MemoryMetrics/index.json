@@ -1,1 +1,19 @@
-{"Schema":"#MemoryMetrics.MemoryMetrics","@odata.id":"/redfish/v1/JsonSchemas/MemoryMetrics","Name":"MemoryMetrics JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/MemoryMetrics.json","Language":"en"}],"@odata.etag":"W/\"73e800839d510effe09e57493d0f5ca5\"","Id":"MemoryMetrics","Description":"MemoryMetrics schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"73e800839d510effe09e57493d0f5ca5\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/MemoryMetrics",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "MemoryMetrics schema information",
+    "Id": "MemoryMetrics",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/MemoryMetrics.json"
+        }
+    ],
+    "Name": "MemoryMetrics JSON Schema File",
+    "Schema": "#MemoryMetrics.MemoryMetrics"
+}

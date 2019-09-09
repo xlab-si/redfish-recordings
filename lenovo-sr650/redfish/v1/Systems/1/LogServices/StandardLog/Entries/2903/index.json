@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"e683c2b2e06d6c73817a848020eb4a4a\"","MessageArgs":["ThinkSystem SR650"],"Id":"2903","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2903","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"Hot Spare enabled for ThinkSystem SR650.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":false,"EventID":"0x806f030d0410ffff","EventSequenceNumber":277,"EventType":0,"LenovoMessageID":"PLAT0170","Serviceable":"Not Serviceable","CommonEventID":"FQXSPSD0003I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-25T12:39:44.179+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"e683c2b2e06d6c73817a848020eb4a4a\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/2903",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-25T12:39:44.179+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "2903",
+    "Message": "Hot Spare enabled for ThinkSystem SR650.",
+    "MessageArgs": [
+        "ThinkSystem SR650"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPSD0003I",
+            "EventFlag": 0,
+            "EventID": "0x806f030d0410ffff",
+            "EventSequenceNumber": 277,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": false,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0170",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

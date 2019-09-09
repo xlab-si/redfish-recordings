@@ -1,1 +1,22 @@
-{"Id":"210","EntityInstance":129,"Assertion":"Assert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"163815d58d7727fe8cf318b6350a9cf1\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/210","State":32776,"SensorNumber":210,"Name":"Power Resource","OwnerID":16,"SensorTypeNumber":9,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":19,"Reading":0,"BaseUnit":"0","ReadingType":11,"SensorType":"Power Unit"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"163815d58d7727fe8cf318b6350a9cf1\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/210",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Assert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 19,
+    "EntityInstance": 129,
+    "Id": "210",
+    "Name": "Power Resource",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 11,
+    "RecordType": 2,
+    "SensorNumber": 210,
+    "SensorType": "Power Unit",
+    "SensorTypeNumber": 9,
+    "State": 32776
+}

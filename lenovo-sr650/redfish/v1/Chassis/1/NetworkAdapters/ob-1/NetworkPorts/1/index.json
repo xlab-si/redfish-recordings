@@ -1,1 +1,29 @@
-{"AssociatedNetworkAddresses":["7CD30A54F020"],"NetDevFuncMaxBWAlloc":[{"NetworkDeviceFunction":{"@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkDeviceFunctions/1.1"},"MaxBWAllocPercent":2147483}],"Id":"1","Status":{"State":"Enabled","Health":"OK","HealthRollup":"OK"},"Name":"Phyical Port 1","@odata.context":"/redfish/v1/$metadata#NetworkPort.NetworkPort","@odata.etag":"W/\"e1b32ce982631ce329e848903ec628b4\"","@odata.id":"/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/1","@odata.type":"#NetworkPort.v1_1_0.NetworkPort","Description":"A Network Port represents a discrete physical port capable of connecting to a network.","PortMaximumMTU":12000,"ActiveLinkTechnology":"Ethernet","LinkStatus":"Up","PhysicalPortNumber":"1"}
+{
+    "@odata.context": "/redfish/v1/$metadata#NetworkPort.NetworkPort",
+    "@odata.etag": "W/\"e1b32ce982631ce329e848903ec628b4\"",
+    "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkPorts/1",
+    "@odata.type": "#NetworkPort.v1_1_0.NetworkPort",
+    "ActiveLinkTechnology": "Ethernet",
+    "AssociatedNetworkAddresses": [
+        "7CD30A54F020"
+    ],
+    "Description": "A Network Port represents a discrete physical port capable of connecting to a network.",
+    "Id": "1",
+    "LinkStatus": "Up",
+    "Name": "Phyical Port 1",
+    "NetDevFuncMaxBWAlloc": [
+        {
+            "MaxBWAllocPercent": 2147483,
+            "NetworkDeviceFunction": {
+                "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters/ob-1/NetworkDeviceFunctions/1.1"
+            }
+        }
+    ],
+    "PhysicalPortNumber": "1",
+    "PortMaximumMTU": 12000,
+    "Status": {
+        "Health": "OK",
+        "HealthRollup": "OK",
+        "State": "Enabled"
+    }
+}

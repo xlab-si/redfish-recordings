@@ -1,1 +1,19 @@
-{"Schema":"#SimpleStorageCollection.SimpleStorageCollection","@odata.id":"/redfish/v1/JsonSchemas/SimpleStorageCollection","Name":"SimpleStorageCollection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SimpleStorageCollection.json","Language":"en"}],"@odata.etag":"W/\"3ad9e67c0df62a84f24729c829962059\"","Id":"SimpleStorageCollection","Description":"SimpleStorageCollection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"3ad9e67c0df62a84f24729c829962059\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SimpleStorageCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "SimpleStorageCollection schema information",
+    "Id": "SimpleStorageCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SimpleStorageCollection.json"
+        }
+    ],
+    "Name": "SimpleStorageCollection JSON Schema File",
+    "Schema": "#SimpleStorageCollection.SimpleStorageCollection"
+}

@@ -1,1 +1,16 @@
-{"GlobalSettings":{"RetryCount":5,"RetryInterval":0.5,"RntryRetryInterval":0.5},"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/Recipients/","Members@odata.navigationLink":"/redfish/v1/Managers/1/Oem/Lenovo/Recipients/Members","@odata.context":"/redfish/v1/$metadata#LenovoAlertRecipientCollection.LenovoAlertRecipientCollection","Members":[],"@odata.type":"#LenovoAlertRecipientCollection.LenovoAlertRecipientCollection","Members@odata.count":0,"@odata.etag":"W/\"8d18691c79c735f057f0ddb7cd43e664\"","Name":"LenovoAlertRecipientCollection","Description":"A Collection of AlertRecipient resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoAlertRecipientCollection.LenovoAlertRecipientCollection",
+    "@odata.etag": "W/\"8d18691c79c735f057f0ddb7cd43e664\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/Recipients/",
+    "@odata.type": "#LenovoAlertRecipientCollection.LenovoAlertRecipientCollection",
+    "Description": "A Collection of AlertRecipient resource instances.",
+    "GlobalSettings": {
+        "RetryCount": 5,
+        "RetryInterval": 0.5,
+        "RntryRetryInterval": 0.5
+    },
+    "Members": [],
+    "Members@odata.count": 0,
+    "Members@odata.navigationLink": "/redfish/v1/Managers/1/Oem/Lenovo/Recipients/Members",
+    "Name": "LenovoAlertRecipientCollection"
+}

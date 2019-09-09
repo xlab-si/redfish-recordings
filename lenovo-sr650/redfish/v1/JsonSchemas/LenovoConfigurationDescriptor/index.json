@@ -1,1 +1,19 @@
-{"Schema":"#LenovoConfigurationDescriptor.LenovoConfigurationDescriptor","@odata.id":"/redfish/v1/JsonSchemas/LenovoConfigurationDescriptor","Name":"LenovoConfigurationDescriptor JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoConfigurationDescriptor.json","Language":"en"}],"@odata.etag":"W/\"6b1899e417478efceb6166068b7aa74d\"","Id":"LenovoConfigurationDescriptor","Description":"LenovoConfigurationDescriptor schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"6b1899e417478efceb6166068b7aa74d\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoConfigurationDescriptor",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoConfigurationDescriptor schema information",
+    "Id": "LenovoConfigurationDescriptor",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoConfigurationDescriptor.json"
+        }
+    ],
+    "Name": "LenovoConfigurationDescriptor JSON Schema File",
+    "Schema": "#LenovoConfigurationDescriptor.LenovoConfigurationDescriptor"
+}

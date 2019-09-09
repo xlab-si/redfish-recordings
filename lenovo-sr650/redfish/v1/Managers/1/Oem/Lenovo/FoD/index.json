@@ -1,1 +1,11 @@
-{"@odata.context":"/redfish/v1/$metadata#LenovoFoDService.LenovoFoDService","Keys":{"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/FoD/Keys/"},"@odata.id":"/redfish/v1/Managers/1/Oem/Lenovo/FoD/","@odata.type":"#LenovoFoDService.v1_0_0.LenovoFoDService","@odata.etag":"W/\"63e29a7da78734520fba19932b3671e8\"","Tier":"Tier3","Description":"This resource is used to represent a FoD service for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoFoDService.LenovoFoDService",
+    "@odata.etag": "W/\"63e29a7da78734520fba19932b3671e8\"",
+    "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/FoD/",
+    "@odata.type": "#LenovoFoDService.v1_0_0.LenovoFoDService",
+    "Description": "This resource is used to represent a FoD service for a Redfish implementation.",
+    "Keys": {
+        "@odata.id": "/redfish/v1/Managers/1/Oem/Lenovo/FoD/Keys/"
+    },
+    "Tier": "Tier3"
+}

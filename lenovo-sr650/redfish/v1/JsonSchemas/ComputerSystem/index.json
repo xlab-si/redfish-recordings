@@ -1,1 +1,19 @@
-{"Schema":"#ComputerSystem.ComputerSystem","@odata.id":"/redfish/v1/JsonSchemas/ComputerSystem","Name":"ComputerSystem JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/ComputerSystem.json","Language":"en"}],"@odata.etag":"W/\"d9e1ad21486ceac53739ab2cbfb088b1\"","Id":"ComputerSystem","Description":"ComputerSystem schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"d9e1ad21486ceac53739ab2cbfb088b1\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/ComputerSystem",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "ComputerSystem schema information",
+    "Id": "ComputerSystem",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/ComputerSystem.json"
+        }
+    ],
+    "Name": "ComputerSystem JSON Schema File",
+    "Schema": "#ComputerSystem.ComputerSystem"
+}

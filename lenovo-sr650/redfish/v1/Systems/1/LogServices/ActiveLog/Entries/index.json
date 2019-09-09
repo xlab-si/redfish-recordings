@@ -1,1 +1,74 @@
-{"@odata.id":"/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/","Members@odata.count":2,"@odata.context":"/redfish/v1/$metadata#LogEntryCollection.LogEntryCollection","Members":[{"MessageArgs":["Power Supply 1"],"Id":"985","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","@odata.id":"/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/985","Oem":{"Lenovo":{"RelatedEventID":"","IsLocalEvent":true,"EventID":"0x806F03080A01FFFF","EventFlag":0,"EventType":0,"Source":"Power","LenovoMessageID":"PLAT0100","RawDebugLogURL":"","ReportingChain":"XCC","TSLVersion":"16","CommonEventID":"FQXSPPW0006I"}},"@odata.type":"#LogEntry.v1_1_0.LogEntry","OemRecordFormat":"Lenovo","Message":"Power Supply 1 has lost input.","Severity":"Warning","Created":"2018-05-08T10:34:21.423+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."},{"MessageArgs":["Power Resource"],"Id":"986","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","@odata.id":"/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/986","Oem":{"Lenovo":{"RelatedEventID":"","IsLocalEvent":true,"EventID":"0x800B03091381FFFF","EventFlag":0,"EventType":0,"Source":"Power","LenovoMessageID":"PLAT0806","RawDebugLogURL":"","ReportingChain":"XCC","TSLVersion":"16","CommonEventID":"FQXSPPW0104J"}},"@odata.type":"#LogEntry.v1_1_0.LogEntry","OemRecordFormat":"Lenovo","Message":"Non-redundant:Sufficient Resources from Redundancy Degraded or Fully Redundant for Power Resource has asserted.","Severity":"Warning","Created":"2018-05-08T10:34:32.116+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}],"@odata.type":"#LogEntryCollection.LogEntryCollection","Name":"LogEntryActiveLogEntryCollection","@odata.etag":"W/\"68d6871b47fc9c725a907ce5c36ae59d\"","Members@odata.navigationLink":"/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/Members","Description":"A Collection of LogEntryActiveLogEntry resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntryCollection.LogEntryCollection",
+    "@odata.etag": "W/\"68d6871b47fc9c725a907ce5c36ae59d\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/",
+    "@odata.type": "#LogEntryCollection.LogEntryCollection",
+    "Description": "A Collection of LogEntryActiveLogEntry resource instances.",
+    "Members": [
+        {
+            "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+            "@odata.id": "/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/985",
+            "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+            "Created": "2018-05-08T10:34:21.423+00:00",
+            "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+            "EntryType": "Oem",
+            "Id": "985",
+            "Message": "Power Supply 1 has lost input.",
+            "MessageArgs": [
+                "Power Supply 1"
+            ],
+            "Name": "LogEntry",
+            "Oem": {
+                "Lenovo": {
+                    "CommonEventID": "FQXSPPW0006I",
+                    "EventFlag": 0,
+                    "EventID": "0x806F03080A01FFFF",
+                    "EventType": 0,
+                    "IsLocalEvent": true,
+                    "LenovoMessageID": "PLAT0100",
+                    "RawDebugLogURL": "",
+                    "RelatedEventID": "",
+                    "ReportingChain": "XCC",
+                    "Source": "Power",
+                    "TSLVersion": "16"
+                }
+            },
+            "OemRecordFormat": "Lenovo",
+            "Severity": "Warning"
+        },
+        {
+            "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+            "@odata.id": "/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/986",
+            "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+            "Created": "2018-05-08T10:34:32.116+00:00",
+            "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+            "EntryType": "Oem",
+            "Id": "986",
+            "Message": "Non-redundant:Sufficient Resources from Redundancy Degraded or Fully Redundant for Power Resource has asserted.",
+            "MessageArgs": [
+                "Power Resource"
+            ],
+            "Name": "LogEntry",
+            "Oem": {
+                "Lenovo": {
+                    "CommonEventID": "FQXSPPW0104J",
+                    "EventFlag": 0,
+                    "EventID": "0x800B03091381FFFF",
+                    "EventType": 0,
+                    "IsLocalEvent": true,
+                    "LenovoMessageID": "PLAT0806",
+                    "RawDebugLogURL": "",
+                    "RelatedEventID": "",
+                    "ReportingChain": "XCC",
+                    "Source": "Power",
+                    "TSLVersion": "16"
+                }
+            },
+            "OemRecordFormat": "Lenovo",
+            "Severity": "Warning"
+        }
+    ],
+    "Members@odata.count": 2,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/1/LogServices/ActiveLog/Entries/Members",
+    "Name": "LogEntryActiveLogEntryCollection"
+}

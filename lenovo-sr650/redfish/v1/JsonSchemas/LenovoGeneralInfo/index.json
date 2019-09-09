@@ -1,1 +1,19 @@
-{"Schema":"#LenovoGeneralInfo.LenovoGeneralInfo","@odata.id":"/redfish/v1/JsonSchemas/LenovoGeneralInfo","Name":"LenovoGeneralInfo JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoGeneralInfo.json","Language":"en"}],"@odata.etag":"W/\"e907ad5497f64937155bd3bdf65d5344\"","Id":"LenovoGeneralInfo","Description":"LenovoGeneralInfo schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"e907ad5497f64937155bd3bdf65d5344\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoGeneralInfo",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoGeneralInfo schema information",
+    "Id": "LenovoGeneralInfo",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoGeneralInfo.json"
+        }
+    ],
+    "Name": "LenovoGeneralInfo JSON Schema File",
+    "Schema": "#LenovoGeneralInfo.LenovoGeneralInfo"
+}

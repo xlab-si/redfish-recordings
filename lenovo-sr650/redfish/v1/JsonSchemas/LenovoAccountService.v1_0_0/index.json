@@ -1,1 +1,19 @@
-{"Schema":"#LenovoAccountService.v1_0_0.LenovoAccountServiceProperties","@odata.id":"/redfish/v1/JsonSchemas/LenovoAccountService.v1_0_0","Name":"LenovoAccountService JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/LenovoAccountService.v1_0_0.json","Language":"en"}],"@odata.etag":"W/\"920a87a744b3d64e97963dfba565cd28\"","Id":"LenovoAccountService.v1_0_0","Description":"LenovoAccountService schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"920a87a744b3d64e97963dfba565cd28\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/LenovoAccountService.v1_0_0",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "LenovoAccountService schema information",
+    "Id": "LenovoAccountService.v1_0_0",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/LenovoAccountService.v1_0_0.json"
+        }
+    ],
+    "Name": "LenovoAccountService JSON Schema File",
+    "Schema": "#LenovoAccountService.v1_0_0.LenovoAccountServiceProperties"
+}

@@ -1,1 +1,19 @@
-{"Schema":"#SessionCollection.SessionCollection","@odata.id":"/redfish/v1/JsonSchemas/SessionCollection","Name":"Session Collection JSON Schema File","@odata.context":"/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile","Languages":["en"],"@odata.type":"#JsonSchemaFile.v1_1_0.JsonSchemaFile","Location":[{"Uri":"/redfish/v1/schemas/SessionCollection.json","Language":"en"}],"@odata.etag":"W/\"6a39a94c92425b9cf50c0e1501263809\"","Id":"SessionCollection","Description":"Session Collection schema information"}
+{
+    "@odata.context": "/redfish/v1/$metadata#JsonSchemaFile.JsonSchemaFile",
+    "@odata.etag": "W/\"6a39a94c92425b9cf50c0e1501263809\"",
+    "@odata.id": "/redfish/v1/JsonSchemas/SessionCollection",
+    "@odata.type": "#JsonSchemaFile.v1_1_0.JsonSchemaFile",
+    "Description": "Session Collection schema information",
+    "Id": "SessionCollection",
+    "Languages": [
+        "en"
+    ],
+    "Location": [
+        {
+            "Language": "en",
+            "Uri": "/redfish/v1/schemas/SessionCollection.json"
+        }
+    ],
+    "Name": "Session Collection JSON Schema File",
+    "Schema": "#SessionCollection.SessionCollection"
+}

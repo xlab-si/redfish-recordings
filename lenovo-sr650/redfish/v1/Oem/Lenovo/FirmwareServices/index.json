@@ -1,1 +1,36 @@
-{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/","Members@odata.count":8,"@odata.context":"/redfish/v1/$metadata#LenovoFirmwareServiceCollection.LenovoFirmwareServiceCollection","Members":[{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/BMC"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/LXPM"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMLinuxDrivers"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/PLDM"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL"},{"@odata.id":"/redfish/v1/Oem/Lenovo/FirmwareServices/Disk"}],"@odata.type":"#LenovoFirmwareServiceCollection.LenovoFirmwareServiceCollection","Members@odata.navigationLink":"/redfish/v1/Oem/Lenovo/FirmwareServices/Members","@odata.etag":"W/\"685dde63ad5b6611266452673348b760\"","Name":"LenovoFirmwareServiceCollection","Description":"A Collection of FirmwareService resource instances."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoFirmwareServiceCollection.LenovoFirmwareServiceCollection",
+    "@odata.etag": "W/\"685dde63ad5b6611266452673348b760\"",
+    "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/",
+    "@odata.type": "#LenovoFirmwareServiceCollection.LenovoFirmwareServiceCollection",
+    "Description": "A Collection of FirmwareService resource instances.",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/BMC"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/UEFI"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/LXPM"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMWindowsDrivers"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/LXPMLinuxDrivers"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/PLDM"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/BAREMETAL"
+        },
+        {
+            "@odata.id": "/redfish/v1/Oem/Lenovo/FirmwareServices/Disk"
+        }
+    ],
+    "Members@odata.count": 8,
+    "Members@odata.navigationLink": "/redfish/v1/Oem/Lenovo/FirmwareServices/Members",
+    "Name": "LenovoFirmwareServiceCollection"
+}

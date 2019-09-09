@@ -1,1 +1,43 @@
-{"@odata.etag":"W/\"2bd92fb2f66c7d65bcde9da61bc86207\"","MessageArgs":["ThinkSystem SR650"],"Id":"1642","@odata.id":"/redfish/v1/Systems/1/LogServices/StandardLog/Entries/1642","EntryType":"Oem","Name":"LogEntry","@odata.context":"/redfish/v1/$metadata#LogEntry.LogEntry","Message":"The System ThinkSystem SR650 encountered firmware progress.","Oem":{"Lenovo":{"ReportingChain":"XCC","IsLocalEvent":true,"RawDebugLogURL":"","AffectedIndicatorLEDs":[],"EventFlag":0,"AuxiliaryData":"","Source":"System","FailingFRU":[{"FRUSerialNumber":"","FRUNumber":""}],"TSLVersion":"16","RelatedEventID":"","Hidden":true,"EventID":"0x806f020f220113ff","EventSequenceNumber":248,"EventType":0,"LenovoMessageID":"PLAT0188","Serviceable":"Not Serviceable","CommonEventID":"FQXSPFW0003I"}},"OemRecordFormat":"Lenovo","@odata.type":"#LogEntry.v1_1_0.LogEntry","Severity":"OK","Created":"2018-05-15T13:43:37.788+00:00","Description":"This resource is used to represent a log entry for log services for a Redfish implementation."}
+{
+    "@odata.context": "/redfish/v1/$metadata#LogEntry.LogEntry",
+    "@odata.etag": "W/\"2bd92fb2f66c7d65bcde9da61bc86207\"",
+    "@odata.id": "/redfish/v1/Systems/1/LogServices/StandardLog/Entries/1642",
+    "@odata.type": "#LogEntry.v1_1_0.LogEntry",
+    "Created": "2018-05-15T13:43:37.788+00:00",
+    "Description": "This resource is used to represent a log entry for log services for a Redfish implementation.",
+    "EntryType": "Oem",
+    "Id": "1642",
+    "Message": "The System ThinkSystem SR650 encountered firmware progress.",
+    "MessageArgs": [
+        "ThinkSystem SR650"
+    ],
+    "Name": "LogEntry",
+    "Oem": {
+        "Lenovo": {
+            "AffectedIndicatorLEDs": [],
+            "AuxiliaryData": "",
+            "CommonEventID": "FQXSPFW0003I",
+            "EventFlag": 0,
+            "EventID": "0x806f020f220113ff",
+            "EventSequenceNumber": 248,
+            "EventType": 0,
+            "FailingFRU": [
+                {
+                    "FRUNumber": "",
+                    "FRUSerialNumber": ""
+                }
+            ],
+            "Hidden": true,
+            "IsLocalEvent": true,
+            "LenovoMessageID": "PLAT0188",
+            "RawDebugLogURL": "",
+            "RelatedEventID": "",
+            "ReportingChain": "XCC",
+            "Serviceable": "Not Serviceable",
+            "Source": "System",
+            "TSLVersion": "16"
+        }
+    },
+    "OemRecordFormat": "Lenovo",
+    "Severity": "OK"
+}

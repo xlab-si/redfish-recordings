@@ -1,1 +1,22 @@
-{"Id":"5","EntityInstance":129,"Assertion":"Deassert","OwnerLUN":0,"RecordType":2,"@odata.etag":"W/\"97c8755fe1a711bedb94918e2a0a00cb\"","@odata.context":"/redfish/v1/$metadata#LenovoSensor.LenovoSensor","@odata.id":"/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/5","State":32768,"SensorNumber":5,"Name":"All DIMMs","OwnerID":16,"SensorTypeNumber":12,"Description":"This resource is used to represent a sensor for a Redfish implementation.","@odata.type":"#LenovoSensor.v1_0_0.LenovoSensor","EntityID":37,"Reading":0,"BaseUnit":"0","ReadingType":111,"SensorType":"Memory"}
+{
+    "@odata.context": "/redfish/v1/$metadata#LenovoSensor.LenovoSensor",
+    "@odata.etag": "W/\"97c8755fe1a711bedb94918e2a0a00cb\"",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Lenovo/Sensors/5",
+    "@odata.type": "#LenovoSensor.v1_0_0.LenovoSensor",
+    "Assertion": "Deassert",
+    "BaseUnit": "0",
+    "Description": "This resource is used to represent a sensor for a Redfish implementation.",
+    "EntityID": 37,
+    "EntityInstance": 129,
+    "Id": "5",
+    "Name": "All DIMMs",
+    "OwnerID": 16,
+    "OwnerLUN": 0,
+    "Reading": 0,
+    "ReadingType": 111,
+    "RecordType": 2,
+    "SensorNumber": 5,
+    "SensorType": "Memory",
+    "SensorTypeNumber": 12,
+    "State": 32768
+}
