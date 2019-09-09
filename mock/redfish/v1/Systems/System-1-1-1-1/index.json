@@ -26,9 +26,22 @@
     ],
     "BootSourceOverrideMode": "Legacy",
     "BootSourceOverrideTarget": "Hdd",
+    "BootSourceOverrideTarget@Redfish.AllowableValues": [
+      "None",
+      "Pxe",
+      "Cd",
+      "Usb",
+      "Hdd",
+      "BiosSetup",
+      "Diags",
+      "UefiTarget"
+    ],
     "UefiTargetBootSourceOverride": null
   },
   "Description": "G5 Computer System Node",
+  "EthernetInterfaces": {
+    "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/EthernetInterfaces"
+  },
   "Id": "System-1-1-1-1",
   "IndicatorLED": "Off",
   "Links": {
@@ -51,7 +64,7 @@
   "NetworkInterfaces": {
     "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/NetworkInterfaces"
   },
-  "PowerState": "PoweringOn",
+  "PowerState": "On",
   "ProcessorSummary": {
     "Count": 2,
     "Model": "",

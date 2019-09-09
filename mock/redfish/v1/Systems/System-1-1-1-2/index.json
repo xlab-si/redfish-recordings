@@ -12,7 +12,26 @@
       "target": "/redfish/v1/Systems/System-1-1-1-2/Actions/ComputerSystem.Reset"
     }
   },
+  "Boot": {
+    "BootSourceOverrideEnabled": "Disabled",
+    "BootSourceOverrideMode": "Legacy",
+    "BootSourceOverrideTarget": "None",
+    "BootSourceOverrideTarget@Redfish.AllowableValues": [
+      "None",
+      "Pxe",
+      "Cd",
+      "Usb",
+      "Hdd",
+      "BiosSetup",
+      "Diags",
+      "UefiTarget"
+    ],
+    "UefiTargetBootSourceOverride": null
+  },
   "Description": "G5 Computer System Node",
+  "EthernetInterfaces": {
+    "@odata.id": "/redfish/v1/Systems/System-1-1-1-2/EthernetInterfaces"
+  },
   "Id": "System-1-1-1-2",
   "IndicatorLED": "On",
   "Links": {

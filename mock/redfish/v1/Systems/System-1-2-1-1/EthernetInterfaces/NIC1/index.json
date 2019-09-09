@@ -1,0 +1,20 @@
+{
+    "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/EthernetInterfaces/NIC1",
+    "Description": "External Network Interface",
+    "Id": "NIC1",
+    "InterfaceEnabled": true,
+    "LinkStatus": "LinkUp",
+    "Links": {
+        "Chassis": {
+            "@odata.id": "/redfish/v1/Chassis/1"
+        }
+    },
+    "MACAddress": "AB:CD:EF:01:24:11",
+    "Name": "External Ethernet Interface",
+    "PermanentMACAddress": "AB:CD:EF:01:24:11",
+    "SpeedMbps": 1000,
+    "Status": {
+        "Health": "OK",
+        "State": "Enabled"
+    }
+}

@@ -13,6 +13,25 @@
       "target": "/redfish/v1/Systems/System-1-2-1-1/Actions/ComputerSystem.Reset"
     }
   },
+  "Boot": {
+    "BootSourceOverrideEnabled": "Disabled",
+    "BootSourceOverrideMode": "Legacy",
+    "BootSourceOverrideTarget": "None",
+    "BootSourceOverrideTarget@Redfish.AllowableValues": [
+      "None",
+      "Pxe",
+      "Cd",
+      "Usb",
+      "Hdd",
+      "BiosSetup",
+      "Diags",
+      "UefiTarget"
+    ],
+    "UefiTargetBootSourceOverride": null
+  },
+  "EthernetInterfaces": {
+    "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/EthernetInterfaces"
+  },
   "HostName": "hostname.example.com",
   "Id": "System-1-2-1-1",
   "IndicatorLED": "Blinking",

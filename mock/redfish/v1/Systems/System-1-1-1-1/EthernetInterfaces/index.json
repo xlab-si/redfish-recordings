@@ -1,0 +1,10 @@
+{
+    "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/EthernetInterfaces",
+    "Members": [
+        {
+            "@odata.id": "/redfish/v1/Systems/System-1-1-1-1/EthernetInterfaces/NIC1"
+        }
+    ],
+    "Members@odata.count": 1,
+    "Members@odata.navigationLink": "/redfish/v1/Systems/System-1-1-1-1/EthernetInterfaces/Members"
+}
