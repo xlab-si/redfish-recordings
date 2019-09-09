@@ -2,20 +2,12 @@
   "@odata.id": "/redfish/v1/Systems/System-1-2-1-1/Processors/CPU.Socket.1",
   "Description": "Represents the properties of a Processor attached to this System",
   "Id": "CPU.Socket.1",
-  "InstructionSet": [
-    {
-      "Member": "x86-64"
-    }
-  ],
+  "InstructionSet": "x86-64",
   "Manufacturer": "Intel",
   "MaxSpeedMHz": 4000,
   "Model": "",
   "Name": "CPU 1",
-  "ProcessorArchitecture": [
-    {
-      "Member": "x86"
-    }
-  ],
+  "ProcessorArchitecture": "x86",
   "ProcessorId": {
     "EffectiveFamily": "6",
     "EffectiveModel": "85",
