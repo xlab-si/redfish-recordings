@@ -1,5 +1,13 @@
 {
   "@odata.id": "/redfish/v1/UpdateService",
+  "Actions": {
+    "#UpdateService.SimpleUpdate": {
+      "TransferProtocol@Redfish.AllowableValues": [
+        "HTTP"
+      ],
+      "target": "/redfish/v1/UpdateService/Actions/UpdateService.SimpleUpdate"
+    }
+  },
   "FirmwareInventory": {
     "@odata.id": "/redfish/v1/UpdateService/FirmwareInventory"
   },

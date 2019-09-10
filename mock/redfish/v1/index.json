@@ -19,6 +19,9 @@
   "Systems": {
     "@odata.id": "/redfish/v1/Systems"
   },
+  "Tasks": {
+    "@odata.id": "/redfish/v1/TaskService"
+  },
   "UpdateService": {
     "@odata.id": "/redfish/v1/UpdateService"
   }
