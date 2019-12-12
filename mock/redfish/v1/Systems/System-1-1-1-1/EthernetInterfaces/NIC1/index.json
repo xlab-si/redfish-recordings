@@ -6,7 +6,7 @@
     "LinkStatus": "LinkUp",
     "Links": {
         "Chassis": {
-            "@odata.id": "/redfish/v1/Chassis/1"
+            "@odata.id": "/redfish/v1/Chassis/Sled-1-1-1"
         }
     },
     "MACAddress": "AB:CD:EF:01:23:45",
